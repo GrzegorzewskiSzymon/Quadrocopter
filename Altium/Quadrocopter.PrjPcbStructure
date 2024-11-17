@@ -1,6 +1,7 @@
 Record=TopLevelDocument|FileName=BMS.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=Cell_Balancing.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=ESC.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=IMU.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=MCU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=NRF24l01.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=RF.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=USB.SchDoc|SheetNumber=5
