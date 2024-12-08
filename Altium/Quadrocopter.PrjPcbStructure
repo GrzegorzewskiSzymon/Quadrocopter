@@ -1,8 +1,11 @@
-Record=TopLevelDocument|FileName=RF.SchDoc|SheetNumber=6
-Record=SheetSymbol|SourceDocument=RF.SchDoc|Designator=U_NRF24l01|SchDesignator=U_NRF24l01|FileName=NRF24l01.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=NRF24l01.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=RF.SchDoc|FileName=BMS.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=RF.SchDoc|FileName=ESC.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=RF.SchDoc|FileName=IMU.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=RF.SchDoc|FileName=MCU.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=RF.SchDoc|FileName=PSU.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=RF.SchDoc|FileName=USB.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_PDN|SchDesignator=U_PDN|FileName=PDN.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PDN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PDN.SchDoc|Designator=U_BMS|SchDesignator=U_BMS|FileName=BMS.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=BMS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PDN.SchDoc|Designator=U_PSU|SchDesignator=U_PSU|FileName=PSU.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=PSU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=ESC.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=IMU.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=NRF24l01.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=RF.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=ToF.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=USB.SchDoc|SheetNumber=8
