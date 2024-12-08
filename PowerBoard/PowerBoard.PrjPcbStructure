@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=BMS.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=ESC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BMS.SchDoc|FileName=USB.SchDoc|SheetNumber=4

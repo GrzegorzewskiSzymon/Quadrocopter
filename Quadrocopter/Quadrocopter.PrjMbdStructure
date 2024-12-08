@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=Quadrocopter.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\PowerBoard\PowerBoard.PrjPcb
+Record=SubProject|SourceDocument=Quadrocopter.MbsDoc|ProjectPath=..\PowerBoard\PowerBoard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Quadrocopter.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=FlightController.PrjPcb
+Record=SubProject|SourceDocument=Quadrocopter.MbsDoc|ProjectPath=FlightController.PrjPcb
