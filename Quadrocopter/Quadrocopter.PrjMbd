@@ -86,6 +86,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=FlightController.PrjPcb
+VaultURL=
+VaultName=
 
 [Document3]
 DocumentPath=..\PowerBoard\PowerBoard.PrjPcb
@@ -107,6 +109,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=PowerBoard.PrjPcb
+VaultURL=
+VaultName=
 
 [Document4]
 DocumentPath=..\ToF\ToF.PrjPcb
@@ -128,6 +132,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=ToF.PrjPcb
+VaultURL=
+VaultName=
 
 [OutputGroup1]
 Name=Netlist Outputs
