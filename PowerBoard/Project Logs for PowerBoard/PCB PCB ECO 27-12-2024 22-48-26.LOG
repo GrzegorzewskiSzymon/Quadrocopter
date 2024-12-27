@@ -1,0 +1,29 @@
+Added Component: Designator=J2(USB405603A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.jp/datasheet/2/837/usb4056-2448808.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.56mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "GCT (GLOBAL CONNECTOR TECHNOLOGY)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USB4056-03-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "640-USB4056-03-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/GCT/USB4056-03-A?qs=QNEnbhJQKvbZ7hZzgFEugA%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C8-
+Added Pin To Net: NetName=GND Pin=J2-A1
+Added Pin To Net: NetName=VBUS Pin=J2-A4
+Added Pin To Net: NetName=NetC58_2 Pin=J2-A5
+Added Pin To Net: NetName=D+ Pin=J2-A6
+Added Pin To Net: NetName=D- Pin=J2-A7
+Added Pin To Net: NetName=VBUS Pin=J2-A9
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=GND Pin=J2-B1
+Added Pin To Net: NetName=VBUS Pin=J2-B4
+Added Pin To Net: NetName=NetC59_2 Pin=J2-B5
+Added Pin To Net: NetName=D+ Pin=J2-B6
+Added Pin To Net: NetName=D- Pin=J2-B7
+Added Pin To Net: NetName=VBUS Pin=J2-B9
+Added Pin To Net: NetName=GND Pin=J2-B12
+Added Pin To Net: NetName=GND Pin=J2-MH1
+Added Pin To Net: NetName=GND Pin=J2-MH2
+Added Pin To Net: NetName=GND Pin=J2-MH3
+Added Pin To Net: NetName=GND Pin=J2-MH4
+Added Member To Class: ClassName=U_USB Member=Component J2 USB4056-03-A

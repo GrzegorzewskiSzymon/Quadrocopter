@@ -1,0 +1,19 @@
+Added Component: Designator=Q9(SIS862DNT1GE3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SISA01DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sisa01dn-t1-ge3/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/76198/sisa01dn.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SISA01DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "78-SISA01DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SISA01DN-T1-GE3?qs=chTDxNqvsymq6IcOj9ze4g%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C8-
+Added Pin To Net: NetName=VSYS Pin=Q9-1
+Added Pin To Net: NetName=VSYS Pin=Q9-2
+Added Pin To Net: NetName=VSYS Pin=Q9-3
+Added Pin To Net: NetName=NetIC2_21 Pin=Q9-4
+Added Pin To Net: NetName=NetC33_2 Pin=Q9-5
+Added Pin To Net: NetName=NetC33_2 Pin=Q9-6
+Added Pin To Net: NetName=NetC33_2 Pin=Q9-7
+Added Pin To Net: NetName=NetC33_2 Pin=Q9-8
+Added Pin To Net: NetName=NetC33_2 Pin=Q9-9
+Added Member To Class: ClassName=U_BMS Member=Component Q9 SISA01DN-T1-GE3
