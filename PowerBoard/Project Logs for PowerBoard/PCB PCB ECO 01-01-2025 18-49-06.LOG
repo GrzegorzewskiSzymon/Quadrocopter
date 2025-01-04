@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=RT1 Old Footprint=PTCEL17R102UBE404 New Footprint=B57862L0102F000
+Change Component Comment : Designator=RT1 Old Comment=B59100M1080A070 New Comment=B57862L0103F000/B59100M1080A070
+Change component parameters: Designator = "RT1" ("RT1"); Footprint = "PTCEL17R102UBE404"; UniqueID = "\PSCYALZR\APKWWKFS" ("\PSCYALZR\APKWWKFS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/sensor/ntc/ntc_element/data_sheet/50/db/ntc/ntc_mini_sensors_l862.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B57862L0103F000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "871-B57862L0103F000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B57862L0103F000?qs=ZcfC38r4PovcwIqh7%252BPHpQ%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C8-

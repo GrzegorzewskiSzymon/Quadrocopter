@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C78956 Old Footprint=CAPAE1290X1650N New Footprint=CAPAE1030X1050N
+Change Component Comment : Designator=C78956 Old Comment=MAL215099013E3 New Comment=EMZS350ARA681MJA0G
+Change component parameters: Designator = "C78956" ("C78956"); Footprint = "CAPAE1290X1650N"; UniqueID = "\YUMCNZIJ\YAIKJFSP" ("\YUMCNZIJ\YAIKJFSP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "EMZS350ARA681MJA0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/emzs350ara681mja0g/united-chemi-con?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.chemi-con.co.jp/en/products/detail-condenser.php?part_number=EMZS350ARA681MJA0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Chemi-Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EMZS350ARA681MJA0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "661-EMZS350ARA681MJA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Chemi-Con/EMZS350ARA681MJA0G?qs=y6ZabgHbY%252ByMUGm5330iKw%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C8-

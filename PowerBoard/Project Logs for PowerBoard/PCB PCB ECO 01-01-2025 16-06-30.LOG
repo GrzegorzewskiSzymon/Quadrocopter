@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BAT+_F Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Member From Class: ClassName=U_BMS Member=C78956
+Change Component Designator: OldDesignator=C78956 NewDesignator=C28
+Add Pin To Net: Unknown Pin: Pin C8-

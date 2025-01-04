@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=C5A Old Footprint=CAPAE1030X1400N New Footprint=CAPAE830X1080N
+Change Component Footprint: Designator=C5B Old Footprint=CAPAE1030X1400N New Footprint=CAPAE830X1080N
+Change Component Footprint: Designator=C5C Old Footprint=CAPAE1030X1400N New Footprint=CAPAE830X1080N
+Change Component Footprint: Designator=C5D Old Footprint=CAPAE1030X1400N New Footprint=CAPAE830X1080N
+Change Component Comment : Designator=C5A Old Comment=UCL1V471MNL1GS New Comment=UCD1V221MNL1GS
+Change Component Comment : Designator=C5B Old Comment=UCL1V471MNL1GS New Comment=UCD1V221MNL1GS
+Change Component Comment : Designator=C5C Old Comment=UCL1V471MNL1GS New Comment=UCD1V221MNL1GS
+Change Component Comment : Designator=C5D Old Comment=UCL1V471MNL1GS New Comment=UCD1V221MNL1GS
+Change component parameters: Designator = "C5A" ("C5"); Footprint = "CAPAE1030X1400N"; UniqueID = "\1TFOPYVEG\ENXTEIMK" ("\1TFOPYVEG\ENXTEIMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://nichicon-us.com/english/products/pdfs/e-ucd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UCD1V221MNL1GS?qs=c0uEScvPYN17qZQKPp9AhQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5B" ("C5"); Footprint = "CAPAE1030X1400N"; UniqueID = "\2TFOPYVEG\ENXTEIMK" ("\2TFOPYVEG\ENXTEIMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://nichicon-us.com/english/products/pdfs/e-ucd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UCD1V221MNL1GS?qs=c0uEScvPYN17qZQKPp9AhQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5C" ("C5"); Footprint = "CAPAE1030X1400N"; UniqueID = "\3TFOPYVEG\ENXTEIMK" ("\3TFOPYVEG\ENXTEIMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://nichicon-us.com/english/products/pdfs/e-ucd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UCD1V221MNL1GS?qs=c0uEScvPYN17qZQKPp9AhQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5D" ("C5"); Footprint = "CAPAE1030X1400N"; UniqueID = "\4TFOPYVEG\ENXTEIMK" ("\4TFOPYVEG\ENXTEIMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://nichicon-us.com/english/products/pdfs/e-ucd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-UCD1V221MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UCD1V221MNL1GS?qs=c0uEScvPYN17qZQKPp9AhQ%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C8-
+Added Member To Class: ClassName=U_BMS Member=Component C28 EMZS350ARA681MJA0G

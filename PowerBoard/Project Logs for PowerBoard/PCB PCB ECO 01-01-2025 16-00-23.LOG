@@ -1,0 +1,13 @@
+Added Component: Designator=C78956(CAPAE1290X1650N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MAL215099013E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mal215099013e3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/28395/150crz.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAL215099013E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-MAL215099013E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL215099013E3?qs=Ep9Lwju7gVp%2FNL2OTQ1FWQ%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C8-
+Added Pin To Net: NetName=BAT+_F Pin=C78956-1
+Added Pin To Net: NetName=GND Pin=C78956-2
+Added Member To Class: ClassName=U_BMS Member=Component C78956 MAL215099013E3
