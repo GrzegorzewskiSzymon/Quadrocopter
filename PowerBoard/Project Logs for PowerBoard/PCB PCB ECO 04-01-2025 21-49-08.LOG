@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=CB_ALERT Pin=IC3-20
+Removed Pin From Net: NetName=CB_ALERT Pin=R44-2
+Change Component Designator: OldDesignator=R52 NewDesignator=R54
+Change Component Designator: OldDesignator=R53 NewDesignator=R55
+Change Component Designator: OldDesignator=R54 NewDesignator=R56
+Change Component Designator: OldDesignator=R55 NewDesignator=R57
+Change Component Designator: OldDesignator=R56 NewDesignator=R58
+Change Component Designator: OldDesignator=R57 NewDesignator=R59
+Change Component Designator: OldDesignator=R58 NewDesignator=R60
+Change Component Designator: OldDesignator=R59 NewDesignator=R61
+Change Component Designator: OldDesignator=R60 NewDesignator=R62
+Change Component Designator: OldDesignator=R61 NewDesignator=R63
+Change Component Designator: OldDesignator=R62 NewDesignator=R64
+Change Component Designator: OldDesignator=R63 NewDesignator=R65
+Change Component Designator: OldDesignator=R64 NewDesignator=R66
+Change Component Designator: OldDesignator=R65 NewDesignator=R67
+Change Component Designator: OldDesignator=R66 NewDesignator=R68
+Added Component: Designator=C83(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6V3"; VariantName = "[No Variations]"
+Added Component: Designator=C84(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6V3"; VariantName = "[No Variations]"
+Added Component: Designator=C85(CAP0603)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C86(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6V3"; VariantName = "[No Variations]"
+Added Component: Designator=IC9(TMF88051B)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ams.com/documents/20143/4372629/TMF8805_DS000692_4-00.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ams OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMF8805-1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "985-TMF8805-1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/TMF8805-1B?qs=sPbYRqrBIVlwsjHE%2F%252BrL9g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R69(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "50k"; VariantName = "[No Variations]"
+Added Component: Designator=R70(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "50k"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C8-
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=+3V3 Pin=C83-2
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=+3V3 Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=+3V3 Pin=C85-2
+Added Pin To Net: NetName=+3V3 Pin=C86-1
+Added Pin To Net: NetName=GND Pin=C86-2
+Added Pin To Net: NetName=+3V3 Pin=IC9-1
+Added Pin To Net: NetName=GND Pin=IC9-2
+Added Pin To Net: NetName=+3V3 Pin=IC9-3
+Added Pin To Net: NetName=SCL Pin=IC9-5
+Added Pin To Net: NetName=SDA Pin=IC9-6
+Added Pin To Net: NetName=+3V3 Pin=IC9-7
+Added Pin To Net: NetName=GND Pin=IC9-8
+Added Pin To Net: NetName=GND Pin=IC9-11
+Added Pin To Net: NetName=+3V3 Pin=IC9-12
+Added Pin To Net: NetName=CB_ALERT Pin=R52-1
+Added Pin To Net: NetName=CB_ALERT Pin=R53-1
+Added Pin To Net: NetName=+3V3 Pin=R69-2
+Added Pin To Net: NetName=GND Pin=R70-1
+Added Pin To Net: NetName=NetIC3_20 Pin=IC3-20
+Added Pin To Net: NetName=NetIC3_20 Pin=R44-2
+Added Pin To Net: NetName=NetIC3_20 Pin=R52-2
+Added Net: Name=NetIC3_20
+Added Pin To Net: NetName=NetIC9_4 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_4 Pin=R53-2
+Added Net: Name=NetIC9_4
+Added Pin To Net: NetName=NetIC9_9 Pin=IC9-9
+Added Pin To Net: NetName=NetIC9_9 Pin=R69-1
+Added Net: Name=NetIC9_9
+Added Pin To Net: NetName=NetIC9_10 Pin=IC9-10
+Added Pin To Net: NetName=NetIC9_10 Pin=R70-2
+Added Net: Name=NetIC9_10
+Added Class: Name=U_ToF_Bottom
+Added Member To Class: ClassName=Main Member=Component R52 Res0402
+Added Member To Class: ClassName=Main Member=Component R53 Res0402

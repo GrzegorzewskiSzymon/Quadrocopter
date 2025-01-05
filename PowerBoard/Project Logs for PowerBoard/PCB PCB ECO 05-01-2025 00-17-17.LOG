@@ -1,0 +1,48 @@
+Removed Member From Class: ClassName=U_USB Member=C49
+Removed Member From Class: ClassName=Main Member=C57
+Removed Member From Class: ClassName=Main Member=C61
+Removed Member From Class: ClassName=Main Member=M3
+Removed Member From Class: ClassName=Main Member=M4
+Add Pin To Net: Unknown Pin: Pin C7-
+Added Member To Class: ClassName=U_BMS Member=Component C7 TPSC106K025R0300
+Added Member To Class: ClassName=U_BMS Member=Component C9 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C11 293D226X0025D2TE3
+Added Member To Class: ClassName=U_BMS Member=Component C13 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C15 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C17 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C19 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C21 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C23 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C25 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C27 EMZS350ARA681MJA0G
+Added Member To Class: ClassName=U_BMS Member=Component C30 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C32 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C34 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C36 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C38 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C40 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C42 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C44 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C46 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C48 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C50 293D226X0025D2TE3
+Added Member To Class: ClassName=U_USB Member=Component C52 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C54 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C56 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C58 Cap0402
+Added Member To Class: ClassName=Main Member=Component C59 UCD1V221MNL1GS
+Added Member To Class: ClassName=Main Member=Component C60 UCD1V221MNL1GS
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C62 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C64 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C66 Cap0603
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C68 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C70 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C72 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C74 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C76 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C78 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C80 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C82 Cap0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C84 Cap0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C85 Cap0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C86 Cap0603
