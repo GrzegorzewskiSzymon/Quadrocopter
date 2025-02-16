@@ -5,3 +5,4 @@ Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_PSU|SchDesignator=U_P
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_RF|SchDesignator=U_RF|FileName=RF.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=RF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_TOF360|SchDesignator=U_TOF360|FileName=TOF360.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=TOF360.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=RF.SchDoc|Designator=U_NRF24l01|SchDesignator=U_NRF24l01|FileName=NRF24l01.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=NRF24l01.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Flash.SchDoc|SheetNumber=8
