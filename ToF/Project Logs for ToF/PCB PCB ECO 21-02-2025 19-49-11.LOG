@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=+3V3 Pin=J1-1
+Removed Pin From Net: NetName=INT Pin=J1-3
+Removed Pin From Net: NetName=SCL Pin=J1-4
+Removed Pin From Net: NetName=SDA Pin=J1-5
+Removed Pin From Net: NetName=EN Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-8
+Change Component Footprint: Designator=J1 Old Footprint=M503930842 New Footprint=FTSH-104-XX-YYY-DH
+Change Component Comment : Designator=J1 Old Comment=M50-3930842 New Comment=FTSH-104-02-L-DH
+Change component parameters: Designator = "J1" ("J1"); Footprint = "M503930842"; UniqueID = "\UEAFHJKA" ("\UEAFHJKA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "FTSH-104-02-L-DH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ftsh-104-02-l-dh/samtec?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-d-xxx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FTSH-104-02-L-DH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "200-FTSH10402LDH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/FTSH-104-02-L-DH?qs=0lQeLiL1qyYdFUFeamC%252B%2FQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP0603)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=EN Pin=IC1-10
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=EN Pin=J1-3
+Added Pin To Net: NetName=INT Pin=J1-4
+Added Pin To Net: NetName=EN Pin=J1-5
+Added Pin To Net: NetName=SCL Pin=J1-6
+Added Pin To Net: NetName=SDA Pin=J1-7
+Added Pin To Net: NetName=+3V3 Pin=J1-8
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=EN Pin=R3-2
+Added Member To Class: ClassName=ToF Member=Component C3 Cap0603
+Added Member To Class: ClassName=ToF Member=Component R3 Res0402
