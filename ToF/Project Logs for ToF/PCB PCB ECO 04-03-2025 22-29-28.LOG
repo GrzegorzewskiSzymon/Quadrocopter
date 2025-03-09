@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=J1 Old Footprint=FTSH-104-XX-YYY-DH New Footprint=FC_conn
+Added Member To Class: ClassName=ToF Member=Component R2 Res0402

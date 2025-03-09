@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=M1 Old Footprint=Mount_L_top New Footprint=Mount_L_bottom
+Added Component: Designator=J1(FC_conn)
+Added Component: Designator=M2(Mount_L_bottom)
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=INT Pin=J1-2
+Added Pin To Net: NetName=SCL Pin=J1-3
+Added Pin To Net: NetName=SDA Pin=J1-4
+Added Pin To Net: NetName=GPIO Pin=J1-5
+Added Pin To Net: NetName=EN Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Member To Class: ClassName=ToF Member=Component J1 10112684-G03-07ULF_reversedside
+Added Member To Class: ClassName=ToF Member=Component M2 Mount_L

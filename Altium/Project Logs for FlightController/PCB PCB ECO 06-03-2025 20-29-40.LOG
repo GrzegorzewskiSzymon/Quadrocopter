@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J3 Old Footprint=FC_TOF360 New Footprint=TOF_Mount
+Change Component Footprint: Designator=J4 Old Footprint=FC_TOF360 New Footprint=TOF_Mount
+Change Component Footprint: Designator=J5 Old Footprint=FC_TOF360 New Footprint=TOF_Mount
+Change Component Footprint: Designator=J6 Old Footprint=FC_TOF360 New Footprint=TOF_Mount
+Change Component Footprint: Designator=J7 Old Footprint=FC_TOF360 New Footprint=TOF_Mount
+Change Component Footprint: Designator=J8 Old Footprint=FC_TOF360 New Footprint=TOF_Mount
+Add Net: Net with name "TOF_INT" already exists

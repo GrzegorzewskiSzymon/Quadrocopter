@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC23_2 Pin=R13-1
+Removed Pin From Net: NetName=VBUS Pin=R13-2
+Removed Pin From Net: NetName=BAT+_F Pin=R14-1
+Removed Pin From Net: NetName=NetC32_2 Pin=R14-2
+Change Component Footprint: Designator=R13 Old Footprint=RESC6434X90N New Footprint=RESC3163X50N
+Change Component Footprint: Designator=R14 Old Footprint=RESC6434X90N New Footprint=RESC3163X50N
+Change Component Comment : Designator=R13 Old Comment=CRA2512-FZ-R010ELF New Comment=FCSL64R010FER
+Change Component Comment : Designator=R14 Old Comment=CRA2512-FZ-R010ELF New Comment=FCSL64R010FER
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC6434X90N"; UniqueID = "\YUMCNZIJ\QFNDNJBR" ("\YUMCNZIJ\QFNDNJBR")
+Change component parameters (AddParameter): Name = "Value"; Value = "0R01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC6434X90N"; UniqueID = "\YUMCNZIJ\MSLAKQOP" ("\YUMCNZIJ\MSLAKQOP")
+Change component parameters (AddParameter): Name = "Value"; Value = "0R01"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C7-
+Added Pin To Net: NetName=VBUS Pin=R13-1
+Added Pin To Net: NetName=NetC23_2 Pin=R13-2
+Added Pin To Net: NetName=NetC32_2 Pin=R14-1
+Added Pin To Net: NetName=BAT+_F Pin=R14-2
+Add Net: Net with name "VSYS" already exists

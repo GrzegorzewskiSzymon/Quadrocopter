@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=M1 Old Footprint=Mount_L_bottom New Footprint=Mount_L_top
+Added Component: Designator=J1(PCBComponent_1)
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=INT Pin=J1-2
+Added Pin To Net: NetName=SCL Pin=J1-3
+Added Pin To Net: NetName=SDA Pin=J1-4
+Added Pin To Net: NetName=GPIO Pin=J1-5
+Added Pin To Net: NetName=EN Pin=J1-6
+Add Pin To Net: Unknown Pin: Pin M1-1
+Added Member To Class: ClassName=ToF Member=Component J1 TOF_conn

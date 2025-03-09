@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=L1 Old Footprint=INDPM110100X400N New Footprint=XEL4020222MEC
+Change Component Comment : Designator=L1 Old Comment=SRP1038AA-2R2M New Comment=XEL4020-222MEC
+Change component parameters: Designator = "L1" ("L1"); Footprint = "INDPM110100X400N"; UniqueID = "\YUMCNZIJ\HQIULTSW" ("\YUMCNZIJ\HQIULTSW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "COILCRAFT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XEL4020-222MEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "994-XEL4020-222MEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Coilcraft/XEL4020-222MEC?qs=chTDxNqvsynf4rqMeCpizg%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C7-
+Add Net: Net with name "VSYS" already exists

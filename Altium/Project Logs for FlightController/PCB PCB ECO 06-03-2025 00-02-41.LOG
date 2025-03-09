@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=J3 Old Footprint= New Footprint=FC_TOF360
+Change Component Footprint: Designator=J4 Old Footprint= New Footprint=FC_TOF360
+Change Component Footprint: Designator=J5 Old Footprint= New Footprint=FC_TOF360
+Change Component Footprint: Designator=J6 Old Footprint= New Footprint=FC_TOF360
+Change Component Footprint: Designator=J7 Old Footprint= New Footprint=FC_TOF360
+Change Component Footprint: Designator=J8 Old Footprint= New Footprint=FC_TOF360
+Change Component Comment : Designator=J3 Old Comment=10112684-G03-07ULF New Comment=FC_TOF360
+Change Component Comment : Designator=J4 Old Comment=10112684-G03-07ULF New Comment=FC_TOF360
+Change Component Comment : Designator=J5 Old Comment=10112684-G03-07ULF New Comment=FC_TOF360
+Change Component Comment : Designator=J6 Old Comment=10112684-G03-07ULF New Comment=FC_TOF360
+Change Component Comment : Designator=J7 Old Comment=10112684-G03-07ULF New Comment=FC_TOF360
+Change Component Comment : Designator=J8 Old Comment=10112684-G03-07ULF New Comment=FC_TOF360
+Add Net: Net with name "TOF_INT" already exists

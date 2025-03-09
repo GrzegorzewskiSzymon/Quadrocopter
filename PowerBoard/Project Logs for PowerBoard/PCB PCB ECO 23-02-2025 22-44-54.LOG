@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=D5 Old Footprint=DIOM5436X244N New Footprint=SODFL1006X45N
+Change Component Comment : Designator=D5 Old Comment=SMBJ20A-E3_52 New Comment=DF2S24FS,L3M
+Change component parameters: Designator = "D5" ("D5"); Footprint = "DIOM5436X244N"; UniqueID = "\KGKENIAL\ZKGLHQCG" ("\KGKENIAL\ZKGLHQCG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DF2S24FS,L3M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/df2s24fsl3m/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/408/DF2S24FS_datasheet_en_20140718-708374.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DF2S24FS,L3M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-DF2S24FSL3M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/DF2S24FSL3M?qs=lhkzy8lC%252BSvG2umxl0FuEw%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C7-
+Add Net: Net with name "VSYS" already exists

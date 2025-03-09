@@ -1,0 +1,12 @@
+Added Component: Designator=J1(FH58M7S025SHW)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-40/45453.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FH58M-7S-0.25SHW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "798-FH58M-7S-0.25SHW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH58M-7S-0.25SHW?qs=W0yvOO0ixfFlGJvrx%2FPuVw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=M2(Mount_L_bottom)
+Added Member To Class: ClassName=ToF Member=Component J1 FH58M-7S-0.25SHW
+Added Member To Class: ClassName=ToF Member=Component M2 Mount_L

@@ -1,0 +1,262 @@
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Pin From Net: NetName=GND Pin=J9-5
+Removed Member From Class: ClassName=U_MCU Member=C37
+Removed Member From Class: ClassName=U_Flash Member=C80
+Removed Member From Class: ClassName=U_PSU Member=C80
+Removed Member From Class: ClassName=U_TOF360 Member=J9
+Removed Member From Class: ClassName=U_MCU Member=R10
+Removed Member From Class: ClassName=U_Flash Member=R19
+Removed Member From Class: ClassName=U_PSU Member=R19
+Removed Member From Class: ClassName=U_Barometer Member=R21
+Change Component Footprint: Designator=J2 Old Footprint=PCBRPSMAFRAHT New Footprint=CONUFL001-SMD
+Change Component Footprint: Designator=J9 Old Footprint=PCBRPSMAFRAHT New Footprint=CONUFL001-SMD
+Change Component Comment : Designator=J2 Old Comment=PCB.RPSMAFRA.HT New Comment=CONUFL001-SMD-T
+Change Component Comment : Designator=J9 Old Comment=PCB.RPSMAFRA.HT New Comment=CONUFL001-SMD-T
+Change component parameters: Designator = "J2" ("J2"); Footprint = "PCBRPSMAFRAHT"; UniqueID = "\FZZDFZZW\VSESDFWV\YTGLIELF" ("\FZZDFZZW\VSESDFWV\YTGLIELF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://linxtechnologies.com/wp/product/mhf-rf-connectors/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Linx Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CONUFL001-SMD-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "712-CONUFL001-SMD-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Linx-Technologies/CONUFL001-SMD-T?qs=EU6FO9ffTwfRdkBeQTdJWQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "PCBRPSMAFRAHT"; UniqueID = "\SSFZUBOH\GPYPNJRI" ("\SSFZUBOH\GPYPNJRI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://linxtechnologies.com/wp/product/mhf-rf-connectors/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Linx Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CONUFL001-SMD-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "712-CONUFL001-SMD-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Linx-Technologies/CONUFL001-SMD-T?qs=EU6FO9ffTwfRdkBeQTdJWQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=BUTTON Pin=C16-2
+Added Pin To Net: NetName=NetC55_1 Pin=C55-1
+Added Pin To Net: NetName=NetC55_2 Pin=C55-2
+Added Pin To Net: NetName=NetC57_1 Pin=C57-1
+Added Pin To Net: NetName=NetC58_1 Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=NetC58_1 Pin=C72-2
+Added Pin To Net: NetName=NetC78_1 Pin=C78-1
+Added Pin To Net: NetName=NetC58_1 Pin=C78-2
+Added Pin To Net: NetName=SWO Pin=D1-1
+Added Pin To Net: NetName=SWCLK Pin=D2-1
+Added Pin To Net: NetName=SWDIO Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=nRST Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=BUTTON Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=ESC_INHA1 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=ESC_INLA1 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=ESC_INHB1 Pin=D8-1
+Added Pin To Net: NetName=ESC_INLB1 Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D8-3
+Added Pin To Net: NetName=ESC_INHC1 Pin=D8-4
+Added Pin To Net: NetName=ESC_INLC1 Pin=D8-5
+Added Pin To Net: NetName=ESC_INHA2 Pin=D8-6
+Added Pin To Net: NetName=ESC_INLA2 Pin=D8-7
+Added Pin To Net: NetName=ESC_INHB2 Pin=D8-8
+Added Pin To Net: NetName=ESC_INLB2 Pin=D8-9
+Added Pin To Net: NetName=ESC_INHC2 Pin=D9-1
+Added Pin To Net: NetName=ESC_INLC2 Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D9-3
+Added Pin To Net: NetName=ESC_INHA3 Pin=D9-4
+Added Pin To Net: NetName=ESC_INLA3 Pin=D9-5
+Added Pin To Net: NetName=ESC_INHB3 Pin=D9-6
+Added Pin To Net: NetName=ESC_INLB3 Pin=D9-7
+Added Pin To Net: NetName=ESC_INHC3 Pin=D9-8
+Added Pin To Net: NetName=ESC_INLC3 Pin=D9-9
+Added Pin To Net: NetName=ESC_INHA4 Pin=D10-1
+Added Pin To Net: NetName=ESC_INLA4 Pin=D10-2
+Added Pin To Net: NetName=GND Pin=D10-3
+Added Pin To Net: NetName=ESC_INHB4 Pin=D10-4
+Added Pin To Net: NetName=ESC_INLB4 Pin=D10-5
+Added Pin To Net: NetName=ESC_INHC4 Pin=D10-6
+Added Pin To Net: NetName=ESC_INLC4 Pin=D10-7
+Added Pin To Net: NetName=ESC_NSCS1 Pin=D10-8
+Added Pin To Net: NetName=ESC_NSCS2 Pin=D10-9
+Added Pin To Net: NetName=ESC_NSCS3 Pin=D11-1
+Added Pin To Net: NetName=ESC_NSCS4 Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D11-3
+Added Pin To Net: NetName=ESC_NFAULT Pin=D11-4
+Added Pin To Net: NetName=ESC_CLK Pin=D11-5
+Added Pin To Net: NetName=ESC_SDO Pin=D11-6
+Added Pin To Net: NetName=ESC_SDI Pin=D11-7
+Added Pin To Net: NetName=ESC_ENABLE Pin=D11-8
+Added Pin To Net: NetName=BMS_PROCHOT Pin=D11-9
+Added Pin To Net: NetName=BMS_CHRG_OK Pin=D12-1
+Added Pin To Net: NetName=BMS_OTG/VAP Pin=D12-2
+Added Pin To Net: NetName=GND Pin=D12-3
+Added Pin To Net: NetName=CB_ALERT Pin=D12-4
+Added Pin To Net: NetName=SCL Pin=D12-5
+Added Pin To Net: NetName=SDA Pin=D12-6
+Added Pin To Net: NetName=UDB_D+ Pin=D12-8
+Added Pin To Net: NetName=UDB_D- Pin=D12-9
+Added Pin To Net: NetName=+3V3 Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=VSYS Pin=D14-1
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=TOF_EN Pin=J3-3
+Added Pin To Net: NetName=TOF_INT Pin=J3-4
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-5
+Added Pin To Net: NetName=I2C1_SCL Pin=J3-6
+Added Pin To Net: NetName=I2C1_SDA Pin=J3-7
+Added Pin To Net: NetName=+3V3 Pin=J3-8
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=NetJ3_5 Pin=J4-3
+Added Pin To Net: NetName=TOF_INT Pin=J4-4
+Added Pin To Net: NetName=NetJ4_5 Pin=J4-5
+Added Pin To Net: NetName=I2C1_SCL Pin=J4-6
+Added Pin To Net: NetName=I2C1_SDA Pin=J4-7
+Added Pin To Net: NetName=+3V3 Pin=J4-8
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=NetJ4_5 Pin=J5-3
+Added Pin To Net: NetName=TOF_INT Pin=J5-4
+Added Pin To Net: NetName=NetJ5_5 Pin=J5-5
+Added Pin To Net: NetName=I2C1_SCL Pin=J5-6
+Added Pin To Net: NetName=I2C1_SDA Pin=J5-7
+Added Pin To Net: NetName=+3V3 Pin=J5-8
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=NetJ5_5 Pin=J6-3
+Added Pin To Net: NetName=TOF_INT Pin=J6-4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Pin To Net: NetName=I2C1_SCL Pin=J6-6
+Added Pin To Net: NetName=I2C1_SDA Pin=J6-7
+Added Pin To Net: NetName=+3V3 Pin=J6-8
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=NetJ6_5 Pin=J7-3
+Added Pin To Net: NetName=TOF_INT Pin=J7-4
+Added Pin To Net: NetName=NetJ7_5 Pin=J7-5
+Added Pin To Net: NetName=I2C1_SCL Pin=J7-6
+Added Pin To Net: NetName=I2C1_SDA Pin=J7-7
+Added Pin To Net: NetName=+3V3 Pin=J7-8
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=NetJ7_5 Pin=J8-3
+Added Pin To Net: NetName=TOF_INT Pin=J8-4
+Added Pin To Net: NetName=I2C1_SCL Pin=J8-6
+Added Pin To Net: NetName=I2C1_SDA Pin=J8-7
+Added Pin To Net: NetName=+3V3 Pin=J8-8
+Added Pin To Net: NetName=ESC_INHA1 Pin=J10-1
+Added Pin To Net: NetName=ESC_INLA1 Pin=J10-2
+Added Pin To Net: NetName=ESC_INHB1 Pin=J10-3
+Added Pin To Net: NetName=ESC_INLB1 Pin=J10-4
+Added Pin To Net: NetName=ESC_INHC1 Pin=J10-5
+Added Pin To Net: NetName=ESC_INLC1 Pin=J10-6
+Added Pin To Net: NetName=ESC_INHA2 Pin=J10-7
+Added Pin To Net: NetName=ESC_INLA2 Pin=J10-8
+Added Pin To Net: NetName=ESC_INHB2 Pin=J10-9
+Added Pin To Net: NetName=ESC_INLB2 Pin=J10-10
+Added Pin To Net: NetName=ESC_INHC2 Pin=J10-11
+Added Pin To Net: NetName=ESC_INLC2 Pin=J10-12
+Added Pin To Net: NetName=ESC_INHA3 Pin=J10-13
+Added Pin To Net: NetName=ESC_INLA3 Pin=J10-14
+Added Pin To Net: NetName=ESC_INHB3 Pin=J10-15
+Added Pin To Net: NetName=ESC_INLB3 Pin=J10-16
+Added Pin To Net: NetName=ESC_INHC3 Pin=J10-17
+Added Pin To Net: NetName=ESC_INLC3 Pin=J10-18
+Added Pin To Net: NetName=ESC_INHA4 Pin=J10-19
+Added Pin To Net: NetName=ESC_INLA4 Pin=J10-20
+Added Pin To Net: NetName=ESC_INHB4 Pin=J10-21
+Added Pin To Net: NetName=ESC_INLB4 Pin=J10-22
+Added Pin To Net: NetName=ESC_INHC4 Pin=J10-23
+Added Pin To Net: NetName=ESC_INLC4 Pin=J10-24
+Added Pin To Net: NetName=ESC_NSCS1 Pin=J10-25
+Added Pin To Net: NetName=ESC_NSCS2 Pin=J10-26
+Added Pin To Net: NetName=ESC_NSCS3 Pin=J10-27
+Added Pin To Net: NetName=ESC_NSCS4 Pin=J10-28
+Added Pin To Net: NetName=ESC_NFAULT Pin=J10-29
+Added Pin To Net: NetName=ESC_CLK Pin=J10-30
+Added Pin To Net: NetName=ESC_SDO Pin=J10-31
+Added Pin To Net: NetName=ESC_SDI Pin=J10-32
+Added Pin To Net: NetName=ESC_ENABLE Pin=J10-33
+Added Pin To Net: NetName=BMS_PROCHOT Pin=J10-34
+Added Pin To Net: NetName=BMS_CHRG_OK Pin=J10-35
+Added Pin To Net: NetName=BMS_OTG/VAP Pin=J10-36
+Added Pin To Net: NetName=CB_ALERT Pin=J10-37
+Added Pin To Net: NetName=SCL Pin=J10-38
+Added Pin To Net: NetName=SDA Pin=J10-39
+Added Pin To Net: NetName=UDB_D+ Pin=J10-41
+Added Pin To Net: NetName=UDB_D- Pin=J10-42
+Added Pin To Net: NetName=VSYS Pin=J10-46
+Added Pin To Net: NetName=VSYS Pin=J10-47
+Added Pin To Net: NetName=GND Pin=J10-48
+Added Pin To Net: NetName=GND Pin=J10-49
+Added Pin To Net: NetName=+3V3 Pin=J10-50
+Added Pin To Net: NetName=BUTTON Pin=R7-1
+Added Pin To Net: NetName=+3V3 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetC78_1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=BUTTON Pin=S2-2
+Add Net: Net with name "TOF_INT" already exists
+Added Member To Class: ClassName=U_MCU Member=Component C16 Cap0402
+Added Member To Class: ClassName=U_MCU Member=Component C18 Cap0603
+Added Member To Class: ClassName=U_MCU Member=Component C20 Cap0603
+Added Member To Class: ClassName=U_MCU Member=Component C22 Cap0603
+Added Member To Class: ClassName=U_MCU Member=Component C24 Cap0603
+Added Member To Class: ClassName=U_MCU Member=Component C26 Cap0402
+Added Member To Class: ClassName=U_MCU Member=Component C28 Cap0402
+Added Member To Class: ClassName=U_MCU Member=Component C30 Cap0402
+Added Member To Class: ClassName=U_MCU Member=Component C32 Cap0402
+Added Member To Class: ClassName=U_MCU Member=Component C34 Cap0402
+Added Member To Class: ClassName=U_MCU Member=Component C36 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C37 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C38 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C40 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C42 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C44 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C46 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C48 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C50 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C52 Cap0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component C54 Cap0402
+Added Member To Class: ClassName=U_PSU Member=Component C78 Cap0402
+Added Member To Class: ClassName=U_Flash Member=Component C79 Cap0402
+Added Member To Class: ClassName=U_GPS Member=Component C81 Cap0402
+Added Member To Class: ClassName=U_GPS Member=Component C83 Cap0402
+Added Member To Class: ClassName=U_GPS Member=Component C85 Cap0402
+Added Member To Class: ClassName=U_GPS Member=Component C87 Cap0402
+Added Member To Class: ClassName=U_GPS Member=Component C89 Cap0402
+Added Member To Class: ClassName=U_Barometer Member=Component C91 Cap0402
+Added Member To Class: ClassName=U_LED Member=Component C93 Cap0402
+Added Member To Class: ClassName=U_LED Member=Component C95 Cap0402
+Added Member To Class: ClassName=U_LED Member=Component C97 Cap0402
+Added Member To Class: ClassName=U_MCU Member=Component D3 D1213A-01LP4-7B
+Added Member To Class: ClassName=U_MCU Member=Component D4 D1213A-01LP4-7B
+Added Member To Class: ClassName=U_MCU Member=Component D5 D1213A-01LP4-7B
+Added Member To Class: ClassName=U_PB_Conn Member=Component D6 D1213A-01LP4-7B
+Added Member To Class: ClassName=U_PB_Conn Member=Component D7 D1213A-01LP4-7B
+Added Member To Class: ClassName=U_PB_Conn Member=Component D8 DT1240A-08LP3810-7
+Added Member To Class: ClassName=U_PB_Conn Member=Component D9 DT1240A-08LP3810-7
+Added Member To Class: ClassName=U_PB_Conn Member=Component D10 DT1240A-08LP3810-7
+Added Member To Class: ClassName=U_PB_Conn Member=Component D11 DT1240A-08LP3810-7
+Added Member To Class: ClassName=U_PB_Conn Member=Component D12 DT1240A-08LP3810-7
+Added Member To Class: ClassName=U_PB_Conn Member=Component D13 SMBJ3V3-E3_5B
+Added Member To Class: ClassName=U_PB_Conn Member=Component D14 SMBJ20A-E3_52
+Added Member To Class: ClassName=U_TOF360 Member=Component J4 FTSH-104-03-L-D
+Added Member To Class: ClassName=U_TOF360 Member=Component J5 FTSH-104-03-L-D
+Added Member To Class: ClassName=U_TOF360 Member=Component J6 FTSH-104-03-L-D
+Added Member To Class: ClassName=U_TOF360 Member=Component J7 FTSH-104-03-L-D
+Added Member To Class: ClassName=U_TOF360 Member=Component J8 FTSH-104-03-L-D
+Added Member To Class: ClassName=U_PB_Conn Member=Component J10 FH34SRJ-50S-0.5SH_50_
+Added Member To Class: ClassName=Main Member=Component M1 Mount_M2
+Added Member To Class: ClassName=Main Member=Component M2 Mount_M2
+Added Member To Class: ClassName=Main Member=Component M3 Mount_M2
+Added Member To Class: ClassName=Main Member=Component M4 Mount_M2
+Added Member To Class: ClassName=Main Member=Component M5 Mount_M2
+Added Member To Class: ClassName=Main Member=Component M6 Mount_M2
+Added Member To Class: ClassName=U_MCU Member=Component R7 Res0402
+Added Member To Class: ClassName=U_MCU Member=Component R9 Res0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component R11 Res0402
+Added Member To Class: ClassName=U_NRF24l01 Member=Component R13 Res0402
+Added Member To Class: ClassName=U_PSU Member=Component R17 Res0402
+Added Member To Class: ClassName=U_Flash Member=Component R18 Res0402
+Added Member To Class: ClassName=U_Barometer Member=Component R20 Res0402
+Added Member To Class: ClassName=U_MCU Member=Component S2 B3U-3000P
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
