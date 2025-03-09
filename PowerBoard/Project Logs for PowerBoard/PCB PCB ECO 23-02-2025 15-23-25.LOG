@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=NetC25_2 Pin=Q7-1
+Removed Pin From Net: NetName=NetC25_2 Pin=Q7-2
+Removed Pin From Net: NetName=NetC25_2 Pin=Q7-3
+Removed Pin From Net: NetName=NetIC2_31 Pin=Q7-4
+Removed Pin From Net: NetName=NetC23_2 Pin=Q7-8
+Removed Pin From Net: NetName=NetC23_2 Pin=Q7-9
+Removed Pin From Net: NetName=NetC26_2 Pin=Q8-1
+Removed Pin From Net: NetName=NetC26_2 Pin=Q8-2
+Removed Pin From Net: NetName=NetC26_2 Pin=Q8-3
+Removed Pin From Net: NetName=NetIC2_24 Pin=Q8-4
+Removed Pin From Net: NetName=VSYS Pin=Q8-8
+Removed Pin From Net: NetName=VSYS Pin=Q8-9
+Removed Pin From Net: NetName=GND Pin=Q10-1
+Removed Pin From Net: NetName=GND Pin=Q10-2
+Removed Pin From Net: NetName=GND Pin=Q10-3
+Removed Pin From Net: NetName=NetIC2_26 Pin=Q10-4
+Removed Pin From Net: NetName=NetC26_2 Pin=Q10-8
+Removed Pin From Net: NetName=NetC26_2 Pin=Q10-9
+Removed Pin From Net: NetName=GND Pin=Q11-1
+Removed Pin From Net: NetName=GND Pin=Q11-2
+Removed Pin From Net: NetName=GND Pin=Q11-3
+Removed Pin From Net: NetName=NetIC2_29 Pin=Q11-4
+Removed Pin From Net: NetName=NetC25_2 Pin=Q11-8
+Removed Pin From Net: NetName=NetC25_2 Pin=Q11-9
+Change Component Footprint: Designator=Q7 Old Footprint=DMTH8008LFGQ7 New Footprint=DMT3006LFDF7
+Change Component Footprint: Designator=Q8 Old Footprint=DMTH8008LFGQ7 New Footprint=DMT3006LFDF7
+Change Component Footprint: Designator=Q10 Old Footprint=DMTH8008LFGQ7 New Footprint=DMT3006LFDF7
+Change Component Footprint: Designator=Q11 Old Footprint=DMTH8008LFGQ7 New Footprint=DMT3006LFDF7
+Change Component Comment : Designator=Q7 Old Comment=DMN3009LFV-7 New Comment=PMPB07R3ENAX
+Change Component Comment : Designator=Q8 Old Comment=DMN3009LFV-7 New Comment=PMPB07R3ENAX
+Change Component Comment : Designator=Q10 Old Comment=DMN3009LFV-7 New Comment=PMPB07R3ENAX
+Change Component Comment : Designator=Q11 Old Comment=DMN3009LFV-7 New Comment=PMPB07R3ENAX
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "DMTH8008LFGQ7"; UniqueID = "\YUMCNZIJ\YTXDKTJC" ("\YUMCNZIJ\YTXDKTJC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmt3006lfdf-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/dmt3006lfdf-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.63mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMT3006LFDF-7?qs=4EhzHfbM1GhGS5nn3gf3wg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "DMTH8008LFGQ7"; UniqueID = "\YUMCNZIJ\CIJVLUQR" ("\YUMCNZIJ\CIJVLUQR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmt3006lfdf-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/dmt3006lfdf-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.63mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMT3006LFDF-7?qs=4EhzHfbM1GhGS5nn3gf3wg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "DMTH8008LFGQ7"; UniqueID = "\YUMCNZIJ\DOECCKWD" ("\YUMCNZIJ\DOECCKWD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmt3006lfdf-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/dmt3006lfdf-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.63mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMT3006LFDF-7?qs=4EhzHfbM1GhGS5nn3gf3wg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q11" ("Q11"); Footprint = "DMTH8008LFGQ7"; UniqueID = "\YUMCNZIJ\BSNBLKAQ" ("\YUMCNZIJ\BSNBLKAQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmt3006lfdf-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/dmt3006lfdf-7/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.63mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-DMT3006LFDF-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMT3006LFDF-7?qs=4EhzHfbM1GhGS5nn3gf3wg%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C7-
+Added Pin To Net: NetName=NetC23_2 Pin=Q7-1
+Added Pin To Net: NetName=NetC23_2 Pin=Q7-2
+Added Pin To Net: NetName=NetIC2_31 Pin=Q7-3
+Added Pin To Net: NetName=NetC25_2 Pin=Q7-4
+Added Pin To Net: NetName=NetC25_2 Pin=Q7-8
+Added Pin To Net: NetName=VSYS Pin=Q8-1
+Added Pin To Net: NetName=VSYS Pin=Q8-2
+Added Pin To Net: NetName=NetIC2_24 Pin=Q8-3
+Added Pin To Net: NetName=NetC26_2 Pin=Q8-4
+Added Pin To Net: NetName=NetC26_2 Pin=Q8-8
+Added Pin To Net: NetName=NetC26_2 Pin=Q10-1
+Added Pin To Net: NetName=NetC26_2 Pin=Q10-2
+Added Pin To Net: NetName=NetIC2_26 Pin=Q10-3
+Added Pin To Net: NetName=GND Pin=Q10-4
+Added Pin To Net: NetName=GND Pin=Q10-8
+Added Pin To Net: NetName=NetC25_2 Pin=Q11-1
+Added Pin To Net: NetName=NetC25_2 Pin=Q11-2
+Added Pin To Net: NetName=NetIC2_29 Pin=Q11-3
+Added Pin To Net: NetName=GND Pin=Q11-4
+Added Pin To Net: NetName=GND Pin=Q11-8
+Add Net: Net with name "VSYS" already exists

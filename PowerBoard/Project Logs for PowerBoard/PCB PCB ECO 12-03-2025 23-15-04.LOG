@@ -1,0 +1,18 @@
+Add Pin To Net: Unknown Pin: Pin C7-
+Added Pin To Net: NetName=VBUS Pin=R13-1
+Added Pin To Net: NetName=NetC23_2 Pin=R13-2
+Added Pin To Net: NetName=NetC32_2 Pin=R14-1
+Added Pin To Net: NetName=BAT+_F Pin=R14-2
+Change Net Name : Old Net Name=NetIC1A_7 New Net Name=OUTAA
+Change Net Name : Old Net Name=NetIC1A_14 New Net Name=OUTBA
+Change Net Name : Old Net Name=NetIC1A_17 New Net Name=OUTCA
+Change Net Name : Old Net Name=NetIC1B_7 New Net Name=OUTAB
+Change Net Name : Old Net Name=NetIC1B_14 New Net Name=OUTBB
+Change Net Name : Old Net Name=NetIC1B_17 New Net Name=OUTCB
+Change Net Name : Old Net Name=NetIC1C_7 New Net Name=OUTAC
+Change Net Name : Old Net Name=NetIC1C_14 New Net Name=OUTBC
+Change Net Name : Old Net Name=NetIC1C_17 New Net Name=OUTCC
+Change Net Name : Old Net Name=NetIC1D_7 New Net Name=OUTAD
+Change Net Name : Old Net Name=NetIC1D_14 New Net Name=OUTBD
+Change Net Name : Old Net Name=NetIC1D_17 New Net Name=OUTCD
+Add Net: Net with name "VSYS" already exists

@@ -1,0 +1,270 @@
+Removed Pin From Net: NetName=NetIC1A_9 Pin=IC1A-9
+Removed Pin From Net: NetName=GND Pin=IC1A-10
+Removed Pin From Net: NetName=GND Pin=IC1A-11
+Removed Pin From Net: NetName=NetIC1A_12 Pin=IC1A-12
+Removed Pin From Net: NetName=NetIC1A_19 Pin=IC1A-19
+Removed Pin From Net: NetName=GND Pin=IC1A-20
+Removed Pin From Net: NetName=NetIC1B_9 Pin=IC1B-9
+Removed Pin From Net: NetName=GND Pin=IC1B-10
+Removed Pin From Net: NetName=GND Pin=IC1B-11
+Removed Pin From Net: NetName=NetIC1B_12 Pin=IC1B-12
+Removed Pin From Net: NetName=NetIC1B_19 Pin=IC1B-19
+Removed Pin From Net: NetName=GND Pin=IC1B-20
+Removed Pin From Net: NetName=NetIC1C_9 Pin=IC1C-9
+Removed Pin From Net: NetName=GND Pin=IC1C-10
+Removed Pin From Net: NetName=GND Pin=IC1C-11
+Removed Pin From Net: NetName=NetIC1C_12 Pin=IC1C-12
+Removed Pin From Net: NetName=NetIC1C_19 Pin=IC1C-19
+Removed Pin From Net: NetName=GND Pin=IC1C-20
+Removed Pin From Net: NetName=NetIC1D_9 Pin=IC1D-9
+Removed Pin From Net: NetName=GND Pin=IC1D-10
+Removed Pin From Net: NetName=GND Pin=IC1D-11
+Removed Pin From Net: NetName=NetIC1D_12 Pin=IC1D-12
+Removed Pin From Net: NetName=NetIC1D_19 Pin=IC1D-19
+Removed Pin From Net: NetName=GND Pin=IC1D-20
+Removed Pin From Net: NetName=NetIC1A_9 Pin=R10A-2
+Removed Pin From Net: NetName=NetIC1B_9 Pin=R10B-2
+Removed Pin From Net: NetName=NetIC1C_9 Pin=R10C-2
+Removed Pin From Net: NetName=NetIC1D_9 Pin=R10D-2
+Removed Pin From Net: NetName=NetIC1A_12 Pin=R11A-2
+Removed Pin From Net: NetName=NetIC1B_12 Pin=R11B-2
+Removed Pin From Net: NetName=NetIC1C_12 Pin=R11C-2
+Removed Pin From Net: NetName=NetIC1D_12 Pin=R11D-2
+Removed Pin From Net: NetName=NetIC1A_19 Pin=R12A-2
+Removed Pin From Net: NetName=NetIC1B_19 Pin=R12B-2
+Removed Pin From Net: NetName=NetIC1C_19 Pin=R12C-2
+Removed Pin From Net: NetName=NetIC1D_19 Pin=R12D-2
+Change Component Footprint: Designator=R10A Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R10B Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R10C Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R10D Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R11A Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R11B Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R11C Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R11D Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R12A Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R12B Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R12C Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Footprint: Designator=R12D Old Footprint=RESC6430X87N New Footprint=WSK12161L000FEA
+Change Component Comment : Designator=R10A Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R10B Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R10C Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R10D Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R11A Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R11B Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R11C Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R11D Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R12A Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R12B Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R12C Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Comment : Designator=R12D Old Comment=CSS2H-2512R-1L00F New Comment=WSK1216L5000FEA
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q11
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q8
+Change Component Designator: OldDesignator=Q10 NewDesignator=Q9
+Change Component Designator: OldDesignator=Q11 NewDesignator=Q10
+Change component parameters: Designator = "R10A" ("R10"); Footprint = "RESC6430X87N"; UniqueID = "\1TFOPYVEG\KOLBCBNB" ("\1TFOPYVEG\KOLBCBNB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10B" ("R10"); Footprint = "RESC6430X87N"; UniqueID = "\2TFOPYVEG\KOLBCBNB" ("\2TFOPYVEG\KOLBCBNB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10C" ("R10"); Footprint = "RESC6430X87N"; UniqueID = "\3TFOPYVEG\KOLBCBNB" ("\3TFOPYVEG\KOLBCBNB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10D" ("R10"); Footprint = "RESC6430X87N"; UniqueID = "\4TFOPYVEG\KOLBCBNB" ("\4TFOPYVEG\KOLBCBNB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11A" ("R11"); Footprint = "RESC6430X87N"; UniqueID = "\1TFOPYVEG\JMOBDEET" ("\1TFOPYVEG\JMOBDEET")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11B" ("R11"); Footprint = "RESC6430X87N"; UniqueID = "\2TFOPYVEG\JMOBDEET" ("\2TFOPYVEG\JMOBDEET")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11C" ("R11"); Footprint = "RESC6430X87N"; UniqueID = "\3TFOPYVEG\JMOBDEET" ("\3TFOPYVEG\JMOBDEET")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11D" ("R11"); Footprint = "RESC6430X87N"; UniqueID = "\4TFOPYVEG\JMOBDEET" ("\4TFOPYVEG\JMOBDEET")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12A" ("R12"); Footprint = "RESC6430X87N"; UniqueID = "\1TFOPYVEG\GDLXNMRH" ("\1TFOPYVEG\GDLXNMRH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12B" ("R12"); Footprint = "RESC6430X87N"; UniqueID = "\2TFOPYVEG\GDLXNMRH" ("\2TFOPYVEG\GDLXNMRH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12C" ("R12"); Footprint = "RESC6430X87N"; UniqueID = "\3TFOPYVEG\GDLXNMRH" ("\3TFOPYVEG\GDLXNMRH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12D" ("R12"); Footprint = "RESC6430X87N"; UniqueID = "\4TFOPYVEG\GDLXNMRH" ("\4TFOPYVEG\GDLXNMRH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C7-
+Added Pin To Net: NetName=NetIC1A_9 Pin=R10A-4
+Added Pin To Net: NetName=NetIC1B_9 Pin=R10B-4
+Added Pin To Net: NetName=NetIC1C_9 Pin=R10C-4
+Added Pin To Net: NetName=NetIC1D_9 Pin=R10D-4
+Added Pin To Net: NetName=NetIC1A_12 Pin=R11A-4
+Added Pin To Net: NetName=NetIC1B_12 Pin=R11B-4
+Added Pin To Net: NetName=NetIC1C_12 Pin=R11C-4
+Added Pin To Net: NetName=NetIC1D_12 Pin=R11D-4
+Added Pin To Net: NetName=NetIC1A_19 Pin=R12A-4
+Added Pin To Net: NetName=NetIC1B_19 Pin=R12B-4
+Added Pin To Net: NetName=NetIC1C_19 Pin=R12C-4
+Added Pin To Net: NetName=NetIC1D_19 Pin=R12D-4
+Change Net Name : Old Net Name=NetIC1A_9 New Net Name=NetQ2A_5
+Change Net Name : Old Net Name=NetIC1A_12 New Net Name=NetQ4A_5
+Change Net Name : Old Net Name=NetIC1A_19 New Net Name=NetQ6A_5
+Change Net Name : Old Net Name=NetIC1B_9 New Net Name=NetQ2B_5
+Change Net Name : Old Net Name=NetIC1B_12 New Net Name=NetQ4B_5
+Change Net Name : Old Net Name=NetIC1B_19 New Net Name=NetQ6B_5
+Change Net Name : Old Net Name=NetIC1C_9 New Net Name=NetQ2C_5
+Change Net Name : Old Net Name=NetIC1C_12 New Net Name=NetQ4C_5
+Change Net Name : Old Net Name=NetIC1C_19 New Net Name=NetQ6C_5
+Change Net Name : Old Net Name=NetIC1D_9 New Net Name=NetQ2D_5
+Change Net Name : Old Net Name=NetIC1D_12 New Net Name=NetQ4D_5
+Change Net Name : Old Net Name=NetIC1D_19 New Net Name=NetQ6D_5
+Added Pin To Net: NetName=NetIC1A_9 Pin=IC1A-9
+Added Pin To Net: NetName=NetIC1A_9 Pin=R10A-3
+Added Net: Name=NetIC1A_9
+Added Pin To Net: NetName=NetIC1A_10 Pin=IC1A-10
+Added Pin To Net: NetName=NetIC1A_10 Pin=R10A-2
+Added Net: Name=NetIC1A_10
+Added Pin To Net: NetName=NetIC1A_11 Pin=IC1A-11
+Added Pin To Net: NetName=NetIC1A_11 Pin=R11A-2
+Added Net: Name=NetIC1A_11
+Added Pin To Net: NetName=NetIC1A_12 Pin=IC1A-12
+Added Pin To Net: NetName=NetIC1A_12 Pin=R11A-3
+Added Net: Name=NetIC1A_12
+Added Pin To Net: NetName=NetIC1A_19 Pin=IC1A-19
+Added Pin To Net: NetName=NetIC1A_19 Pin=R12A-3
+Added Net: Name=NetIC1A_19
+Added Pin To Net: NetName=NetIC1A_20 Pin=IC1A-20
+Added Pin To Net: NetName=NetIC1A_20 Pin=R12A-2
+Added Net: Name=NetIC1A_20
+Added Pin To Net: NetName=NetIC1B_9 Pin=IC1B-9
+Added Pin To Net: NetName=NetIC1B_9 Pin=R10B-3
+Added Net: Name=NetIC1B_9
+Added Pin To Net: NetName=NetIC1B_10 Pin=IC1B-10
+Added Pin To Net: NetName=NetIC1B_10 Pin=R10B-2
+Added Net: Name=NetIC1B_10
+Added Pin To Net: NetName=NetIC1B_11 Pin=IC1B-11
+Added Pin To Net: NetName=NetIC1B_11 Pin=R11B-2
+Added Net: Name=NetIC1B_11
+Added Pin To Net: NetName=NetIC1B_12 Pin=IC1B-12
+Added Pin To Net: NetName=NetIC1B_12 Pin=R11B-3
+Added Net: Name=NetIC1B_12
+Added Pin To Net: NetName=NetIC1B_19 Pin=IC1B-19
+Added Pin To Net: NetName=NetIC1B_19 Pin=R12B-3
+Added Net: Name=NetIC1B_19
+Added Pin To Net: NetName=NetIC1B_20 Pin=IC1B-20
+Added Pin To Net: NetName=NetIC1B_20 Pin=R12B-2
+Added Net: Name=NetIC1B_20
+Added Pin To Net: NetName=NetIC1C_9 Pin=IC1C-9
+Added Pin To Net: NetName=NetIC1C_9 Pin=R10C-3
+Added Net: Name=NetIC1C_9
+Added Pin To Net: NetName=NetIC1C_10 Pin=IC1C-10
+Added Pin To Net: NetName=NetIC1C_10 Pin=R10C-2
+Added Net: Name=NetIC1C_10
+Added Pin To Net: NetName=NetIC1C_11 Pin=IC1C-11
+Added Pin To Net: NetName=NetIC1C_11 Pin=R11C-2
+Added Net: Name=NetIC1C_11
+Added Pin To Net: NetName=NetIC1C_12 Pin=IC1C-12
+Added Pin To Net: NetName=NetIC1C_12 Pin=R11C-3
+Added Net: Name=NetIC1C_12
+Added Pin To Net: NetName=NetIC1C_19 Pin=IC1C-19
+Added Pin To Net: NetName=NetIC1C_19 Pin=R12C-3
+Added Net: Name=NetIC1C_19
+Added Pin To Net: NetName=NetIC1C_20 Pin=IC1C-20
+Added Pin To Net: NetName=NetIC1C_20 Pin=R12C-2
+Added Net: Name=NetIC1C_20
+Added Pin To Net: NetName=NetIC1D_9 Pin=IC1D-9
+Added Pin To Net: NetName=NetIC1D_9 Pin=R10D-3
+Added Net: Name=NetIC1D_9
+Added Pin To Net: NetName=NetIC1D_10 Pin=IC1D-10
+Added Pin To Net: NetName=NetIC1D_10 Pin=R10D-2
+Added Net: Name=NetIC1D_10
+Added Pin To Net: NetName=NetIC1D_11 Pin=IC1D-11
+Added Pin To Net: NetName=NetIC1D_11 Pin=R11D-2
+Added Net: Name=NetIC1D_11
+Added Pin To Net: NetName=NetIC1D_12 Pin=IC1D-12
+Added Pin To Net: NetName=NetIC1D_12 Pin=R11D-3
+Added Net: Name=NetIC1D_12
+Added Pin To Net: NetName=NetIC1D_19 Pin=IC1D-19
+Added Pin To Net: NetName=NetIC1D_19 Pin=R12D-3
+Added Net: Name=NetIC1D_19
+Added Pin To Net: NetName=NetIC1D_20 Pin=IC1D-20
+Added Pin To Net: NetName=NetIC1D_20 Pin=R12D-2
+Added Net: Name=NetIC1D_20
+Add Net: Net with name "VSYS" already exists

@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=U_ToF_Bottom Member=R60
+Removed Member From Class: ClassName=U_FC_Conn Member=R62
+Removed Member From Class: ClassName=U_ToF_Bottom Member=R64
+Change Component Footprint: Designator=C59 Old Footprint=CAPAE830X1080N New Footprint=EEEHP1H4R7P
+Change Component Footprint: Designator=C60 Old Footprint=CAPAE830X1080N New Footprint=EEEHP1H4R7P
+Change Component Footprint: Designator=C27 Old Footprint=CAPAE1030X1050N New Footprint=EEEHP1H4R7P
+Change Component Comment : Designator=C27 Old Comment=EMZS350ARA681MJA0G New Comment=EEH-ZL1V151XP
+Change Component Comment : Designator=C59 Old Comment=UCD1V221MNL1GS New Comment=EEH-ZL1V151XP
+Change Component Comment : Designator=C60 Old Comment=UCD1V221MNL1GS New Comment=EEH-ZL1V151XP
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPAE1030X1050N"; UniqueID = "\YUMCNZIJ\QLVGUIGI" ("\YUMCNZIJ\QLVGUIGI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ast-ind-303928.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEH-ZL1V151XP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C59" ("C59"); Footprint = "CAPAE830X1080N"; UniqueID = "\NBHWREEU" ("\NBHWREEU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ast-ind-303928.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEH-ZL1V151XP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C60" ("C60"); Footprint = "CAPAE830X1080N"; UniqueID = "\TODCIELE" ("\TODCIELE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ast-ind-303928.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEH-ZL1V151XP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FH34SRJ50S05SH50"; UniqueID = "\UGUDORFF\KJHQBOSP" ("\UGUDORFF\KJHQBOSP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.hirose.com/en/product/document?clcode=CL0580-1266-2-50&productname=FH34SRJ-50S-0.5SH(50)&series=FH34SRJ&documenttype=2DDrawing&lang=en&documentid=0001483059"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FH34SRJ-50S-0.5SH(50)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "798-FH34SRJ50S05SH50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH34SRJ-50S-0.5SH50?qs=vcbW%252B4%252BSTIrLLD%2F8H%2F%252B%2Fhg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C7-
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R51 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R52 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R53 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R55 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R57 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R59 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R61 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R63 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R65 Res0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component R66 Res0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component R67 Res0402
+Added Member To Class: ClassName=U_FC_Conn Member=Component R68 Res0402
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=ToF Member=M1
+Added Component: Designator=J2(FC_Mount)
+Add Pin To Net: Unknown Pin: Pin J2-1
+Added Member To Class: ClassName=ToF Member=Component J2 FC_Mount

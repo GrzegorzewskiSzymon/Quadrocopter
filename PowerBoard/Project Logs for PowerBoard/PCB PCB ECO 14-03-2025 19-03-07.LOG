@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VBUS Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=VSYS Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=VSYS Pin=C20-2
+Removed Member From Class: ClassName=U_BMS Member=C7
+Removed Member From Class: ClassName=U_BMS Member=C19
+Removed Member From Class: ClassName=U_BMS Member=C20
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_BMS Member=Component Q9 PMPB07R3ENAX
+Added Member To Class: ClassName=U_BMS Member=Component Q10 PMPB07R3ENAX
+Added Member To Class: ClassName=U_BMS Member=Component Q11 PMPB07R3ENAX
