@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=+5V Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=+5V Pin=C53-2
+Removed Pin From Net: NetName=+5V Pin=IC4-3
+Change Component Designator: OldDesignator=C48 NewDesignator=C47
+Change Component Designator: OldDesignator=C49 NewDesignator=C48
+Change Component Designator: OldDesignator=C50 NewDesignator=C49
+Change Component Designator: OldDesignator=C51 NewDesignator=C50
+Change Component Designator: OldDesignator=C52 NewDesignator=C51
+Change Component Designator: OldDesignator=C53 NewDesignator=C54
+Change Component Designator: OldDesignator=C54 NewDesignator=C55
+Change Component Designator: OldDesignator=C55 NewDesignator=C56
+Change Component Designator: OldDesignator=C56 NewDesignator=C57
+Change Component Designator: OldDesignator=C57 NewDesignator=C58
+Change Component Designator: OldDesignator=C58 NewDesignator=C59
+Change Component Designator: OldDesignator=C59 NewDesignator=C60
+Change Component Designator: OldDesignator=C60 NewDesignator=C61
+Change Component Designator: OldDesignator=C61 NewDesignator=C62
+Change Component Designator: OldDesignator=C62 NewDesignator=C63
+Change Component Designator: OldDesignator=C63 NewDesignator=C64
+Change Component Designator: OldDesignator=C64 NewDesignator=C65
+Change Component Designator: OldDesignator=C65 NewDesignator=C66
+Change Component Designator: OldDesignator=C66 NewDesignator=C67
+Change Component Designator: OldDesignator=C67 NewDesignator=C68
+Change Component Designator: OldDesignator=C68 NewDesignator=C69
+Change Component Designator: OldDesignator=C69 NewDesignator=C70
+Change Component Designator: OldDesignator=C70 NewDesignator=C71
+Change Component Designator: OldDesignator=C71 NewDesignator=C72
+Change Component Designator: OldDesignator=C72 NewDesignator=C73
+Change Component Designator: OldDesignator=C73 NewDesignator=C74
+Change Component Designator: OldDesignator=C74 NewDesignator=C75
+Change Component Designator: OldDesignator=C75 NewDesignator=C76
+Change Component Designator: OldDesignator=C76 NewDesignator=C77
+Change Component Designator: OldDesignator=C77 NewDesignator=C78
+Change Component Designator: OldDesignator=C78 NewDesignator=C79
+Change Component Designator: OldDesignator=C79 NewDesignator=C80
+Change Component Designator: OldDesignator=C80 NewDesignator=C81
+Change Component Designator: OldDesignator=C81 NewDesignator=C82
+Change Component Designator: OldDesignator=C82 NewDesignator=C83
+Change Component Designator: OldDesignator=C83 NewDesignator=C84
+Change Component Designator: OldDesignator=C84 NewDesignator=C85
+Change Component Designator: OldDesignator=R45 NewDesignator=R46
+Change Component Designator: OldDesignator=R46 NewDesignator=R47
+Change Component Designator: OldDesignator=R47 NewDesignator=R48
+Change Component Designator: OldDesignator=R48 NewDesignator=R49
+Change Component Designator: OldDesignator=R49 NewDesignator=R50
+Change Component Designator: OldDesignator=R50 NewDesignator=R51
+Change Component Designator: OldDesignator=R51 NewDesignator=R52
+Change Component Designator: OldDesignator=R52 NewDesignator=R53
+Change Component Designator: OldDesignator=R53 NewDesignator=R54
+Change Component Designator: OldDesignator=R54 NewDesignator=R55
+Change Component Designator: OldDesignator=R55 NewDesignator=R56
+Change Component Designator: OldDesignator=R56 NewDesignator=R57
+Change Component Designator: OldDesignator=R57 NewDesignator=R58
+Change Component Designator: OldDesignator=R58 NewDesignator=R59
+Change Component Designator: OldDesignator=R59 NewDesignator=R60
+Change Component Designator: OldDesignator=R60 NewDesignator=R61
+Change Component Designator: OldDesignator=R61 NewDesignator=R62
+Change Component Designator: OldDesignator=R62 NewDesignator=R63
+Change Component Designator: OldDesignator=R63 NewDesignator=R64
+Change Component Designator: OldDesignator=R64 NewDesignator=R65
+Change Component Designator: OldDesignator=R65 NewDesignator=R66
+Change Component Designator: OldDesignator=R66 NewDesignator=R67
+Change Component Designator: OldDesignator=R67 NewDesignator=R68
+Change Component Designator: OldDesignator=R68 NewDesignator=R69
+Added Component: Designator=C52(CAP0603)
+Add component (AddParameter): Name = "Value"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C53(CAP0603)
+Add component (AddParameter): Name = "Value"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=DNI1(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=VBUS Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=+5V Pin=DNI1-1
+Added Pin To Net: NetName=+3V3 Pin=DNI1-2
+Added Pin To Net: NetName=+5V Pin=R45-1
+Change Net Name : Old Net Name=+5V New Net Name=+FUSB
+Change Net Name : Old Net Name=NetC54_2 New Net Name=NetC55_2
+Change Net Name : Old Net Name=NetC55_2 New Net Name=NetC56_2
+Change Net Name : Old Net Name=NetC58_2 New Net Name=NetC59_2
+Change Net Name : Old Net Name=NetC65_2 New Net Name=NetC66_2
+Change Net Name : Old Net Name=NetC66_2 New Net Name=NetC67_2
+Change Net Name : Old Net Name=NetC67_2 New Net Name=NetC68_2
+Change Net Name : Old Net Name=NetC68_2 New Net Name=NetC69_2
+Change Net Name : Old Net Name=NetC69_2 New Net Name=NetC70_2
+Change Net Name : Old Net Name=NetC70_2 New Net Name=NetC71_2
+Change Net Name : Old Net Name=NetC71_2 New Net Name=NetC72_2
+Change Net Name : Old Net Name=NetC72_2 New Net Name=NetC73_2
+Change Net Name : Old Net Name=NetC73_2 New Net Name=NetC74_2
+Change Net Name : Old Net Name=NetC74_2 New Net Name=NetC75_2
+Change Net Name : Old Net Name=NetC75_2 New Net Name=NetC76_2
+Change Net Name : Old Net Name=NetC76_2 New Net Name=NetC77_2
+Change Net Name : Old Net Name=NetC77_2 New Net Name=NetC78_2
+Change Net Name : Old Net Name=NetC78_2 New Net Name=NetC79_2
+Change Net Name : Old Net Name=NetC79_2 New Net Name=NetC80_2
+Change Net Name : Old Net Name=NetC80_2 New Net Name=NetC81_2
+Added Pin To Net: NetName=+5V Pin=C53-2
+Added Pin To Net: NetName=+5V Pin=C54-2
+Added Pin To Net: NetName=+5V Pin=IC4-3
+Added Pin To Net: NetName=+5V Pin=R45-2
+Added Net: Name=+5V
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_USB Member=Component C56 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component DNI1 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R51 Res0402
+Added Rule: Name=Schematic Supply Nets_4

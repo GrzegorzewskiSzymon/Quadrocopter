@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=VBUS Pin=R13-1
+Removed Pin From Net: NetName=NetC20_2 Pin=R13-2
+Removed Pin From Net: NetName=VBUS Pin=R15-2
+Removed Pin From Net: NetName=NetC20_2 Pin=R16-2
+Removed Member From Class: ClassName=U_USB Member=C44
+Removed Member From Class: ClassName=U_USB Member=C46
+Removed Member From Class: ClassName=U_ADC+Temp Member=C56
+Removed Member From Class: ClassName=U_ADC+Temp Member=C57
+Change Component Footprint: Designator=R13 Old Footprint=RESC3216X65N New Footprint=L4CA0612L0M50FNR
+Change Component Comment : Designator=R13 Old Comment=PA1206FRE470R01L New Comment=L4CA0612LR010FNR
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC3216X65N"; UniqueID = "\YUMCNZIJ\OJSJWSVI" ("\YUMCNZIJ\OJSJWSVI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=db674d7b-aa25-4173-816a-92297475a59f&filename=littelfuse-resistor-l4ca-c-datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L4CA0612LR010FNR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=R13-2
+Added Pin To Net: NetName=NetC20_2 Pin=R13-3
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R15-2
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR13_4 Pin=R13-4
+Added Pin To Net: NetName=NetR13_4 Pin=R16-2
+Added Net: Name=NetR13_4
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_BMS Member=Component C9 293D226X0025D2TE3
+Added Member To Class: ClassName=U_BMS Member=Component C11 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C13 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C15 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C17 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C21 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C23 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C28 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C30 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C32 Cap0603
+Added Member To Class: ClassName=U_BMS Member=Component C34 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C36 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C38 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C40 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C41 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C42 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C43 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C45 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C47 293D226X0025D2TE3
+Added Member To Class: ClassName=U_USB Member=Component C49 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C51 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C53 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C55 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C59 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C60 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C61 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C63 Cap0603
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C65 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C67 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C69 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C71 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C73 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C75 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C77 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C79 Cap0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C84 Cap0402

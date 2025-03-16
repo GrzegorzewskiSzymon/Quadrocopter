@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC29_2 Pin=R14-1
+Removed Pin From Net: NetName=NetQ8_5 Pin=R14-2
+Removed Pin From Net: NetName=BAT+_F Pin=R14-3
+Removed Pin From Net: NetName=NetC30_2 Pin=R14-4
+Added Pin To Net: NetName=NetC30_2 Pin=R14-1
+Added Pin To Net: NetName=BAT+_F Pin=R14-2
+Added Pin To Net: NetName=NetQ8_5 Pin=R14-3
+Added Pin To Net: NetName=NetC29_2 Pin=R14-4
+Add Net: Net with name "VSYS" already exists
