@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C65 Old Footprint=CAPPM168X90N New Footprint=CAPPC1608X90N
+Add Net: Net with name "VSYS" already exists
