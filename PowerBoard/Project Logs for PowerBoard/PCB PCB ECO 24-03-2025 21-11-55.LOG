@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ESC_SDI Pin=D9-4
+Removed Pin From Net: NetName=ESC_SDO Pin=D9-5
+Removed Pin From Net: NetName=ESC_SDO Pin=J3-31
+Removed Pin From Net: NetName=ESC_SDI Pin=J3-32
+Added Pin To Net: NetName=ESC_SDO Pin=D9-4
+Added Pin To Net: NetName=ESC_SDI Pin=D9-5
+Added Pin To Net: NetName=ESC_SDI Pin=J3-31
+Added Pin To Net: NetName=ESC_SDO Pin=J3-32
+Add Net: Net with name "VSYS" already exists

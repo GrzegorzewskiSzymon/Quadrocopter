@@ -1,0 +1,11 @@
+Added Component: Designator=D15(ESD8708MUTAG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/ESD8708-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD8708MUTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD8708MUTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD8708MUTAG?qs=%252B6g0mu59x7J1h3T%252BrbDk%252Bw%3D%3D"; VariantName = "[No Variations]"
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_FC_Conn Member=Component D15 ESD8708MUTAG

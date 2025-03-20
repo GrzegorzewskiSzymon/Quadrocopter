@@ -1,0 +1,195 @@
+Removed Pin From Net: NetName=ESC_INLB2 Pin=D6-1
+Removed Pin From Net: NetName=ESC_INHB2 Pin=D6-2
+Removed Pin From Net: NetName=ESC_INLA2 Pin=D6-4
+Removed Pin From Net: NetName=ESC_INHA2 Pin=D6-5
+Removed Pin From Net: NetName=ESC_INLC1 Pin=D6-7
+Removed Pin From Net: NetName=ESC_INHC1 Pin=D6-8
+Removed Pin From Net: NetName=ESC_INLB1 Pin=D6-10
+Removed Pin From Net: NetName=ESC_INHB1 Pin=D6-11
+Removed Pin From Net: NetName=ESC_INLC3 Pin=D7-1
+Removed Pin From Net: NetName=ESC_INHC3 Pin=D7-2
+Removed Pin From Net: NetName=ESC_INLB3 Pin=D7-4
+Removed Pin From Net: NetName=ESC_INHB3 Pin=D7-5
+Removed Pin From Net: NetName=ESC_INLA3 Pin=D7-7
+Removed Pin From Net: NetName=ESC_INHA3 Pin=D7-8
+Removed Pin From Net: NetName=ESC_INLC2 Pin=D7-10
+Removed Pin From Net: NetName=ESC_INHC2 Pin=D7-11
+Removed Pin From Net: NetName=ESC_NSCS2 Pin=D8-1
+Removed Pin From Net: NetName=ESC_NSCS1 Pin=D8-2
+Removed Pin From Net: NetName=ESC_INLC4 Pin=D8-4
+Removed Pin From Net: NetName=ESC_INHC4 Pin=D8-5
+Removed Pin From Net: NetName=ESC_INLB4 Pin=D8-7
+Removed Pin From Net: NetName=ESC_INHB4 Pin=D8-8
+Removed Pin From Net: NetName=ESC_INLA4 Pin=D8-10
+Removed Pin From Net: NetName=ESC_INHA4 Pin=D8-11
+Removed Pin From Net: NetName=BMS_PROCHOT Pin=D9-1
+Removed Pin From Net: NetName=ESC_ENABLE Pin=D9-2
+Removed Pin From Net: NetName=ESC_SDO Pin=D9-4
+Removed Pin From Net: NetName=ESC_SDI Pin=D9-5
+Removed Pin From Net: NetName=ESC_CLK Pin=D9-7
+Removed Pin From Net: NetName=ESC_NFAULT Pin=D9-8
+Removed Pin From Net: NetName=ESC_NSCS4 Pin=D9-10
+Removed Pin From Net: NetName=ESC_NSCS3 Pin=D9-11
+Removed Pin From Net: NetName=TOF_INT Pin=D10-4
+Removed Pin From Net: NetName=SDA Pin=D10-5
+Removed Pin From Net: NetName=SCL Pin=D10-7
+Removed Pin From Net: NetName=CB_ALERT Pin=D10-8
+Removed Pin From Net: NetName=BMS_OTG/VAP Pin=D10-10
+Removed Pin From Net: NetName=BMS_CHRG_OK Pin=D10-11
+Removed Pin From Net: NetName=ESC_INHA1 Pin=D11-1
+Removed Pin From Net: NetName=ESC_INLA1 Pin=D12-1
+Removed Pin From Net: NetName=ESC_INHA1 Pin=J3-1
+Removed Pin From Net: NetName=ESC_INLA1 Pin=J3-2
+Removed Pin From Net: NetName=ESC_INHB1 Pin=J3-3
+Removed Pin From Net: NetName=ESC_INLB1 Pin=J3-4
+Removed Pin From Net: NetName=ESC_INHC1 Pin=J3-5
+Removed Pin From Net: NetName=ESC_INLC1 Pin=J3-6
+Removed Pin From Net: NetName=ESC_INHA2 Pin=J3-7
+Removed Pin From Net: NetName=ESC_INLA2 Pin=J3-8
+Removed Pin From Net: NetName=ESC_INHB2 Pin=J3-9
+Removed Pin From Net: NetName=ESC_INLB2 Pin=J3-10
+Removed Pin From Net: NetName=ESC_INHC2 Pin=J3-11
+Removed Pin From Net: NetName=ESC_INLC2 Pin=J3-12
+Removed Pin From Net: NetName=ESC_INHA3 Pin=J3-13
+Removed Pin From Net: NetName=ESC_INLA3 Pin=J3-14
+Removed Pin From Net: NetName=ESC_INHB3 Pin=J3-15
+Removed Pin From Net: NetName=ESC_INLB3 Pin=J3-16
+Removed Pin From Net: NetName=ESC_INHC3 Pin=J3-17
+Removed Pin From Net: NetName=ESC_INLC3 Pin=J3-18
+Removed Pin From Net: NetName=ESC_INHA4 Pin=J3-19
+Removed Pin From Net: NetName=ESC_INLA4 Pin=J3-20
+Removed Pin From Net: NetName=ESC_INHB4 Pin=J3-21
+Removed Pin From Net: NetName=ESC_INLB4 Pin=J3-22
+Removed Pin From Net: NetName=ESC_INHC4 Pin=J3-23
+Removed Pin From Net: NetName=ESC_INLC4 Pin=J3-24
+Removed Pin From Net: NetName=ESC_NSCS1 Pin=J3-25
+Removed Pin From Net: NetName=ESC_NSCS2 Pin=J3-26
+Removed Pin From Net: NetName=ESC_NSCS3 Pin=J3-27
+Removed Pin From Net: NetName=ESC_NSCS4 Pin=J3-28
+Removed Pin From Net: NetName=ESC_NFAULT Pin=J3-29
+Removed Pin From Net: NetName=ESC_CLK Pin=J3-30
+Removed Pin From Net: NetName=ESC_SDI Pin=J3-31
+Removed Pin From Net: NetName=ESC_SDO Pin=J3-32
+Removed Pin From Net: NetName=ESC_ENABLE Pin=J3-33
+Removed Pin From Net: NetName=BMS_PROCHOT Pin=J3-34
+Removed Pin From Net: NetName=BMS_CHRG_OK Pin=J3-35
+Removed Pin From Net: NetName=BMS_OTG/VAP Pin=J3-36
+Removed Pin From Net: NetName=CB_ALERT Pin=J3-37
+Removed Pin From Net: NetName=SCL Pin=J3-38
+Removed Pin From Net: NetName=SDA Pin=J3-39
+Removed Pin From Net: NetName=TOF_INT Pin=J3-40
+Added Pin To Net: NetName=ESC_INLC1 Pin=D10-4
+Added Pin To Net: NetName=ESC_INHC1 Pin=D10-5
+Added Pin To Net: NetName=ESC_INLB1 Pin=D10-7
+Added Pin To Net: NetName=ESC_INHB1 Pin=D10-8
+Added Pin To Net: NetName=ESC_INLA1 Pin=D10-10
+Added Pin To Net: NetName=ESC_INHA1 Pin=D10-11
+Added Pin To Net: NetName=ESC_INHA1 Pin=J3-35
+Added Pin To Net: NetName=ESC_INLA1 Pin=J3-36
+Added Pin To Net: NetName=ESC_INHB1 Pin=J3-37
+Added Pin To Net: NetName=ESC_INLB1 Pin=J3-38
+Added Pin To Net: NetName=ESC_INHC1 Pin=J3-39
+Added Pin To Net: NetName=ESC_INLC1 Pin=J3-40
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=J3-10
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=J3-9
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD6_4 Pin=D6-4
+Added Pin To Net: NetName=NetD6_4 Pin=J3-8
+Added Net: Name=NetD6_4
+Added Pin To Net: NetName=NetD6_5 Pin=D6-5
+Added Pin To Net: NetName=NetD6_5 Pin=J3-7
+Added Net: Name=NetD6_5
+Added Pin To Net: NetName=NetD6_7 Pin=D6-7
+Added Pin To Net: NetName=NetD6_7 Pin=J3-6
+Added Net: Name=NetD6_7
+Added Pin To Net: NetName=NetD6_8 Pin=D6-8
+Added Pin To Net: NetName=NetD6_8 Pin=J3-5
+Added Net: Name=NetD6_8
+Added Pin To Net: NetName=NetD6_10 Pin=D6-10
+Added Pin To Net: NetName=NetD6_10 Pin=J3-4
+Added Net: Name=NetD6_10
+Added Pin To Net: NetName=NetD6_11 Pin=D6-11
+Added Pin To Net: NetName=NetD6_11 Pin=J3-3
+Added Net: Name=NetD6_11
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=J3-18
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=J3-17
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD7_4 Pin=D7-4
+Added Pin To Net: NetName=NetD7_4 Pin=J3-16
+Added Net: Name=NetD7_4
+Added Pin To Net: NetName=NetD7_5 Pin=D7-5
+Added Pin To Net: NetName=NetD7_5 Pin=J3-15
+Added Net: Name=NetD7_5
+Added Pin To Net: NetName=NetD7_7 Pin=D7-7
+Added Pin To Net: NetName=NetD7_7 Pin=J3-14
+Added Net: Name=NetD7_7
+Added Pin To Net: NetName=NetD7_8 Pin=D7-8
+Added Pin To Net: NetName=NetD7_8 Pin=J3-13
+Added Net: Name=NetD7_8
+Added Pin To Net: NetName=NetD7_10 Pin=D7-10
+Added Pin To Net: NetName=NetD7_10 Pin=J3-12
+Added Net: Name=NetD7_10
+Added Pin To Net: NetName=NetD7_11 Pin=D7-11
+Added Pin To Net: NetName=NetD7_11 Pin=J3-11
+Added Net: Name=NetD7_11
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=J3-26
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=J3-25
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD8_4 Pin=D8-4
+Added Pin To Net: NetName=NetD8_4 Pin=J3-24
+Added Net: Name=NetD8_4
+Added Pin To Net: NetName=NetD8_5 Pin=D8-5
+Added Pin To Net: NetName=NetD8_5 Pin=J3-23
+Added Net: Name=NetD8_5
+Added Pin To Net: NetName=NetD8_7 Pin=D8-7
+Added Pin To Net: NetName=NetD8_7 Pin=J3-22
+Added Net: Name=NetD8_7
+Added Pin To Net: NetName=NetD8_8 Pin=D8-8
+Added Pin To Net: NetName=NetD8_8 Pin=J3-21
+Added Net: Name=NetD8_8
+Added Pin To Net: NetName=NetD8_10 Pin=D8-10
+Added Pin To Net: NetName=NetD8_10 Pin=J3-20
+Added Net: Name=NetD8_10
+Added Pin To Net: NetName=NetD8_11 Pin=D8-11
+Added Pin To Net: NetName=NetD8_11 Pin=J3-19
+Added Net: Name=NetD8_11
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=J3-34
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=J3-33
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD9_4 Pin=D9-4
+Added Pin To Net: NetName=NetD9_4 Pin=J3-32
+Added Net: Name=NetD9_4
+Added Pin To Net: NetName=NetD9_5 Pin=D9-5
+Added Pin To Net: NetName=NetD9_5 Pin=J3-31
+Added Net: Name=NetD9_5
+Added Pin To Net: NetName=NetD9_7 Pin=D9-7
+Added Pin To Net: NetName=NetD9_7 Pin=J3-30
+Added Net: Name=NetD9_7
+Added Pin To Net: NetName=NetD9_8 Pin=D9-8
+Added Pin To Net: NetName=NetD9_8 Pin=J3-29
+Added Net: Name=NetD9_8
+Added Pin To Net: NetName=NetD9_10 Pin=D9-10
+Added Pin To Net: NetName=NetD9_10 Pin=J3-28
+Added Net: Name=NetD9_10
+Added Pin To Net: NetName=NetD9_11 Pin=D9-11
+Added Pin To Net: NetName=NetD9_11 Pin=J3-27
+Added Net: Name=NetD9_11
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=J3-1
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=J3-2
+Added Net: Name=NetD12_1
+Add Net: Net with name "VSYS" already exists

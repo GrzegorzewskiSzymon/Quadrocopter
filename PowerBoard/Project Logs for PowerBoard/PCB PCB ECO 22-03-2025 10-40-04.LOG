@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=GND Pin=R10A-1
+Removed Pin From Net: NetName=NetIC1A_10 Pin=R10A-2
+Removed Pin From Net: NetName=NetIC1A_9 Pin=R10A-3
+Removed Pin From Net: NetName=NetQ2A_5 Pin=R10A-4
+Removed Pin From Net: NetName=GND Pin=R10B-1
+Removed Pin From Net: NetName=NetIC1B_10 Pin=R10B-2
+Removed Pin From Net: NetName=NetIC1B_9 Pin=R10B-3
+Removed Pin From Net: NetName=NetQ2B_5 Pin=R10B-4
+Removed Pin From Net: NetName=GND Pin=R10C-1
+Removed Pin From Net: NetName=NetIC1C_10 Pin=R10C-2
+Removed Pin From Net: NetName=NetIC1C_9 Pin=R10C-3
+Removed Pin From Net: NetName=NetQ2C_5 Pin=R10C-4
+Removed Pin From Net: NetName=GND Pin=R10D-1
+Removed Pin From Net: NetName=NetIC1D_10 Pin=R10D-2
+Removed Pin From Net: NetName=NetIC1D_9 Pin=R10D-3
+Removed Pin From Net: NetName=NetQ2D_5 Pin=R10D-4
+Removed Pin From Net: NetName=GND Pin=R12A-1
+Removed Pin From Net: NetName=NetIC1A_20 Pin=R12A-2
+Removed Pin From Net: NetName=NetIC1A_19 Pin=R12A-3
+Removed Pin From Net: NetName=NetQ6A_5 Pin=R12A-4
+Removed Pin From Net: NetName=GND Pin=R12B-1
+Removed Pin From Net: NetName=NetIC1B_20 Pin=R12B-2
+Removed Pin From Net: NetName=NetIC1B_19 Pin=R12B-3
+Removed Pin From Net: NetName=NetQ6B_5 Pin=R12B-4
+Removed Pin From Net: NetName=GND Pin=R12C-1
+Removed Pin From Net: NetName=NetIC1C_20 Pin=R12C-2
+Removed Pin From Net: NetName=NetIC1C_19 Pin=R12C-3
+Removed Pin From Net: NetName=NetQ6C_5 Pin=R12C-4
+Removed Pin From Net: NetName=GND Pin=R12D-1
+Removed Pin From Net: NetName=NetIC1D_20 Pin=R12D-2
+Removed Pin From Net: NetName=NetIC1D_19 Pin=R12D-3
+Removed Pin From Net: NetName=NetQ6D_5 Pin=R12D-4
+Added Pin To Net: NetName=NetQ2A_5 Pin=R10A-1
+Added Pin To Net: NetName=NetIC1A_9 Pin=R10A-2
+Added Pin To Net: NetName=NetIC1A_10 Pin=R10A-3
+Added Pin To Net: NetName=GND Pin=R10A-4
+Added Pin To Net: NetName=NetQ2B_5 Pin=R10B-1
+Added Pin To Net: NetName=NetIC1B_9 Pin=R10B-2
+Added Pin To Net: NetName=NetIC1B_10 Pin=R10B-3
+Added Pin To Net: NetName=GND Pin=R10B-4
+Added Pin To Net: NetName=NetQ2C_5 Pin=R10C-1
+Added Pin To Net: NetName=NetIC1C_9 Pin=R10C-2
+Added Pin To Net: NetName=NetIC1C_10 Pin=R10C-3
+Added Pin To Net: NetName=GND Pin=R10C-4
+Added Pin To Net: NetName=NetQ2D_5 Pin=R10D-1
+Added Pin To Net: NetName=NetIC1D_9 Pin=R10D-2
+Added Pin To Net: NetName=NetIC1D_10 Pin=R10D-3
+Added Pin To Net: NetName=GND Pin=R10D-4
+Added Pin To Net: NetName=NetQ6A_5 Pin=R12A-1
+Added Pin To Net: NetName=NetIC1A_19 Pin=R12A-2
+Added Pin To Net: NetName=NetIC1A_20 Pin=R12A-3
+Added Pin To Net: NetName=GND Pin=R12A-4
+Added Pin To Net: NetName=NetQ6B_5 Pin=R12B-1
+Added Pin To Net: NetName=NetIC1B_19 Pin=R12B-2
+Added Pin To Net: NetName=NetIC1B_20 Pin=R12B-3
+Added Pin To Net: NetName=GND Pin=R12B-4
+Added Pin To Net: NetName=NetQ6C_5 Pin=R12C-1
+Added Pin To Net: NetName=NetIC1C_19 Pin=R12C-2
+Added Pin To Net: NetName=NetIC1C_20 Pin=R12C-3
+Added Pin To Net: NetName=GND Pin=R12C-4
+Added Pin To Net: NetName=NetQ6D_5 Pin=R12D-1
+Added Pin To Net: NetName=NetIC1D_19 Pin=R12D-2
+Added Pin To Net: NetName=NetIC1D_20 Pin=R12D-3
+Added Pin To Net: NetName=GND Pin=R12D-4
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_FC_Conn Member=Component D6 ESD8708MUTAG
+Added Member To Class: ClassName=U_FC_Conn Member=Component D7 ESD8708MUTAG
+Added Member To Class: ClassName=U_FC_Conn Member=Component D11 D1213A-01LP4-7B
+Added Member To Class: ClassName=U_ESC1 Member=Component R6A (R6) Res0402
+Added Member To Class: ClassName=U_ESC2 Member=Component R6B (R6) Res0402
+Added Member To Class: ClassName=U_ESC3 Member=Component R6C (R6) Res0402
+Added Member To Class: ClassName=U_ESC4 Member=Component R6D (R6) Res0402
+Added Member To Class: ClassName=U_ESC1 Member=Component R7A (R7) Res0402
+Added Member To Class: ClassName=U_ESC2 Member=Component R7B (R7) Res0402
+Added Member To Class: ClassName=U_ESC3 Member=Component R7C (R7) Res0402
+Added Member To Class: ClassName=U_ESC4 Member=Component R7D (R7) Res0402
+Added Member To Class: ClassName=U_ESC1 Member=Component R8A (R8) Res0402
+Added Member To Class: ClassName=U_ESC2 Member=Component R8B (R8) Res0402
+Added Member To Class: ClassName=U_ESC3 Member=Component R8C (R8) Res0402
+Added Member To Class: ClassName=U_ESC4 Member=Component R8D (R8) Res0402
+Added Member To Class: ClassName=U_ESC1 Member=Component R9A (R9) Res0402
+Added Member To Class: ClassName=U_ESC2 Member=Component R9B (R9) Res0402
+Added Member To Class: ClassName=U_ESC3 Member=Component R9C (R9) Res0402
+Added Member To Class: ClassName=U_ESC4 Member=Component R9D (R9) Res0402

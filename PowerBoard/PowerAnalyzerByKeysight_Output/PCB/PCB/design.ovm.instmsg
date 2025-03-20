@@ -1,0 +1,6 @@
+InstanceList size is 2
+Found 2 instances, 1 instances overlapped with other pins or instances
+
+1000001	F1	Found,growthperc=0,findBufferLength=1,preferential=1, layerIds=[1], stackIds=[3], position= (-0.00685,-0.0025,0.000929201)-(-0.00015,-0.0025,0.000964202), inputPosition= (-0.00685,-0.0025,0.000929201)-(-0.00015,-0.0025,0.000964202)
+1000000	Q1A	Found,growthperc=0,findBufferLength=71,preferential=1, layerIds=[32], stackIds=[0], position= (-0.0651892,-0.00689389,-3.50012e-05)-(-0.0632392,-0.00374389,0), inputPosition= (-0.0651892,-0.00689389,-3.50012e-05)-(-0.0632392,-0.00374389,0)
+1000000	Q1A	Overlapped with 12,growthperc=0,findBufferLength=71,preferential=1, layerIds=[32], stackIds=[0], position= (-0.0651892,-0.00689389,-3.50012e-05)-(-0.0632392,-0.00374389,0), inputPosition= (-0.0651892,-0.00689389,-3.50012e-05)-(-0.0632392,-0.00374389,0)

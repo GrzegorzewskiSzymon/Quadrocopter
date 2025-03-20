@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=ESC_INLB1 Pin=D9-1
+Removed Pin From Net: NetName=ESC_INHB1 Pin=D9-2
+Removed Pin From Net: NetName=ESC_INLA1 Pin=D9-4
+Removed Pin From Net: NetName=ESC_INHA1 Pin=D9-5
+Removed Pin From Net: NetName=ESC_INLC1 Pin=D10-10
+Removed Pin From Net: NetName=ESC_INHC1 Pin=D10-11
+Removed Pin From Net: NetName=ESC_INHA1 Pin=J3-29
+Removed Pin From Net: NetName=ESC_INLA1 Pin=J3-30
+Removed Pin From Net: NetName=ESC_INHB1 Pin=J3-31
+Removed Pin From Net: NetName=ESC_INLB1 Pin=J3-32
+Removed Pin From Net: NetName=ESC_INHC1 Pin=J3-33
+Removed Pin From Net: NetName=ESC_INLC1 Pin=J3-34
+Added Pin To Net: NetName=ESC_INHB1 Pin=D9-1
+Added Pin To Net: NetName=ESC_INLB1 Pin=D9-2
+Added Pin To Net: NetName=ESC_INHC1 Pin=D9-4
+Added Pin To Net: NetName=ESC_INLC1 Pin=D9-5
+Added Pin To Net: NetName=ESC_INHA1 Pin=D10-10
+Added Pin To Net: NetName=ESC_INLA1 Pin=D10-11
+Added Pin To Net: NetName=ESC_INLC1 Pin=J3-29
+Added Pin To Net: NetName=ESC_INHC1 Pin=J3-30
+Added Pin To Net: NetName=ESC_INLB1 Pin=J3-31
+Added Pin To Net: NetName=ESC_INHB1 Pin=J3-32
+Added Pin To Net: NetName=ESC_INLA1 Pin=J3-33
+Added Pin To Net: NetName=ESC_INHA1 Pin=J3-34
+Add Net: Net with name "VSYS" already exists

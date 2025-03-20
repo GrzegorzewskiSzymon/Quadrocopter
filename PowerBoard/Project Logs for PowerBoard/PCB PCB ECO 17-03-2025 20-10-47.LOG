@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=+FUSB Pin=C49-2
+Removed Pin From Net: NetName=+FUSB Pin=C50-2
+Removed Pin From Net: NetName=VBUS Pin=IC4-1
+Removed Pin From Net: NetName=+5V Pin=IC4-3
+Removed Pin From Net: NetName=+FUSB Pin=IC5-A3
+Removed Member From Class: ClassName=U_USB Member=C58
+Removed Member From Class: ClassName=U_ADC+Temp Member=C82
+Removed Member From Class: ClassName=U_USB Member=R52
+Change Component Footprint: Designator=IC4 Old Footprint=TL720M05GQKVURQ1 New Footprint=TL431AQPKG3
+Change Component Comment : Designator=IC4 Old Comment=TL720M05GQKVURQ1 New Comment=TLV70950PKR
+Change component parameters: Designator = "C47" ("C47"); Footprint = "CAP0603"; UniqueID = "\KGKENIAL\IVRUGTUD" ("\KGKENIAL\IVRUGTUD")
+Change component parameters (AddParameter): Name = "Value"; Value = "2u2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC4" ("IC4"); Footprint = "TL720M05GQKVURQ1"; UniqueID = "\KGKENIAL\CPNNYGOU" ("\KGKENIAL\CPNNYGOU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TLV70950PKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/tlv709"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV70950PKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV70950PKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV70950PKR?qs=dbcCsuKDzFU3yYGsVf2izQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C49-2
+Added Pin To Net: NetName=+3V3 Pin=C50-2
+Added Pin To Net: NetName=+5V Pin=IC4-1
+Added Pin To Net: NetName=GND Pin=IC4-2
+Added Pin To Net: NetName=VBUS Pin=IC4-3
+Added Pin To Net: NetName=+3V3 Pin=IC5-A3
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_USB Member=Component C47 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C49 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C51 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C52 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C53 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C55 Cap0402
+Added Member To Class: ClassName=Main Member=Component C57 EEH-ZL1V151XP
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C59 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C61 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C63 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C65 TMCJ0J106MTRF
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C67 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C69 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C71 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C73 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C75 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C77 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C79 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C81 Cap0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C83 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component R45 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R47 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R49 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R51 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R53 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R55 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R57 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R59 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R61 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R63 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R65 Res0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component R67 Res0402

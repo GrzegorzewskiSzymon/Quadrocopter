@@ -1,0 +1,19 @@
+StiFile 1.2
+# File generated on Thu Mar 20 19:49:39 2025
+
+Electric 1:
+  name: "F1"
+  voltage: 16.7899
+  current: -10
+  pluspin: 1  voltage: 16.7899  current: -10  name: "F1-2"
+  minpin: 0  voltage: 0  current: 10  name: "F1.min"
+
+Electric 2:
+  name: "Q1A"
+  voltage: 16.7596
+  current: 10
+  pluspin: 11  voltage: 16.7596  current: 3.84173  name: "Q1A-1"
+  pluspin: 12  voltage: 16.7596  current: 2.02513  name: "Q1A-2"
+  pluspin: 13  voltage: 16.7596  current: 4.13315  name: "Q1A-3"
+  minpin: 0  voltage: 0  current: -10  name: "Q1A.min"
+

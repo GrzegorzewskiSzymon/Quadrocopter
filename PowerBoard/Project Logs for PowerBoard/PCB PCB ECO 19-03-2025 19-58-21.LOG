@@ -1,0 +1,183 @@
+Removed Pin From Net: NetName=ESC_INHB1 Pin=D8-1
+Removed Pin From Net: NetName=ESC_INLB1 Pin=D8-2
+Removed Pin From Net: NetName=ESC_INHC1 Pin=D8-4
+Removed Pin From Net: NetName=ESC_INLC1 Pin=D8-5
+Removed Pin From Net: NetName=ESC_INHA2 Pin=D8-6
+Removed Pin From Net: NetName=ESC_INLA2 Pin=D8-7
+Removed Pin From Net: NetName=ESC_INHB2 Pin=D8-8
+Removed Pin From Net: NetName=ESC_INLB2 Pin=D8-9
+Removed Pin From Net: NetName=ESC_INHC2 Pin=D9-1
+Removed Pin From Net: NetName=ESC_INLC2 Pin=D9-2
+Removed Pin From Net: NetName=ESC_INHA3 Pin=D9-4
+Removed Pin From Net: NetName=ESC_INLA3 Pin=D9-5
+Removed Pin From Net: NetName=ESC_INHB3 Pin=D9-6
+Removed Pin From Net: NetName=ESC_INLB3 Pin=D9-7
+Removed Pin From Net: NetName=ESC_INHC3 Pin=D9-8
+Removed Pin From Net: NetName=ESC_INLC3 Pin=D9-9
+Removed Pin From Net: NetName=ESC_INHA4 Pin=D10-1
+Removed Pin From Net: NetName=ESC_INLA4 Pin=D10-2
+Removed Pin From Net: NetName=ESC_INHB4 Pin=D10-4
+Removed Pin From Net: NetName=ESC_INLB4 Pin=D10-5
+Removed Pin From Net: NetName=ESC_INHC4 Pin=D10-6
+Removed Pin From Net: NetName=ESC_INLC4 Pin=D10-7
+Removed Pin From Net: NetName=ESC_NSCS1 Pin=D10-8
+Removed Pin From Net: NetName=ESC_NSCS2 Pin=D10-9
+Removed Pin From Net: NetName=ESC_NSCS3 Pin=D11-1
+Removed Pin From Net: NetName=ESC_NSCS4 Pin=D11-2
+Removed Pin From Net: NetName=GND Pin=D11-3
+Removed Pin From Net: NetName=ESC_NFAULT Pin=D11-4
+Removed Pin From Net: NetName=ESC_CLK Pin=D11-5
+Removed Pin From Net: NetName=ESC_SDO Pin=D11-6
+Removed Pin From Net: NetName=ESC_SDI Pin=D11-7
+Removed Pin From Net: NetName=ESC_ENABLE Pin=D11-8
+Removed Pin From Net: NetName=BMS_PROCHOT Pin=D11-9
+Removed Member From Class: ClassName=U_FC_Conn Member=D15
+Change Component Footprint: Designator=D8 Old Footprint=DT1240A08LP38107 New Footprint=ESD8708MUTAG
+Change Component Footprint: Designator=D9 Old Footprint=DT1240A08LP38107 New Footprint=ESD8708MUTAG
+Change Component Footprint: Designator=D10 Old Footprint=DT1240A08LP38107 New Footprint=ESD8708MUTAG
+Change Component Comment : Designator=D8 Old Comment=DT1240A-08LP3810-7 New Comment=ESD8708MUTAG
+Change Component Comment : Designator=D9 Old Comment=DT1240A-08LP3810-7 New Comment=ESD8708MUTAG
+Change Component Comment : Designator=D10 Old Comment=DT1240A-08LP3810-7 New Comment=ESD8708MUTAG
+Change Component Designator: OldDesignator=D6 NewDesignator=D11
+Change Component Designator: OldDesignator=D7 NewDesignator=D12
+Change Component Designator: OldDesignator=D15 NewDesignator=D6
+Change Component Designator: OldDesignator=R5A NewDesignator=R6A
+Change Component Designator: OldDesignator=R5B NewDesignator=R6B
+Change Component Designator: OldDesignator=R5C NewDesignator=R6C
+Change Component Designator: OldDesignator=R5D NewDesignator=R6D
+Change Component Designator: OldDesignator=R6A NewDesignator=R7A
+Change Component Designator: OldDesignator=R6B NewDesignator=R7B
+Change Component Designator: OldDesignator=R6C NewDesignator=R7C
+Change Component Designator: OldDesignator=R6D NewDesignator=R7D
+Change Component Designator: OldDesignator=R7A NewDesignator=R8A
+Change Component Designator: OldDesignator=R7B NewDesignator=R8B
+Change Component Designator: OldDesignator=R7C NewDesignator=R8C
+Change Component Designator: OldDesignator=R7D NewDesignator=R8D
+Change Component Designator: OldDesignator=R8A NewDesignator=R9A
+Change Component Designator: OldDesignator=R8B NewDesignator=R9B
+Change Component Designator: OldDesignator=R8C NewDesignator=R9C
+Change Component Designator: OldDesignator=R8D NewDesignator=R9D
+Change Component Designator: OldDesignator=R9A NewDesignator=R5A
+Change Component Designator: OldDesignator=R9B NewDesignator=R5B
+Change Component Designator: OldDesignator=R9C NewDesignator=R5C
+Change Component Designator: OldDesignator=R9D NewDesignator=R5D
+Change component parameters: Designator = "D8" ("D8"); Footprint = "DT1240A08LP38107"; UniqueID = "\UGUDORFF\HUXOIKBO" ("\UGUDORFF\HUXOIKBO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/ESD8708-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD8708MUTAG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD8708MUTAG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD8708MUTAG?qs=%252B6g0mu59x7J1h3T%252BrbDk%252Bw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "DT1240A08LP38107"; UniqueID = "\UGUDORFF\OLLVYWXO" ("\UGUDORFF\OLLVYWXO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/ESD8708-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD8708MUTAG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD8708MUTAG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD8708MUTAG?qs=%252B6g0mu59x7J1h3T%252BrbDk%252Bw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "DT1240A08LP38107"; UniqueID = "\UGUDORFF\YGKKRISM" ("\UGUDORFF\YGKKRISM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/ESD8708-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD8708MUTAG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD8708MUTAG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD8708MUTAG?qs=%252B6g0mu59x7J1h3T%252BrbDk%252Bw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D7(ESD8708MUTAG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/ESD8708-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD8708MUTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD8708MUTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD8708MUTAG?qs=%252B6g0mu59x7J1h3T%252BrbDk%252Bw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESC_INLB2 Pin=D6-1
+Added Pin To Net: NetName=ESC_INHB2 Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D6-3
+Added Pin To Net: NetName=ESC_INLA2 Pin=D6-4
+Added Pin To Net: NetName=ESC_INHA2 Pin=D6-5
+Added Pin To Net: NetName=GND Pin=D6-6
+Added Pin To Net: NetName=ESC_INLC1 Pin=D6-7
+Added Pin To Net: NetName=ESC_INHC1 Pin=D6-8
+Added Pin To Net: NetName=GND Pin=D6-9
+Added Pin To Net: NetName=ESC_INLB1 Pin=D6-10
+Added Pin To Net: NetName=ESC_INHB1 Pin=D6-11
+Added Pin To Net: NetName=GND Pin=D6-12
+Added Pin To Net: NetName=GND Pin=D6-13
+Added Pin To Net: NetName=GND Pin=D6-14
+Added Pin To Net: NetName=GND Pin=D6-15
+Added Pin To Net: NetName=GND Pin=D6-16
+Added Pin To Net: NetName=GND Pin=D6-17
+Added Pin To Net: NetName=ESC_INLC3 Pin=D7-1
+Added Pin To Net: NetName=ESC_INHC3 Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D7-3
+Added Pin To Net: NetName=ESC_INLB3 Pin=D7-4
+Added Pin To Net: NetName=ESC_INHB3 Pin=D7-5
+Added Pin To Net: NetName=GND Pin=D7-6
+Added Pin To Net: NetName=ESC_INLA3 Pin=D7-7
+Added Pin To Net: NetName=ESC_INHA3 Pin=D7-8
+Added Pin To Net: NetName=GND Pin=D7-9
+Added Pin To Net: NetName=ESC_INLC2 Pin=D7-10
+Added Pin To Net: NetName=ESC_INHC2 Pin=D7-11
+Added Pin To Net: NetName=GND Pin=D7-12
+Added Pin To Net: NetName=GND Pin=D7-13
+Added Pin To Net: NetName=GND Pin=D7-14
+Added Pin To Net: NetName=GND Pin=D7-15
+Added Pin To Net: NetName=GND Pin=D7-16
+Added Pin To Net: NetName=GND Pin=D7-17
+Added Pin To Net: NetName=ESC_NSCS2 Pin=D8-1
+Added Pin To Net: NetName=ESC_NSCS1 Pin=D8-2
+Added Pin To Net: NetName=ESC_INLC4 Pin=D8-4
+Added Pin To Net: NetName=ESC_INHC4 Pin=D8-5
+Added Pin To Net: NetName=GND Pin=D8-6
+Added Pin To Net: NetName=ESC_INLB4 Pin=D8-7
+Added Pin To Net: NetName=ESC_INHB4 Pin=D8-8
+Added Pin To Net: NetName=GND Pin=D8-9
+Added Pin To Net: NetName=ESC_INLA4 Pin=D8-10
+Added Pin To Net: NetName=ESC_INHA4 Pin=D8-11
+Added Pin To Net: NetName=GND Pin=D8-12
+Added Pin To Net: NetName=GND Pin=D8-13
+Added Pin To Net: NetName=GND Pin=D8-14
+Added Pin To Net: NetName=GND Pin=D8-15
+Added Pin To Net: NetName=GND Pin=D8-16
+Added Pin To Net: NetName=GND Pin=D8-17
+Added Pin To Net: NetName=BMS_PROCHOT Pin=D9-1
+Added Pin To Net: NetName=ESC_ENABLE Pin=D9-2
+Added Pin To Net: NetName=ESC_SDI Pin=D9-4
+Added Pin To Net: NetName=ESC_SDO Pin=D9-5
+Added Pin To Net: NetName=GND Pin=D9-6
+Added Pin To Net: NetName=ESC_CLK Pin=D9-7
+Added Pin To Net: NetName=ESC_NFAULT Pin=D9-8
+Added Pin To Net: NetName=GND Pin=D9-9
+Added Pin To Net: NetName=ESC_NSCS4 Pin=D9-10
+Added Pin To Net: NetName=ESC_NSCS3 Pin=D9-11
+Added Pin To Net: NetName=GND Pin=D9-12
+Added Pin To Net: NetName=GND Pin=D9-13
+Added Pin To Net: NetName=GND Pin=D9-14
+Added Pin To Net: NetName=GND Pin=D9-15
+Added Pin To Net: NetName=GND Pin=D9-16
+Added Pin To Net: NetName=GND Pin=D9-17
+Added Pin To Net: NetName=UDB_D- Pin=D10-1
+Added Pin To Net: NetName=UDB_D+ Pin=D10-2
+Added Pin To Net: NetName=TOF_INT Pin=D10-4
+Added Pin To Net: NetName=SDA Pin=D10-5
+Added Pin To Net: NetName=GND Pin=D10-6
+Added Pin To Net: NetName=SCL Pin=D10-7
+Added Pin To Net: NetName=CB_ALERT Pin=D10-8
+Added Pin To Net: NetName=GND Pin=D10-9
+Added Pin To Net: NetName=BMS_OTG/VAP Pin=D10-10
+Added Pin To Net: NetName=BMS_CHRG_OK Pin=D10-11
+Added Pin To Net: NetName=GND Pin=D10-12
+Added Pin To Net: NetName=GND Pin=D10-13
+Added Pin To Net: NetName=GND Pin=D10-14
+Added Pin To Net: NetName=GND Pin=D10-15
+Added Pin To Net: NetName=GND Pin=D10-16
+Added Pin To Net: NetName=GND Pin=D10-17
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_FC_Conn Member=Component D12 D1213A-01LP4-7B

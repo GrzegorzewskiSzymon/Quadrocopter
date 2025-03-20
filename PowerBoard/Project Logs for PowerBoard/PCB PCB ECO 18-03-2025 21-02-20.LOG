@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=U_USB Member=R53
+Removed Member From Class: ClassName=U_ToF_Bottom Member=R70
+Change Component Footprint: Designator=C44 Old Footprint=CAP0402 New Footprint=CAP0805
+Change Component Footprint: Designator=R38 Old Footprint=CAP0805 New Footprint=RES0402
+Change component parameters: Designator = "C43" ("C43"); Footprint = "CAP0805"; UniqueID = "\YUMCNZIJ\UXEGHGME" ("\YUMCNZIJ\UXEGHGME")
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C44" ("C44"); Footprint = "CAP0402"; UniqueID = "\YUMCNZIJ\GWHXUZLV" ("\YUMCNZIJ\GWHXUZLV")
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C45" ("C45"); Footprint = "CAP0402"; UniqueID = "\YUMCNZIJ\XGMWGNMD" ("\YUMCNZIJ\XGMWGNMD")
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C46" ("C46"); Footprint = "CAP0402"; UniqueID = "\YUMCNZIJ\RDLCSMCL" ("\YUMCNZIJ\RDLCSMCL")
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "RES0805"; UniqueID = "\YUMCNZIJ\GRPENFHL" ("\YUMCNZIJ\GRPENFHL")
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "RES0805"; UniqueID = "\YUMCNZIJ\OXKIIBBO" ("\YUMCNZIJ\OXKIIBBO")
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "RES0805"; UniqueID = "\YUMCNZIJ\TGYQUDAN" ("\YUMCNZIJ\TGYQUDAN")
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "RES0805"; UniqueID = "\YUMCNZIJ\DPISAEVH" ("\YUMCNZIJ\DPISAEVH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_USB Member=Component R45 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R46 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R48 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R50 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R52 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R54 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R56 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R58 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R60 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R62 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R64 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R66 Res0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component R68 Res0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component R69 Res0402
