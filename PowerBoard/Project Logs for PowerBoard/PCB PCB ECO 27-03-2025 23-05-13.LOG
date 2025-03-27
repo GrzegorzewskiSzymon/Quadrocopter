@@ -1,0 +1,604 @@
+Removed Pin From Net: NetName=NetIC9_9 Pin=R68-2
+Removed Pin From Net: NetName=NetIC9_10 Pin=R68-3
+Removed Pin From Net: NetName=NetIC9_12 Pin=R69-2
+Removed Pin From Net: NetName=NetIC9_11 Pin=R69-3
+Removed Pin From Net: NetName=NetIC9_19 Pin=R70-2
+Removed Pin From Net: NetName=NetIC9_20 Pin=R70-3
+Removed Pin From Net: NetName=NetQ13_5 Pin=R80-1
+Removed Pin From Net: NetName=NetIC10_9 Pin=R80-2
+Removed Pin From Net: NetName=NetIC10_10 Pin=R80-3
+Removed Pin From Net: NetName=GND Pin=R80-4
+Removed Pin From Net: NetName=NetQ15_5 Pin=R81-1
+Removed Pin From Net: NetName=NetIC10_12 Pin=R81-2
+Removed Pin From Net: NetName=NetIC10_11 Pin=R81-3
+Removed Pin From Net: NetName=GND Pin=R81-4
+Removed Pin From Net: NetName=NetQ17_5 Pin=R82-1
+Removed Pin From Net: NetName=NetIC10_19 Pin=R82-2
+Removed Pin From Net: NetName=NetIC10_20 Pin=R82-3
+Removed Pin From Net: NetName=GND Pin=R82-4
+Removed Pin From Net: NetName=NetQ19_5 Pin=R92-1
+Removed Pin From Net: NetName=NetIC11_9 Pin=R92-2
+Removed Pin From Net: NetName=NetIC11_10 Pin=R92-3
+Removed Pin From Net: NetName=GND Pin=R92-4
+Removed Pin From Net: NetName=NetQ21_5 Pin=R93-1
+Removed Pin From Net: NetName=NetIC11_12 Pin=R93-2
+Removed Pin From Net: NetName=NetIC11_11 Pin=R93-3
+Removed Pin From Net: NetName=NetQ23_5 Pin=R94-1
+Removed Pin From Net: NetName=NetIC11_19 Pin=R94-2
+Removed Pin From Net: NetName=NetIC11_20 Pin=R94-3
+Removed Pin From Net: NetName=GND Pin=R94-4
+Removed Pin From Net: NetName=NetQ25_5 Pin=R104-1
+Removed Pin From Net: NetName=NetIC12_9 Pin=R104-2
+Removed Pin From Net: NetName=NetIC12_10 Pin=R104-3
+Removed Pin From Net: NetName=GND Pin=R104-4
+Removed Pin From Net: NetName=NetQ27_5 Pin=R105-1
+Removed Pin From Net: NetName=NetIC12_12 Pin=R105-2
+Removed Pin From Net: NetName=NetIC12_11 Pin=R105-3
+Removed Pin From Net: NetName=NetQ29_5 Pin=R106-1
+Removed Pin From Net: NetName=NetIC12_19 Pin=R106-2
+Removed Pin From Net: NetName=NetIC12_20 Pin=R106-3
+Removed Pin From Net: NetName=GND Pin=R106-4
+Removed Member From Class: ClassName=U_ESC_B Member=R80
+Removed Member From Class: ClassName=U_ESC_B Member=R81
+Removed Member From Class: ClassName=U_ESC_B Member=R82
+Removed Member From Class: ClassName=U_ESC_C Member=R92
+Removed Member From Class: ClassName=U_ESC_C Member=R93
+Removed Member From Class: ClassName=U_ESC_C Member=R94
+Removed Member From Class: ClassName=U_ESC_D Member=R104
+Removed Member From Class: ClassName=U_ESC_D Member=R105
+Removed Member From Class: ClassName=U_ESC_D Member=R106
+Change Component Footprint: Designator=R92 Old Footprint=WSK12161L000FEA New Footprint=RES0402
+Change Component Footprint: Designator=R94 Old Footprint=WSK12161L000FEA New Footprint=RES0402
+Change Component Footprint: Designator=R104 Old Footprint=WSK12161L000FEA New Footprint=RES0402
+Change Component Footprint: Designator=R106 Old Footprint=WSK12161L000FEA New Footprint=RES0402
+Change Component Comment : Designator=R92 Old Comment=WSK12161L000FEA New Comment=Res0402
+Change Component Comment : Designator=R94 Old Comment=WSK12161L000FEA New Comment=Res0402
+Change Component Comment : Designator=R104 Old Comment=WSK12161L000FEA New Comment=Res0402
+Change Component Comment : Designator=R106 Old Comment=WSK12161L000FEA New Comment=Res0402
+Change Component Designator: OldDesignator=C85 NewDesignator=C87
+Change Component Designator: OldDesignator=C86 NewDesignator=C95
+Change Component Designator: OldDesignator=C87 NewDesignator=C96
+Change Component Designator: OldDesignator=C88 NewDesignator=C97
+Change Component Designator: OldDesignator=C89 NewDesignator=C100
+Change Component Designator: OldDesignator=C90 NewDesignator=C108
+Change Component Designator: OldDesignator=C91 NewDesignator=C109
+Change Component Designator: OldDesignator=C92 NewDesignator=C110
+Change Component Designator: OldDesignator=C93 NewDesignator=C113
+Change Component Designator: OldDesignator=C94 NewDesignator=C121
+Change Component Designator: OldDesignator=C95 NewDesignator=C122
+Change Component Designator: OldDesignator=C96 NewDesignator=C123
+Change Component Designator: OldDesignator=C97 NewDesignator=C126
+Change Component Designator: OldDesignator=R68 NewDesignator=R69
+Change Component Designator: OldDesignator=R69 NewDesignator=R72
+Change Component Designator: OldDesignator=R70 NewDesignator=R75
+Change Component Designator: OldDesignator=R71 NewDesignator=R77
+Change Component Designator: OldDesignator=R72 NewDesignator=R78
+Change Component Designator: OldDesignator=R73 NewDesignator=R79
+Change Component Designator: OldDesignator=R74 NewDesignator=R80
+Change Component Designator: OldDesignator=R75 NewDesignator=R81
+Change Component Designator: OldDesignator=R76 NewDesignator=R82
+Change Component Designator: OldDesignator=R77 NewDesignator=R83
+Change Component Designator: OldDesignator=R78 NewDesignator=R84
+Change Component Designator: OldDesignator=R79 NewDesignator=R85
+Change Component Designator: OldDesignator=R83 NewDesignator=R95
+Change Component Designator: OldDesignator=R84 NewDesignator=R96
+Change Component Designator: OldDesignator=R85 NewDesignator=R97
+Change Component Designator: OldDesignator=R86 NewDesignator=R98
+Change Component Designator: OldDesignator=R87 NewDesignator=R99
+Change Component Designator: OldDesignator=R88 NewDesignator=R100
+Change Component Designator: OldDesignator=R89 NewDesignator=R101
+Change Component Designator: OldDesignator=R90 NewDesignator=R102
+Change Component Designator: OldDesignator=R91 NewDesignator=R103
+Change Component Designator: OldDesignator=R95 NewDesignator=R113
+Change Component Designator: OldDesignator=R96 NewDesignator=R114
+Change Component Designator: OldDesignator=R97 NewDesignator=R115
+Change Component Designator: OldDesignator=R98 NewDesignator=R116
+Change Component Designator: OldDesignator=R99 NewDesignator=R117
+Change Component Designator: OldDesignator=R100 NewDesignator=R118
+Change Component Designator: OldDesignator=R101 NewDesignator=R119
+Change Component Designator: OldDesignator=R102 NewDesignator=R120
+Change Component Designator: OldDesignator=R103 NewDesignator=R121
+Change component parameters: Designator = "R63" ("R63"); Footprint = "RES0402"; UniqueID = "\GFMUIDIJ\INIDPLCT" ("\GFMUIDIJ\INIDPLCT")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R64" ("R64"); Footprint = "RES0402"; UniqueID = "\GFMUIDIJ\VPSPUVJI" ("\GFMUIDIJ\VPSPUVJI")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R66" ("R66"); Footprint = "RES0402"; UniqueID = "\GFMUIDIJ\GJXMPWWI" ("\GFMUIDIJ\GJXMPWWI")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R75" ("R81"); Footprint = "RES0402"; UniqueID = "\SGDLASFF\RDAOXDFS" ("\SGDLASFF\RDAOXDFS")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R76" ("R82"); Footprint = "RES0402"; UniqueID = "\SGDLASFF\NJMIHDIA" ("\SGDLASFF\NJMIHDIA")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R78" ("R84"); Footprint = "RES0402"; UniqueID = "\SGDLASFF\BVMUCEDI" ("\SGDLASFF\BVMUCEDI")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R92" ("R92"); Footprint = "WSK12161L000FEA"; UniqueID = "\SGDLASFF\TXKLCVDD" ("\SGDLASFF\TXKLCVDD")
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R94" ("R94"); Footprint = "WSK12161L000FEA"; UniqueID = "\SGDLASFF\TFXGXSPT" ("\SGDLASFF\TFXGXSPT")
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R99" ("R117"); Footprint = "RES0402"; UniqueID = "\OZDYPFAD\UUZNRYZR" ("\OZDYPFAD\UUZNRYZR")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R100" ("R118"); Footprint = "RES0402"; UniqueID = "\OZDYPFAD\ZQLECUIH" ("\OZDYPFAD\ZQLECUIH")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R102" ("R120"); Footprint = "RES0402"; UniqueID = "\OZDYPFAD\HVRCEQVW" ("\OZDYPFAD\HVRCEQVW")
+Change component parameters (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R104" ("R104"); Footprint = "WSK12161L000FEA"; UniqueID = "\TKFGTUUC\ABABTYPQ" ("\TKFGTUUC\ABABTYPQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R106" ("R106"); Footprint = "WSK12161L000FEA"; UniqueID = "\TKFGTUUC\SPCMHOWN" ("\TKFGTUUC\SPCMHOWN")
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=C85(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C86(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C88(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C89(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C90(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C91(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C92(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C93(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C94(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C98(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C99(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C101(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C102(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C103(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C104(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C105(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C106(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C107(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C111(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C112(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C114(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C115(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C116(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C117(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C118(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C119(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C120(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C124(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C125(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C127(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C128(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C129(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C130(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C131(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C132(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=C133(CAP0402)
+Add component (AddParameter): Name = "Value"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "DNI"; VariantName = "[No Variations]"
+Added Component: Designator=R68(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R70(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R71(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R73(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R74(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R76(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R86(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R87(WSK12161L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R88(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R89(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R90(WSK12161L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R91(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R107(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R108(WSK12161L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R109(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R110(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R111(WSK12161L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R112(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R122(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R123(WSK12161L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R124(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R125(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R126(WSK12161L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R127(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R128(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R129(WSK12161L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsk1216l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30189/wsk1216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSK1216L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK1216L5000FEA?qs=OlC7AqGiEDlM2wGD42LFoQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R130(RES0402)
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=GND Pin=C88-2
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=GND Pin=C91-2
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=GND Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=GND Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C102-1
+Added Pin To Net: NetName=GND Pin=C104-2
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=GND Pin=C107-2
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=GND Pin=C114-2
+Added Pin To Net: NetName=GND Pin=C115-1
+Added Pin To Net: NetName=GND Pin=C117-2
+Added Pin To Net: NetName=GND Pin=C118-1
+Added Pin To Net: NetName=GND Pin=C120-2
+Added Pin To Net: NetName=GND Pin=C124-1
+Added Pin To Net: NetName=GND Pin=C127-2
+Added Pin To Net: NetName=GND Pin=C128-1
+Added Pin To Net: NetName=GND Pin=C130-2
+Added Pin To Net: NetName=GND Pin=C131-1
+Added Pin To Net: NetName=GND Pin=C133-2
+Added Pin To Net: NetName=NetIC9_9 Pin=R68-1
+Added Pin To Net: NetName=NetIC9_10 Pin=R70-1
+Added Pin To Net: NetName=NetIC9_12 Pin=R71-1
+Added Pin To Net: NetName=NetIC9_11 Pin=R73-1
+Added Pin To Net: NetName=NetIC9_19 Pin=R74-1
+Added Pin To Net: NetName=NetIC9_20 Pin=R76-1
+Added Pin To Net: NetName=NetIC10_9 Pin=R86-1
+Added Pin To Net: NetName=NetQ13_5 Pin=R87-1
+Added Pin To Net: NetName=GND Pin=R87-4
+Added Pin To Net: NetName=NetIC10_10 Pin=R88-1
+Added Pin To Net: NetName=NetIC10_12 Pin=R89-1
+Added Pin To Net: NetName=NetQ15_5 Pin=R90-1
+Added Pin To Net: NetName=GND Pin=R90-4
+Added Pin To Net: NetName=NetIC10_11 Pin=R91-1
+Added Pin To Net: NetName=NetIC10_19 Pin=R92-1
+Added Pin To Net: NetName=NetQ17_5 Pin=R93-1
+Added Pin To Net: NetName=NetIC10_20 Pin=R94-1
+Added Pin To Net: NetName=NetIC11_9 Pin=R104-1
+Added Pin To Net: NetName=NetQ19_5 Pin=R105-1
+Added Pin To Net: NetName=NetIC11_10 Pin=R106-1
+Added Pin To Net: NetName=NetIC11_12 Pin=R107-1
+Added Pin To Net: NetName=NetQ21_5 Pin=R108-1
+Added Pin To Net: NetName=GND Pin=R108-4
+Added Pin To Net: NetName=NetIC11_11 Pin=R109-1
+Added Pin To Net: NetName=NetIC11_19 Pin=R110-1
+Added Pin To Net: NetName=NetQ23_5 Pin=R111-1
+Added Pin To Net: NetName=GND Pin=R111-4
+Added Pin To Net: NetName=NetIC11_20 Pin=R112-1
+Added Pin To Net: NetName=NetIC12_9 Pin=R122-1
+Added Pin To Net: NetName=NetQ25_5 Pin=R123-1
+Added Pin To Net: NetName=GND Pin=R123-4
+Added Pin To Net: NetName=NetIC12_10 Pin=R124-1
+Added Pin To Net: NetName=NetIC12_12 Pin=R125-1
+Added Pin To Net: NetName=NetQ27_5 Pin=R126-1
+Added Pin To Net: NetName=GND Pin=R126-4
+Added Pin To Net: NetName=NetIC12_11 Pin=R127-1
+Added Pin To Net: NetName=NetIC12_19 Pin=R128-1
+Added Pin To Net: NetName=NetQ29_5 Pin=R129-1
+Added Pin To Net: NetName=GND Pin=R129-4
+Added Pin To Net: NetName=NetIC12_20 Pin=R130-1
+Change Net Name : Old Net Name=NetC85_2 New Net Name=NetC87_2
+Change Net Name : Old Net Name=NetC87_1 New Net Name=NetC96_1
+Change Net Name : Old Net Name=NetC87_2 New Net Name=NetC96_2
+Change Net Name : Old Net Name=NetC88_2 New Net Name=NetC97_2
+Change Net Name : Old Net Name=NetC89_2 New Net Name=NetC100_2
+Change Net Name : Old Net Name=NetC91_1 New Net Name=NetC109_1
+Change Net Name : Old Net Name=NetC91_2 New Net Name=NetC109_2
+Change Net Name : Old Net Name=NetC92_2 New Net Name=NetC110_2
+Change Net Name : Old Net Name=NetC93_2 New Net Name=NetC113_2
+Change Net Name : Old Net Name=NetC95_1 New Net Name=NetC122_1
+Change Net Name : Old Net Name=NetC95_2 New Net Name=NetC122_2
+Change Net Name : Old Net Name=NetC96_2 New Net Name=NetC123_2
+Change Net Name : Old Net Name=NetC97_2 New Net Name=NetC126_2
+Added Pin To Net: NetName=NetC85_2 Pin=C85-2
+Added Pin To Net: NetName=NetC85_2 Pin=C86-1
+Added Pin To Net: NetName=NetC85_2 Pin=R68-2
+Added Pin To Net: NetName=NetC85_2 Pin=R69-2
+Added Net: Name=NetC85_2
+Added Pin To Net: NetName=NetC86_2 Pin=C86-2
+Added Pin To Net: NetName=NetC86_2 Pin=C88-1
+Added Pin To Net: NetName=NetC86_2 Pin=R69-3
+Added Pin To Net: NetName=NetC86_2 Pin=R70-2
+Added Net: Name=NetC86_2
+Added Pin To Net: NetName=NetC89_2 Pin=C89-2
+Added Pin To Net: NetName=NetC89_2 Pin=C90-1
+Added Pin To Net: NetName=NetC89_2 Pin=R71-2
+Added Pin To Net: NetName=NetC89_2 Pin=R72-2
+Added Net: Name=NetC89_2
+Added Pin To Net: NetName=NetC90_2 Pin=C90-2
+Added Pin To Net: NetName=NetC90_2 Pin=C91-1
+Added Pin To Net: NetName=NetC90_2 Pin=R72-3
+Added Pin To Net: NetName=NetC90_2 Pin=R73-2
+Added Net: Name=NetC90_2
+Added Pin To Net: NetName=NetC92_2 Pin=C92-2
+Added Pin To Net: NetName=NetC92_2 Pin=C93-1
+Added Pin To Net: NetName=NetC92_2 Pin=R74-2
+Added Pin To Net: NetName=NetC92_2 Pin=R75-2
+Added Net: Name=NetC92_2
+Added Pin To Net: NetName=NetC93_2 Pin=C93-2
+Added Pin To Net: NetName=NetC93_2 Pin=C94-1
+Added Pin To Net: NetName=NetC93_2 Pin=R75-3
+Added Pin To Net: NetName=NetC93_2 Pin=R76-2
+Added Net: Name=NetC93_2
+Added Pin To Net: NetName=NetC98_2 Pin=C98-2
+Added Pin To Net: NetName=NetC98_2 Pin=C99-1
+Added Pin To Net: NetName=NetC98_2 Pin=R86-2
+Added Pin To Net: NetName=NetC98_2 Pin=R87-2
+Added Net: Name=NetC98_2
+Added Pin To Net: NetName=NetC99_2 Pin=C99-2
+Added Pin To Net: NetName=NetC99_2 Pin=C101-1
+Added Pin To Net: NetName=NetC99_2 Pin=R87-3
+Added Pin To Net: NetName=NetC99_2 Pin=R88-2
+Added Net: Name=NetC99_2
+Added Pin To Net: NetName=NetC102_2 Pin=C102-2
+Added Pin To Net: NetName=NetC102_2 Pin=C103-1
+Added Pin To Net: NetName=NetC102_2 Pin=R89-2
+Added Pin To Net: NetName=NetC102_2 Pin=R90-2
+Added Net: Name=NetC102_2
+Added Pin To Net: NetName=NetC103_2 Pin=C103-2
+Added Pin To Net: NetName=NetC103_2 Pin=C104-1
+Added Pin To Net: NetName=NetC103_2 Pin=R90-3
+Added Pin To Net: NetName=NetC103_2 Pin=R91-2
+Added Net: Name=NetC103_2
+Added Pin To Net: NetName=NetC105_2 Pin=C105-2
+Added Pin To Net: NetName=NetC105_2 Pin=C106-1
+Added Pin To Net: NetName=NetC105_2 Pin=R92-2
+Added Pin To Net: NetName=NetC105_2 Pin=R93-2
+Added Net: Name=NetC105_2
+Added Pin To Net: NetName=NetC106_2 Pin=C106-2
+Added Pin To Net: NetName=NetC106_2 Pin=C107-1
+Added Pin To Net: NetName=NetC106_2 Pin=R93-3
+Added Pin To Net: NetName=NetC106_2 Pin=R94-2
+Added Net: Name=NetC106_2
+Added Pin To Net: NetName=NetC111_2 Pin=C111-2
+Added Pin To Net: NetName=NetC111_2 Pin=C112-1
+Added Pin To Net: NetName=NetC111_2 Pin=R104-2
+Added Pin To Net: NetName=NetC111_2 Pin=R105-2
+Added Net: Name=NetC111_2
+Added Pin To Net: NetName=NetC112_2 Pin=C112-2
+Added Pin To Net: NetName=NetC112_2 Pin=C114-1
+Added Pin To Net: NetName=NetC112_2 Pin=R105-3
+Added Pin To Net: NetName=NetC112_2 Pin=R106-2
+Added Net: Name=NetC112_2
+Added Pin To Net: NetName=NetC115_2 Pin=C115-2
+Added Pin To Net: NetName=NetC115_2 Pin=C116-1
+Added Pin To Net: NetName=NetC115_2 Pin=R107-2
+Added Pin To Net: NetName=NetC115_2 Pin=R108-2
+Added Net: Name=NetC115_2
+Added Pin To Net: NetName=NetC116_2 Pin=C116-2
+Added Pin To Net: NetName=NetC116_2 Pin=C117-1
+Added Pin To Net: NetName=NetC116_2 Pin=R108-3
+Added Pin To Net: NetName=NetC116_2 Pin=R109-2
+Added Net: Name=NetC116_2
+Added Pin To Net: NetName=NetC118_2 Pin=C118-2
+Added Pin To Net: NetName=NetC118_2 Pin=C119-1
+Added Pin To Net: NetName=NetC118_2 Pin=R110-2
+Added Pin To Net: NetName=NetC118_2 Pin=R111-2
+Added Net: Name=NetC118_2
+Added Pin To Net: NetName=NetC119_2 Pin=C119-2
+Added Pin To Net: NetName=NetC119_2 Pin=C120-1
+Added Pin To Net: NetName=NetC119_2 Pin=R111-3
+Added Pin To Net: NetName=NetC119_2 Pin=R112-2
+Added Net: Name=NetC119_2
+Added Pin To Net: NetName=NetC124_2 Pin=C124-2
+Added Pin To Net: NetName=NetC124_2 Pin=C125-1
+Added Pin To Net: NetName=NetC124_2 Pin=R122-2
+Added Pin To Net: NetName=NetC124_2 Pin=R123-2
+Added Net: Name=NetC124_2
+Added Pin To Net: NetName=NetC125_2 Pin=C125-2
+Added Pin To Net: NetName=NetC125_2 Pin=C127-1
+Added Pin To Net: NetName=NetC125_2 Pin=R123-3
+Added Pin To Net: NetName=NetC125_2 Pin=R124-2
+Added Net: Name=NetC125_2
+Added Pin To Net: NetName=NetC128_2 Pin=C128-2
+Added Pin To Net: NetName=NetC128_2 Pin=C129-1
+Added Pin To Net: NetName=NetC128_2 Pin=R125-2
+Added Pin To Net: NetName=NetC128_2 Pin=R126-2
+Added Net: Name=NetC128_2
+Added Pin To Net: NetName=NetC129_2 Pin=C129-2
+Added Pin To Net: NetName=NetC129_2 Pin=C130-1
+Added Pin To Net: NetName=NetC129_2 Pin=R126-3
+Added Pin To Net: NetName=NetC129_2 Pin=R127-2
+Added Net: Name=NetC129_2
+Added Pin To Net: NetName=NetC131_2 Pin=C131-2
+Added Pin To Net: NetName=NetC131_2 Pin=C132-1
+Added Pin To Net: NetName=NetC131_2 Pin=R128-2
+Added Pin To Net: NetName=NetC131_2 Pin=R129-2
+Added Net: Name=NetC131_2
+Added Pin To Net: NetName=NetC132_2 Pin=C132-2
+Added Pin To Net: NetName=NetC132_2 Pin=C133-1
+Added Pin To Net: NetName=NetC132_2 Pin=R129-3
+Added Pin To Net: NetName=NetC132_2 Pin=R130-2
+Added Net: Name=NetC132_2
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_ESC_A Member=Component C86 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C87 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C88 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C89 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C90 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C91 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C92 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C93 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C94 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C98 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C99 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C101 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C102 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C103 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C104 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C105 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C106 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C107 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C111 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C112 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C114 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C115 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C116 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C117 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C118 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C119 Cap0402
+Added Member To Class: ClassName=U_ESC_C Member=Component C120 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C124 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C125 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C127 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C128 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C129 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C130 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C131 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C132 Cap0402
+Added Member To Class: ClassName=U_ESC_D Member=Component C133 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R71 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R72 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_A Member=Component R73 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R74 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R75 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_A Member=Component R76 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R86 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R87 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_B Member=Component R88 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R89 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R90 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_B Member=Component R91 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R92 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R93 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_B Member=Component R94 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R104 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R105 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_C Member=Component R106 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R107 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R108 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_C Member=Component R109 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R110 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R111 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_C Member=Component R112 Res0402
+Added Member To Class: ClassName=U_ESC_D Member=Component R122 Res0402
+Added Member To Class: ClassName=U_ESC_D Member=Component R123 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_D Member=Component R124 Res0402
+Added Member To Class: ClassName=U_ESC_D Member=Component R125 Res0402
+Added Member To Class: ClassName=U_ESC_D Member=Component R126 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_D Member=Component R127 Res0402
+Added Member To Class: ClassName=U_ESC_D Member=Component R128 Res0402
+Added Member To Class: ClassName=U_ESC_D Member=Component R129 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_D Member=Component R130 Res0402

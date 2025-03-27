@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=ESC_INLB_A Pin=32-1
+Removed Pin From Net: NetName=ESC_INLA_A Pin=32-2
+Removed Pin From Net: NetName=ESC_INHA_A Pin=32-8
+Removed Pin From Net: NetName=ESC_INHB_A Pin=32-9
+Removed Pin From Net: NetName=ESC_INLC_A Pin=J3-15
+Removed Pin From Net: NetName=ESC_INHC_A Pin=J3-16
+Removed Pin From Net: NetName=ESC_INLB_A Pin=J3-17
+Removed Pin From Net: NetName=ESC_INHB_A Pin=J3-18
+Removed Pin From Net: NetName=ESC_INLA_A Pin=J3-19
+Removed Pin From Net: NetName=ESC_INHA_A Pin=J3-20
+Change Component Designator: OldDesignator=32 NewDesignator=D8
+Added Pin To Net: NetName=ESC_INHB_A Pin=D8-1
+Added Pin To Net: NetName=ESC_INHC_A Pin=D8-2
+Added Pin To Net: NetName=ESC_INLC_A Pin=D8-8
+Added Pin To Net: NetName=ESC_INLB_A Pin=D8-9
+Added Pin To Net: NetName=ESC_INHA_A Pin=J3-15
+Added Pin To Net: NetName=ESC_INLA_A Pin=J3-16
+Added Pin To Net: NetName=ESC_INHB_A Pin=J3-17
+Added Pin To Net: NetName=ESC_INLB_A Pin=J3-18
+Added Pin To Net: NetName=ESC_INHC_A Pin=J3-19
+Added Pin To Net: NetName=ESC_INLC_A Pin=J3-20
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_FC_Conn Member=Component D10 DT1240A-08LP3810-7

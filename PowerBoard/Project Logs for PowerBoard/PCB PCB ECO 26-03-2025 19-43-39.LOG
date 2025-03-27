@@ -1,0 +1,183 @@
+Removed Pin From Net: NetName=ESC_NFAULT Pin=D10-1
+Removed Pin From Net: NetName=ESC_SDO Pin=D10-2
+Removed Pin From Net: NetName=ESC_SDI Pin=D10-4
+Removed Pin From Net: NetName=ESC_CLK Pin=D10-5
+Removed Pin From Net: NetName=ESC_NSCS1 Pin=D10-7
+Removed Pin From Net: NetName=ESC_ENABLE Pin=D10-8
+Removed Pin From Net: NetName=ESC_ENABLE Pin=J3-35
+Removed Pin From Net: NetName=ESC_NSCS1 Pin=J3-36
+Removed Pin From Net: NetName=ESC_CLK Pin=J3-37
+Removed Pin From Net: NetName=ESC_SDI Pin=J3-38
+Removed Pin From Net: NetName=ESC_SDO Pin=J3-39
+Removed Pin From Net: NetName=ESC_NFAULT Pin=J3-40
+Removed Member From Class: ClassName=U_USB Member=C39
+Removed Member From Class: ClassName=U_USB Member=C40
+Removed Member From Class: ClassName=U_USB Member=C41
+Removed Member From Class: ClassName=U_USB Member=C42
+Removed Member From Class: ClassName=Main Member=C49
+Removed Member From Class: ClassName=U_ADC+Temp Member=C49
+Removed Member From Class: ClassName=Main Member=C50
+Removed Member From Class: ClassName=U_ADC+Temp Member=C51
+Removed Member From Class: ClassName=U_ADC+Temp Member=C52
+Removed Member From Class: ClassName=U_ADC+Temp Member=C54
+Removed Member From Class: ClassName=U_ESC_A Member=C74
+Removed Member From Class: ClassName=U_ToF_Bottom Member=C74
+Removed Member From Class: ClassName=U_ESC_A Member=C75
+Removed Member From Class: ClassName=U_ToF_Bottom Member=C75
+Removed Member From Class: ClassName=U_ESC_A Member=C76
+Removed Member From Class: ClassName=U_ToF_Bottom Member=C76
+Removed Member From Class: ClassName=U_ESC_A Member=C77
+Removed Member From Class: ClassName=U_ToF_Bottom Member=C77
+Removed Member From Class: ClassName=U_ESC_A Member=FB15
+Removed Member From Class: ClassName=U_USB Member=IC1
+Removed Member From Class: ClassName=U_ADC+Temp Member=IC3
+Removed Member From Class: ClassName=U_ESC_A Member=IC7
+Removed Member From Class: ClassName=U_ToF_Bottom Member=IC7
+Removed Member From Class: ClassName=U_ESC_A Member=Q1
+Removed Member From Class: ClassName=U_ESC_A Member=Q2
+Removed Member From Class: ClassName=U_ESC_A Member=Q3
+Removed Member From Class: ClassName=U_ESC_A Member=Q4
+Removed Member From Class: ClassName=U_ESC_A Member=Q5
+Removed Member From Class: ClassName=U_ADC+Temp Member=R21
+Removed Member From Class: ClassName=U_USB Member=R21
+Removed Member From Class: ClassName=U_ADC+Temp Member=R22
+Removed Member From Class: ClassName=U_USB Member=R22
+Removed Member From Class: ClassName=U_USB Member=R23
+Removed Member From Class: ClassName=U_USB Member=R24
+Removed Member From Class: ClassName=U_USB Member=R25
+Removed Member From Class: ClassName=U_USB Member=R26
+Removed Member From Class: ClassName=U_USB Member=R27
+Removed Member From Class: ClassName=U_USB Member=R28
+Removed Member From Class: ClassName=U_ADC+Temp Member=R29
+Removed Member From Class: ClassName=U_ADC+Temp Member=R30
+Removed Member From Class: ClassName=U_ADC+Temp Member=R31
+Removed Member From Class: ClassName=U_ADC+Temp Member=R32
+Removed Member From Class: ClassName=U_ADC+Temp Member=R35
+Removed Member From Class: ClassName=U_ADC+Temp Member=R36
+Removed Member From Class: ClassName=U_ADC+Temp Member=R37
+Removed Member From Class: ClassName=U_ADC+Temp Member=R38
+Removed Member From Class: ClassName=U_ADC+Temp Member=R39
+Removed Member From Class: ClassName=U_ADC+Temp Member=R40
+Removed Member From Class: ClassName=U_ESC_A Member=R44
+Removed Member From Class: ClassName=U_ToF_Bottom Member=R44
+Removed Member From Class: ClassName=U_ToF_Bottom Member=R45
+Removed Member From Class: ClassName=U_ESC_A Member=R46
+Removed Member From Class: ClassName=U_FC_Conn Member=R46
+Removed Member From Class: ClassName=U_ESC_A Member=R47
+Removed Member From Class: ClassName=U_ESC_A Member=R48
+Removed Member From Class: ClassName=U_ESC_A Member=R49
+Removed Member From Class: ClassName=U_ESC_A Member=R50
+Removed Member From Class: ClassName=U_ESC_A Member=R51
+Removed Member From Class: ClassName=U_ESC_A Member=R52
+Removed Member From Class: ClassName=U_ESC_A Member=R53
+Removed Member From Class: ClassName=U_ESC_A Member=R54
+Removed Member From Class: ClassName=U_ESC_A Member=R55
+Removed Member From Class: ClassName=U_ESC_A Member=R57
+Added Pin To Net: NetName=ESC_ENABLE Pin=D10-1
+Added Pin To Net: NetName=ESC_NFAULT Pin=D10-2
+Added Pin To Net: NetName=ESC_SDO Pin=D10-4
+Added Pin To Net: NetName=ESC_SDI Pin=D10-5
+Added Pin To Net: NetName=ESC_CLK Pin=D10-7
+Added Pin To Net: NetName=ESC_NSCS1 Pin=D10-8
+Added Pin To Net: NetName=ESC_NSCS1 Pin=J3-35
+Added Pin To Net: NetName=ESC_CLK Pin=J3-36
+Added Pin To Net: NetName=ESC_SDI Pin=J3-37
+Added Pin To Net: NetName=ESC_SDO Pin=J3-38
+Added Pin To Net: NetName=ESC_NFAULT Pin=J3-39
+Added Pin To Net: NetName=ESC_ENABLE Pin=J3-40
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_BMS Member=Component C21 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C23 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C24 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C39 Cap0805
+Added Member To Class: ClassName=U_BMS Member=Component C40 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C41 Cap0402
+Added Member To Class: ClassName=U_BMS Member=Component C42 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C48 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C49 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C50 Cap0603
+Added Member To Class: ClassName=U_USB Member=Component C51 Cap0402
+Added Member To Class: ClassName=U_USB Member=Component C52 Cap0402
+Added Member To Class: ClassName=Main Member=Component C53 EEH-ZL1V151XP
+Added Member To Class: ClassName=Main Member=Component C54 EEH-ZL1V151XP
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C74 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C75 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C76 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component C77 Cap0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C78 Cap0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C79 Cap0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C80 Cap0603
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component C81 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C82 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C83 CapSMD0603
+Added Member To Class: ClassName=U_ESC_A Member=Component C84 CapSMD0603
+Added Member To Class: ClassName=U_ESC_A Member=Component C85 Cap0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component FB2 0R/Ferrite
+Added Member To Class: ClassName=U_ADC+Temp Member=Component FB4 0R/Ferrite
+Added Member To Class: ClassName=U_ADC+Temp Member=Component FB6 0R/Ferrite
+Added Member To Class: ClassName=U_ADC+Temp Member=Component FB8 0R/Ferrite
+Added Member To Class: ClassName=U_ADC+Temp Member=Component FB10 0R/Ferrite
+Added Member To Class: ClassName=U_ADC+Temp Member=Component FB12 0R/Ferrite
+Added Member To Class: ClassName=U_ADC+Temp Member=Component FB14 0R/Ferrite
+Added Member To Class: ClassName=U_ADC+Temp Member=Component FB16 0R/Ferrite
+Added Member To Class: ClassName=U_ESC_A Member=Component FB17 0R/Ferrite
+Added Member To Class: ClassName=U_BMS Member=Component IC2 BQ7692003PW
+Added Member To Class: ClassName=U_USB Member=Component IC4 FUSB302BUCX
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC6 TMP6131DECR
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC7 TMP6131DECR
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component IC8 TMF8806
+Added Member To Class: ClassName=U_ESC_A Member=Component IC9 DRV8323SRTAR
+Added Member To Class: ClassName=Main Member=Component M1 Mount_M2
+Added Member To Class: ClassName=Main Member=Component M6 Mount_M2
+Added Member To Class: ClassName=U_ESC_A Member=Component Q7 TPN1R603PL,L1Q
+Added Member To Class: ClassName=U_ESC_A Member=Component Q8 TPN1R603PL,L1Q
+Added Member To Class: ClassName=U_ESC_A Member=Component Q9 TPN1R603PL,L1Q
+Added Member To Class: ClassName=U_ESC_A Member=Component Q10 TPN1R603PL,L1Q
+Added Member To Class: ClassName=U_ESC_A Member=Component Q11 TPN1R603PL,L1Q
+Added Member To Class: ClassName=U_BMS Member=Component R21 Res0402
+Added Member To Class: ClassName=U_BMS Member=Component R22 Res0402
+Added Member To Class: ClassName=U_BMS Member=Component R23 Res0402
+Added Member To Class: ClassName=U_BMS Member=Component R24 Res0805
+Added Member To Class: ClassName=U_BMS Member=Component R25 Res0805
+Added Member To Class: ClassName=U_BMS Member=Component R26 Res0805
+Added Member To Class: ClassName=U_BMS Member=Component R27 Res0402
+Added Member To Class: ClassName=U_BMS Member=Component R28 Res0402
+Added Member To Class: ClassName=U_BMS Member=Component R29 Res0805
+Added Member To Class: ClassName=U_BMS Member=Component R30 Res0805
+Added Member To Class: ClassName=U_BMS Member=Component R31 Res0402
+Added Member To Class: ClassName=U_BMS Member=Component R32 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R33 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R34 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R35 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R36 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R37 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R38 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R39 Res0402
+Added Member To Class: ClassName=U_USB Member=Component R40 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R44 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R45 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R46 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R47 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R48 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R49 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R50 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R51 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R52 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R53 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R54 Res0402
+Added Member To Class: ClassName=U_ADC+Temp Member=Component R55 Res0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component R56 Res0402
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component R57 Res0402
+Added Member To Class: ClassName=U_FC_Conn Member=Component R58 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R59 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R60 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R61 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R62 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R63 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R64 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R65 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R66 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R67 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R68 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_A Member=Component R69 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_A Member=Component R70 WSK12161L000FEA

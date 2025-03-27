@@ -1,0 +1,33 @@
+Added Pin To Net: NetName=ESC_INHB_C Pin=D9-1
+Added Pin To Net: NetName=ESC_INLB_C Pin=D9-2
+Added Pin To Net: NetName=ESC_INHC_C Pin=D9-4
+Added Pin To Net: NetName=ESC_INLC_C Pin=D9-5
+Added Pin To Net: NetName=ESC_NSCS_C Pin=D10-8
+Added Pin To Net: NetName=ESC_INHA_C Pin=D10-10
+Added Pin To Net: NetName=ESC_INLA_C Pin=D10-11
+Added Pin To Net: NetName=ESC_INLC_C Pin=J3-29
+Added Pin To Net: NetName=ESC_INHC_C Pin=J3-30
+Added Pin To Net: NetName=ESC_INLB_C Pin=J3-31
+Added Pin To Net: NetName=ESC_INHB_C Pin=J3-32
+Added Pin To Net: NetName=ESC_INLA_C Pin=J3-33
+Added Pin To Net: NetName=ESC_INHA_C Pin=J3-34
+Added Pin To Net: NetName=ESC_NSCS_C Pin=J3-35
+Added Pin To Net: NetName=ESC_INHA_A Pin=IC9-34
+Added Net: Name=ESC_INHA_A
+Added Pin To Net: NetName=ESC_INHB_A Pin=IC9-36
+Added Net: Name=ESC_INHB_A
+Added Pin To Net: NetName=ESC_INHC_A Pin=IC9-38
+Added Net: Name=ESC_INHC_A
+Added Pin To Net: NetName=ESC_INLA_A Pin=IC9-35
+Added Pin To Net: NetName=ESC_INLA_A Pin=R61-1
+Added Net: Name=ESC_INLA_A
+Added Pin To Net: NetName=ESC_INLB_A Pin=IC9-37
+Added Pin To Net: NetName=ESC_INLB_A Pin=R60-1
+Added Net: Name=ESC_INLB_A
+Added Pin To Net: NetName=ESC_INLC_A Pin=IC9-39
+Added Pin To Net: NetName=ESC_INLC_A Pin=R59-1
+Added Net: Name=ESC_INLC_A
+Added Pin To Net: NetName=ESC_NSCS_A Pin=IC9-29
+Added Pin To Net: NetName=ESC_NSCS_A Pin=R65-1
+Added Net: Name=ESC_NSCS_A
+Add Net: Net with name "VSYS" already exists

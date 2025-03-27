@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=GND Pin=D6-3
+Removed Pin From Net: NetName=GND Pin=D6-6
+Removed Pin From Net: NetName=GND Pin=D6-9
+Removed Pin From Net: NetName=GND Pin=D6-12
+Removed Pin From Net: NetName=GND Pin=D6-13
+Removed Pin From Net: NetName=GND Pin=D6-14
+Removed Pin From Net: NetName=GND Pin=D6-15
+Removed Pin From Net: NetName=GND Pin=D6-16
+Removed Pin From Net: NetName=GND Pin=D6-17
+Removed Pin From Net: NetName=GND Pin=D7-3
+Removed Pin From Net: NetName=GND Pin=D7-6
+Removed Pin From Net: NetName=GND Pin=D7-9
+Removed Pin From Net: NetName=GND Pin=D7-12
+Removed Pin From Net: NetName=GND Pin=D7-13
+Removed Pin From Net: NetName=GND Pin=D7-14
+Removed Pin From Net: NetName=GND Pin=D7-15
+Removed Pin From Net: NetName=GND Pin=D7-16
+Removed Pin From Net: NetName=GND Pin=D7-17
+Removed Pin From Net: NetName=ESC_NSCS_B Pin=D8-1
+Removed Pin From Net: NetName=ESC_INHA_B Pin=D8-2
+Removed Pin From Net: NetName=GND Pin=D8-3
+Removed Pin From Net: NetName=ESC_INLA_B Pin=D8-4
+Removed Pin From Net: NetName=ESC_INHB_B Pin=D8-5
+Removed Pin From Net: NetName=GND Pin=D8-6
+Removed Pin From Net: NetName=ESC_INLB_B Pin=D8-7
+Removed Pin From Net: NetName=ESC_INHC_B Pin=D8-8
+Removed Pin From Net: NetName=GND Pin=D8-9
+Removed Pin From Net: NetName=ESC_INLC_B Pin=D8-10
+Removed Pin From Net: NetName=GND Pin=D8-12
+Removed Pin From Net: NetName=GND Pin=D8-13
+Removed Pin From Net: NetName=GND Pin=D8-14
+Removed Pin From Net: NetName=GND Pin=D8-15
+Removed Pin From Net: NetName=GND Pin=D8-16
+Removed Pin From Net: NetName=GND Pin=D8-17
+Removed Pin From Net: NetName=ESC_INHB_C Pin=D9-1
+Removed Pin From Net: NetName=ESC_INLB_C Pin=D9-2
+Removed Pin From Net: NetName=GND Pin=D9-3
+Removed Pin From Net: NetName=ESC_INHC_C Pin=D9-4
+Removed Pin From Net: NetName=ESC_INLC_C Pin=D9-5
+Removed Pin From Net: NetName=GND Pin=D9-6
+Removed Pin From Net: NetName=GND Pin=D9-9
+Removed Pin From Net: NetName=GND Pin=D9-12
+Removed Pin From Net: NetName=GND Pin=D9-13
+Removed Pin From Net: NetName=GND Pin=D9-14
+Removed Pin From Net: NetName=GND Pin=D9-15
+Removed Pin From Net: NetName=GND Pin=D9-16
+Removed Pin From Net: NetName=GND Pin=D9-17
+Removed Pin From Net: NetName=ESC_ENABLE Pin=D10-1
+Removed Pin From Net: NetName=ESC_NFAULT Pin=D10-2
+Removed Pin From Net: NetName=GND Pin=D10-3
+Removed Pin From Net: NetName=ESC_SDO Pin=D10-4
+Removed Pin From Net: NetName=ESC_SDI Pin=D10-5
+Removed Pin From Net: NetName=GND Pin=D10-6
+Removed Pin From Net: NetName=ESC_CLK Pin=D10-7
+Removed Pin From Net: NetName=ESC_NSCS_C Pin=D10-8
+Removed Pin From Net: NetName=GND Pin=D10-9
+Removed Pin From Net: NetName=ESC_INHA_C Pin=D10-10
+Removed Pin From Net: NetName=ESC_INLA_C Pin=D10-11
+Removed Pin From Net: NetName=GND Pin=D10-12
+Removed Pin From Net: NetName=GND Pin=D10-13
+Removed Pin From Net: NetName=GND Pin=D10-14
+Removed Pin From Net: NetName=GND Pin=D10-15
+Removed Pin From Net: NetName=GND Pin=D10-16
+Removed Pin From Net: NetName=GND Pin=D10-17
+Removed Member From Class: ClassName=U_FC_Conn Member=D6
+Removed Member From Class: ClassName=U_FC_Conn Member=D7
+Removed Member From Class: ClassName=U_FC_Conn Member=D8
+Removed Member From Class: ClassName=U_FC_Conn Member=D9
+Removed Member From Class: ClassName=U_FC_Conn Member=D10
+Removed Member From Class: ClassName=U_FC_Conn Member=D15
+Added Component: Designator=D?(DT1240A08LP38107)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DT1240A-08LP3810-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/DT1240A-08LP3810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DT1240A-08LP3810-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DT1240A08LP38107"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DT1240A-08LP3810-7?qs=W0yvOO0ixfFwCalJyqXN4A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DT1240A08LP38107)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DT1240A-08LP3810-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/DT1240A-08LP3810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DT1240A-08LP3810-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DT1240A08LP38107"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DT1240A-08LP3810-7?qs=W0yvOO0ixfFwCalJyqXN4A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DT1240A08LP38107)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DT1240A-08LP3810-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/DT1240A-08LP3810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DT1240A-08LP3810-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DT1240A08LP38107"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DT1240A-08LP3810-7?qs=W0yvOO0ixfFwCalJyqXN4A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DT1240A08LP38107)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DT1240A-08LP3810-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/DT1240A-08LP3810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DT1240A-08LP3810-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DT1240A08LP38107"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DT1240A-08LP3810-7?qs=W0yvOO0ixfFwCalJyqXN4A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESC_INLA_C Pin=D160-1
+Added Pin To Net: NetName=ESC_INHA_C Pin=D160-2
+Added Pin To Net: NetName=GND Pin=D160-3
+Added Pin To Net: NetName=ESC_NSCS_C Pin=D160-4
+Added Pin To Net: NetName=ESC_CLK Pin=D160-5
+Added Pin To Net: NetName=ESC_SDI Pin=D160-6
+Added Pin To Net: NetName=ESC_SDO Pin=D160-7
+Added Pin To Net: NetName=ESC_NFAULT Pin=D160-8
+Added Pin To Net: NetName=ESC_ENABLE Pin=D160-9
+Added Pin To Net: NetName=ESC_INLC_B Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=ESC_INHC_B Pin=D?-4
+Added Pin To Net: NetName=ESC_INLB_B Pin=D?-5
+Added Pin To Net: NetName=ESC_INHB_B Pin=D?-6
+Added Pin To Net: NetName=ESC_INLC_C Pin=D?-6
+Added Pin To Net: NetName=ESC_INHC_C Pin=D?-7
+Added Pin To Net: NetName=ESC_INLA_B Pin=D?-7
+Added Pin To Net: NetName=ESC_INHA_B Pin=D?-8
+Added Pin To Net: NetName=ESC_INLB_C Pin=D?-8
+Added Pin To Net: NetName=ESC_INHB_C Pin=D?-9
+Added Pin To Net: NetName=ESC_NSCS_B Pin=D?-9
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=J3-17
+Added Net: Name=NetD?_1
+Add Net: Net with name "NetD?_1" already exists
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=J3-26
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_4 Pin=D?-4
+Added Pin To Net: NetName=NetD?_4 Pin=J3-27
+Added Net: Name=NetD?_4
+Added Pin To Net: NetName=NetD?_5 Pin=D?-5
+Added Pin To Net: NetName=NetD?_5 Pin=J3-28
+Added Net: Name=NetD?_5
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_FC_Conn Member=Component D? DT1240A-08LP3810-7
+Added Member To Class: ClassName=U_FC_Conn Member=Component D? DT1240A-08LP3810-7
+Added Member To Class: ClassName=U_FC_Conn Member=Component D? DT1240A-08LP3810-7
+Added Member To Class: ClassName=U_FC_Conn Member=Component D? DT1240A-08LP3810-7

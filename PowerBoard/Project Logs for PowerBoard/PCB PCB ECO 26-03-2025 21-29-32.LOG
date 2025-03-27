@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=ESC_NSCS_B Pin=D8-1
+Added Pin To Net: NetName=ESC_INHA_B Pin=D8-2
+Added Pin To Net: NetName=ESC_INLA_B Pin=D8-4
+Added Pin To Net: NetName=ESC_INHB_B Pin=D8-5
+Added Pin To Net: NetName=ESC_INLB_B Pin=D8-7
+Added Pin To Net: NetName=ESC_INHC_B Pin=D8-8
+Added Pin To Net: NetName=ESC_INLC_B Pin=D8-10
+Added Pin To Net: NetName=ESC_INLC_B Pin=J3-18
+Added Pin To Net: NetName=ESC_INHC_B Pin=J3-19
+Added Pin To Net: NetName=ESC_INLB_B Pin=J3-20
+Added Pin To Net: NetName=ESC_INHB_B Pin=J3-21
+Added Pin To Net: NetName=ESC_INLA_B Pin=J3-22
+Added Pin To Net: NetName=ESC_INHA_B Pin=J3-23
+Added Pin To Net: NetName=ESC_NSCS_B Pin=J3-24
+Added Pin To Net: NetName=NetD8_11 Pin=D8-11
+Added Pin To Net: NetName=NetD8_11 Pin=J3-17
+Added Net: Name=NetD8_11
+Add Net: Net with name "VSYS" already exists
