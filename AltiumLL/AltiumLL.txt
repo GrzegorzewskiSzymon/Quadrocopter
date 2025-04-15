@@ -1,0 +1,10 @@
+grzegorzewski.szymek@gmail.com
+Kemysz2003@
+C:\Users\szymo\Downloads
+C:\Users\szymo\Documents\AltiumLL\SamacSys.SchLib
+C:\Users\szymo\Documents\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True
