@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=D_P Pin=D11-1
+Added Pin To Net: NetName=D_N Pin=D12-1
+Added Pin To Net: NetName=D_P Pin=J3-41
+Added Pin To Net: NetName=D_N Pin=J3-42
+Added Pin To Net: NetName=D_P Pin=R39-2
+Added Pin To Net: NetName=D_N Pin=R40-2
+Change Net Name : Old Net Name=D_N New Net Name=CONN_D_N
+Change Net Name : Old Net Name=D_P New Net Name=CONN_D_P
+Add Net: Net with name "VSYS" already exists
+Added Differential Pair: Name=CONN_D

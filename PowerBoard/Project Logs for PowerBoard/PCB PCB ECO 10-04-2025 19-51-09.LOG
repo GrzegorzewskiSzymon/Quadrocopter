@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SDA Pin=IC4-5
+Removed Pin From Net: NetName=SDA Pin=R35-1
+Added Pin To Net: NetName=NetIC4_5 Pin=IC4-5
+Added Pin To Net: NetName=NetIC4_5 Pin=R35-1
+Added Net: Name=NetIC4_5
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_USB Member=Component IC4 FUSB302BMPX

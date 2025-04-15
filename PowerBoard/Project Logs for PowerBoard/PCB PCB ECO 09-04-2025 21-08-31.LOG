@@ -1,0 +1,11 @@
+Added Component: Designator=IC?(QFN50P250X250X80-15N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "FUSB302BMPX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fusb302bmpx/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/FUSB302B-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FUSB302BMPX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-FUSB302BMPX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FUSB302BMPX?qs=8ziscO3x5y1SHqdwooDK6g%3D%3D"; VariantName = "[No Variations]"
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_USB Member=Component IC? FUSB302BMPX

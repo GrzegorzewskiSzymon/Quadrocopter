@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=ESC_SDO Pin=D10-4
+Removed Pin From Net: NetName=ESC_NFAULT Pin=D10-6
+Removed Pin From Net: NetName=ESC_SDI Pin=D10-7
+Removed Pin From Net: NetName=ESC_CLK Pin=D10-8
+Removed Pin From Net: NetName=ESC_CLK Pin=J3-36
+Removed Pin From Net: NetName=ESC_SDI Pin=J3-37
+Removed Pin From Net: NetName=ESC_SDO Pin=J3-38
+Removed Pin From Net: NetName=ESC_NFAULT Pin=J3-39
+Added Pin To Net: NetName=ESC_SDI Pin=D10-4
+Added Pin To Net: NetName=ESC_CLK Pin=D10-6
+Added Pin To Net: NetName=ESC_SDO Pin=D10-7
+Added Pin To Net: NetName=ESC_NFAULT Pin=D10-8
+Added Pin To Net: NetName=ESC_NFAULT Pin=J3-36
+Added Pin To Net: NetName=ESC_SDO Pin=J3-37
+Added Pin To Net: NetName=ESC_SDI Pin=J3-38
+Added Pin To Net: NetName=ESC_CLK Pin=J3-39
+Add Net: Net with name "VSYS" already exists

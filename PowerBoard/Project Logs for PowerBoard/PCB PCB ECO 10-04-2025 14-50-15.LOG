@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetC52_2 Pin=IC4-A1
+Removed Pin From Net: NetName=VBUS Pin=IC4-A2
+Removed Pin From Net: NetName=+3V3 Pin=IC4-A3
+Removed Pin From Net: NetName=+FUSB Pin=IC4-B1
+Removed Pin From Net: NetName=SCL Pin=IC4-B3
+Removed Pin From Net: NetName=NetC51_2 Pin=IC4-C1
+Removed Pin From Net: NetName=GND Pin=IC4-C2
+Removed Pin From Net: NetName=SDA Pin=IC4-C3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC4
+Added Pin To Net: NetName=NetC52_2 Pin=IC4-1
+Added Pin To Net: NetName=VBUS Pin=IC4-2
+Added Pin To Net: NetName=+3V3 Pin=IC4-3
+Added Pin To Net: NetName=+3V3 Pin=IC4-4
+Added Pin To Net: NetName=SDA Pin=IC4-5
+Added Pin To Net: NetName=SDA Pin=IC4-6
+Added Pin To Net: NetName=SCL Pin=IC4-7
+Added Pin To Net: NetName=GND Pin=IC4-8
+Added Pin To Net: NetName=GND Pin=IC4-9
+Added Pin To Net: NetName=NetC51_2 Pin=IC4-10
+Added Pin To Net: NetName=NetC51_2 Pin=IC4-11
+Added Pin To Net: NetName=+FUSB Pin=IC4-12
+Added Pin To Net: NetName=+FUSB Pin=IC4-13
+Added Pin To Net: NetName=NetC52_2 Pin=IC4-14
+Added Pin To Net: NetName=SDA Pin=R35-1
+Add Net: Net with name "VSYS" already exists

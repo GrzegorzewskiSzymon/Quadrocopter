@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=NetC98_2 Pin=R86-2
+Removed Pin From Net: NetName=NetC98_2 Pin=R87-2
+Removed Pin From Net: NetName=NetC99_2 Pin=R87-3
+Removed Pin From Net: NetName=NetC99_2 Pin=R88-2
+Removed Pin From Net: NetName=NetC102_2 Pin=R89-2
+Removed Pin From Net: NetName=NetC102_2 Pin=R90-2
+Removed Pin From Net: NetName=NetC103_2 Pin=R90-3
+Removed Pin From Net: NetName=NetC103_2 Pin=R91-2
+Removed Pin From Net: NetName=NetC105_2 Pin=R92-2
+Removed Pin From Net: NetName=NetC105_2 Pin=R93-2
+Removed Pin From Net: NetName=NetC106_2 Pin=R93-3
+Removed Pin From Net: NetName=NetC106_2 Pin=R94-2
+Removed Pin From Net: NetName=NetC111_2 Pin=R104-2
+Removed Pin From Net: NetName=NetC111_2 Pin=R105-2
+Removed Pin From Net: NetName=NetC112_2 Pin=R105-3
+Removed Pin From Net: NetName=NetC112_2 Pin=R106-2
+Removed Pin From Net: NetName=NetC115_2 Pin=R107-2
+Removed Pin From Net: NetName=NetC115_2 Pin=R108-2
+Removed Pin From Net: NetName=NetC116_2 Pin=R108-3
+Removed Pin From Net: NetName=NetC116_2 Pin=R109-2
+Removed Pin From Net: NetName=NetC118_2 Pin=R110-2
+Removed Pin From Net: NetName=NetC118_2 Pin=R111-2
+Removed Pin From Net: NetName=NetC119_2 Pin=R111-3
+Removed Pin From Net: NetName=NetC119_2 Pin=R112-2
+Removed Pin From Net: NetName=NetC124_2 Pin=R122-2
+Removed Pin From Net: NetName=NetC124_2 Pin=R123-2
+Removed Pin From Net: NetName=NetC125_2 Pin=R123-3
+Removed Pin From Net: NetName=NetC125_2 Pin=R124-2
+Removed Pin From Net: NetName=NetC128_2 Pin=R125-2
+Removed Pin From Net: NetName=NetC128_2 Pin=R126-2
+Removed Pin From Net: NetName=NetC129_2 Pin=R126-3
+Removed Pin From Net: NetName=NetC129_2 Pin=R127-2
+Removed Pin From Net: NetName=NetC131_2 Pin=R128-2
+Removed Pin From Net: NetName=NetC131_2 Pin=R129-2
+Removed Pin From Net: NetName=NetC132_2 Pin=R129-3
+Removed Pin From Net: NetName=NetC132_2 Pin=R130-2
+Added Pin To Net: NetName=NetC98_2 Pin=IC10-9
+Added Pin To Net: NetName=NetC99_2 Pin=IC10-10
+Added Pin To Net: NetName=NetC103_2 Pin=IC10-11
+Added Pin To Net: NetName=NetC102_2 Pin=IC10-12
+Added Pin To Net: NetName=NetC105_2 Pin=IC10-19
+Added Pin To Net: NetName=NetC106_2 Pin=IC10-20
+Added Pin To Net: NetName=NetC111_2 Pin=IC11-9
+Added Pin To Net: NetName=NetC112_2 Pin=IC11-10
+Added Pin To Net: NetName=NetC116_2 Pin=IC11-11
+Added Pin To Net: NetName=NetC115_2 Pin=IC11-12
+Added Pin To Net: NetName=NetC118_2 Pin=IC11-19
+Added Pin To Net: NetName=NetC119_2 Pin=IC11-20
+Added Pin To Net: NetName=NetC124_2 Pin=IC12-9
+Added Pin To Net: NetName=NetC125_2 Pin=IC12-10
+Added Pin To Net: NetName=NetC129_2 Pin=IC12-11
+Added Pin To Net: NetName=NetC128_2 Pin=IC12-12
+Added Pin To Net: NetName=NetC131_2 Pin=IC12-19
+Added Pin To Net: NetName=NetC132_2 Pin=IC12-20
+Added Pin To Net: NetName=NetC98_2 Pin=R86-1
+Added Pin To Net: NetName=NetC99_2 Pin=R88-1
+Added Pin To Net: NetName=NetC102_2 Pin=R89-1
+Added Pin To Net: NetName=NetC103_2 Pin=R91-1
+Added Pin To Net: NetName=NetC105_2 Pin=R92-1
+Added Pin To Net: NetName=NetC106_2 Pin=R94-1
+Added Pin To Net: NetName=NetC111_2 Pin=R104-1
+Added Pin To Net: NetName=NetC112_2 Pin=R106-1
+Added Pin To Net: NetName=NetC115_2 Pin=R107-1
+Added Pin To Net: NetName=NetC116_2 Pin=R109-1
+Added Pin To Net: NetName=NetC118_2 Pin=R110-1
+Added Pin To Net: NetName=NetC119_2 Pin=R112-1
+Added Pin To Net: NetName=NetC124_2 Pin=R122-1
+Added Pin To Net: NetName=NetC125_2 Pin=R124-1
+Added Pin To Net: NetName=NetC128_2 Pin=R125-1
+Added Pin To Net: NetName=NetC129_2 Pin=R127-1
+Added Pin To Net: NetName=NetC131_2 Pin=R128-1
+Added Pin To Net: NetName=NetC132_2 Pin=R130-1
+Added Pin To Net: NetName=NetR86_2 Pin=R86-2
+Added Pin To Net: NetName=NetR86_2 Pin=R87-2
+Added Net: Name=NetR86_2
+Added Pin To Net: NetName=NetR87_3 Pin=R87-3
+Added Pin To Net: NetName=NetR87_3 Pin=R88-2
+Added Net: Name=NetR87_3
+Added Pin To Net: NetName=NetR89_2 Pin=R89-2
+Added Pin To Net: NetName=NetR89_2 Pin=R90-2
+Added Net: Name=NetR89_2
+Added Pin To Net: NetName=NetR90_3 Pin=R90-3
+Added Pin To Net: NetName=NetR90_3 Pin=R91-2
+Added Net: Name=NetR90_3
+Added Pin To Net: NetName=NetR92_2 Pin=R92-2
+Added Pin To Net: NetName=NetR92_2 Pin=R93-2
+Added Net: Name=NetR92_2
+Added Pin To Net: NetName=NetR93_3 Pin=R93-3
+Added Pin To Net: NetName=NetR93_3 Pin=R94-2
+Added Net: Name=NetR93_3
+Added Pin To Net: NetName=NetR104_2 Pin=R104-2
+Added Pin To Net: NetName=NetR104_2 Pin=R105-2
+Added Net: Name=NetR104_2
+Added Pin To Net: NetName=NetR105_3 Pin=R105-3
+Added Pin To Net: NetName=NetR105_3 Pin=R106-2
+Added Net: Name=NetR105_3
+Added Pin To Net: NetName=NetR107_2 Pin=R107-2
+Added Pin To Net: NetName=NetR107_2 Pin=R108-2
+Added Net: Name=NetR107_2
+Added Pin To Net: NetName=NetR108_3 Pin=R108-3
+Added Pin To Net: NetName=NetR108_3 Pin=R109-2
+Added Net: Name=NetR108_3
+Added Pin To Net: NetName=NetR110_2 Pin=R110-2
+Added Pin To Net: NetName=NetR110_2 Pin=R111-2
+Added Net: Name=NetR110_2
+Added Pin To Net: NetName=NetR111_3 Pin=R111-3
+Added Pin To Net: NetName=NetR111_3 Pin=R112-2
+Added Net: Name=NetR111_3
+Added Pin To Net: NetName=NetR122_2 Pin=R122-2
+Added Pin To Net: NetName=NetR122_2 Pin=R123-2
+Added Net: Name=NetR122_2
+Added Pin To Net: NetName=NetR123_3 Pin=R123-3
+Added Pin To Net: NetName=NetR123_3 Pin=R124-2
+Added Net: Name=NetR123_3
+Added Pin To Net: NetName=NetR125_2 Pin=R125-2
+Added Pin To Net: NetName=NetR125_2 Pin=R126-2
+Added Net: Name=NetR125_2
+Added Pin To Net: NetName=NetR126_3 Pin=R126-3
+Added Pin To Net: NetName=NetR126_3 Pin=R127-2
+Added Net: Name=NetR126_3
+Added Pin To Net: NetName=NetR128_2 Pin=R128-2
+Added Pin To Net: NetName=NetR128_2 Pin=R129-2
+Added Net: Name=NetR128_2
+Added Pin To Net: NetName=NetR129_3 Pin=R129-3
+Added Pin To Net: NetName=NetR129_3 Pin=R130-2
+Added Net: Name=NetR129_3
+Add Net: Net with name "VSYS" already exists

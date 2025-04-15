@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetQ7_5 Pin=R69-1
+Removed Pin From Net: NetName=NetR68_2 Pin=R69-2
+Removed Pin From Net: NetName=GND Pin=R69-4
+Removed Pin From Net: NetName=NetQ23_5 Pin=R111-1
+Removed Pin From Net: NetName=NetR110_2 Pin=R111-2
+Removed Pin From Net: NetName=GND Pin=R111-4
+Added Pin To Net: NetName=GND Pin=R69-1
+Added Pin To Net: NetName=NetR68_2 Pin=R69-3
+Added Pin To Net: NetName=NetQ7_5 Pin=R69-4
+Added Pin To Net: NetName=GND Pin=R111-1
+Added Pin To Net: NetName=NetR110_2 Pin=R111-3
+Added Pin To Net: NetName=NetQ23_5 Pin=R111-4
+Added Pin To Net: NetName=NetR69_2 Pin=R69-2
+Added Pin To Net: NetName=NetR69_2 Pin=R70-2
+Added Net: Name=NetR69_2
+Added Pin To Net: NetName=NetR111_2 Pin=R111-2
+Added Pin To Net: NetName=NetR111_2 Pin=R112-2
+Added Net: Name=NetR111_2
+Add Net: Net with name "VSYS" already exists

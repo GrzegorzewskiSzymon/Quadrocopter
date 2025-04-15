@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=NetC85_2 Pin=R68-2
+Removed Pin From Net: NetName=NetC85_2 Pin=R69-2
+Removed Pin From Net: NetName=NetC86_2 Pin=R69-3
+Removed Pin From Net: NetName=NetC86_2 Pin=R70-2
+Removed Pin From Net: NetName=NetC89_2 Pin=R71-2
+Removed Pin From Net: NetName=NetC89_2 Pin=R72-2
+Removed Pin From Net: NetName=NetC90_2 Pin=R72-3
+Removed Pin From Net: NetName=NetC90_2 Pin=R73-2
+Removed Pin From Net: NetName=NetC92_2 Pin=R74-2
+Removed Pin From Net: NetName=NetC92_2 Pin=R75-2
+Removed Pin From Net: NetName=NetC93_2 Pin=R75-3
+Removed Pin From Net: NetName=NetC93_2 Pin=R76-2
+Removed Member From Class: ClassName=U_ESC_A Member=C95
+Removed Member From Class: ClassName=U_ESC_A Member=C97
+Removed Member From Class: ClassName=U_ESC_A Member=C100
+Removed Member From Class: ClassName=U_ESC_A Member=C108
+Removed Member From Class: ClassName=U_ESC_A Member=C109
+Removed Member From Class: ClassName=U_ESC_A Member=C110
+Removed Member From Class: ClassName=U_ESC_A Member=C113
+Removed Member From Class: ClassName=U_ESC_A Member=C121
+Removed Member From Class: ClassName=U_ESC_B Member=C122
+Removed Member From Class: ClassName=U_ESC_A Member=C123
+Removed Member From Class: ClassName=U_ESC_B Member=C123
+Removed Member From Class: ClassName=U_ESC_B Member=C126
+Removed Member From Class: ClassName=U_ESC_A Member=R87
+Removed Member From Class: ClassName=U_ESC_C Member=R90
+Removed Member From Class: ClassName=U_ESC_A Member=R96
+Removed Member From Class: ClassName=U_ESC_B Member=R96
+Removed Member From Class: ClassName=U_ESC_B Member=R98
+Removed Member From Class: ClassName=U_ESC_B Member=R100
+Removed Member From Class: ClassName=U_ESC_B Member=R102
+Removed Member From Class: ClassName=U_ESC_A Member=R111
+Removed Member From Class: ClassName=U_ESC_B Member=R111
+Removed Member From Class: ClassName=U_ESC_A Member=R113
+Removed Member From Class: ClassName=U_ESC_B Member=R113
+Removed Member From Class: ClassName=U_ESC_C Member=R113
+Removed Member From Class: ClassName=U_ESC_C Member=R114
+Removed Member From Class: ClassName=U_ESC_A Member=R115
+Removed Member From Class: ClassName=U_ESC_B Member=R115
+Removed Member From Class: ClassName=U_ESC_C Member=R115
+Removed Member From Class: ClassName=U_ESC_C Member=R116
+Removed Member From Class: ClassName=U_ESC_B Member=R117
+Removed Member From Class: ClassName=U_ESC_C Member=R117
+Removed Member From Class: ClassName=U_ESC_C Member=R118
+Removed Member From Class: ClassName=U_ESC_B Member=R119
+Removed Member From Class: ClassName=U_ESC_C Member=R119
+Removed Member From Class: ClassName=U_ESC_C Member=R120
+Removed Member From Class: ClassName=U_ESC_B Member=R121
+Removed Member From Class: ClassName=U_ESC_C Member=R121
+Removed Member From Class: ClassName=U_ESC_A Member=R123
+Removed Member From Class: ClassName=U_ESC_B Member=R123
+Removed Member From Class: ClassName=U_ESC_B Member=R126
+Removed Member From Class: ClassName=U_ESC_B Member=R129
+Added Pin To Net: NetName=NetC85_2 Pin=IC9-9
+Added Pin To Net: NetName=NetC86_2 Pin=IC9-10
+Added Pin To Net: NetName=NetC90_2 Pin=IC9-11
+Added Pin To Net: NetName=NetC89_2 Pin=IC9-12
+Added Pin To Net: NetName=NetC92_2 Pin=IC9-19
+Added Pin To Net: NetName=NetC93_2 Pin=IC9-20
+Added Pin To Net: NetName=NetC85_2 Pin=R68-1
+Added Pin To Net: NetName=NetC86_2 Pin=R70-1
+Added Pin To Net: NetName=NetC89_2 Pin=R71-1
+Added Pin To Net: NetName=NetC90_2 Pin=R73-1
+Added Pin To Net: NetName=NetC92_2 Pin=R74-1
+Added Pin To Net: NetName=NetC93_2 Pin=R76-1
+Added Pin To Net: NetName=NetR68_2 Pin=R68-2
+Added Pin To Net: NetName=NetR68_2 Pin=R69-2
+Added Net: Name=NetR68_2
+Added Pin To Net: NetName=NetR69_3 Pin=R69-3
+Added Pin To Net: NetName=NetR69_3 Pin=R70-2
+Added Net: Name=NetR69_3
+Added Pin To Net: NetName=NetR71_2 Pin=R71-2
+Added Pin To Net: NetName=NetR71_2 Pin=R72-2
+Added Net: Name=NetR71_2
+Added Pin To Net: NetName=NetR72_3 Pin=R72-3
+Added Pin To Net: NetName=NetR72_3 Pin=R73-2
+Added Net: Name=NetR72_3
+Added Pin To Net: NetName=NetR74_2 Pin=R74-2
+Added Pin To Net: NetName=NetR74_2 Pin=R75-2
+Added Net: Name=NetR74_2
+Added Pin To Net: NetName=NetR75_3 Pin=R75-3
+Added Pin To Net: NetName=NetR75_3 Pin=R76-2
+Added Net: Name=NetR75_3
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_ESC_A Member=Component C85 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C86 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C87 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C88 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C89 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C90 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C91 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C92 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C93 Cap0402
+Added Member To Class: ClassName=U_ESC_A Member=Component C94 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C95 Cap0402
+Added Member To Class: ClassName=U_ESC_B Member=Component C96 CapSMD0603
+Added Member To Class: ClassName=U_ESC_B Member=Component C97 CapSMD0603
+Added Member To Class: ClassName=U_ESC_A Member=Component R68 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R69 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_A Member=Component R70 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R71 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R72 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_A Member=Component R73 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R74 Res0402
+Added Member To Class: ClassName=U_ESC_A Member=Component R75 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_A Member=Component R76 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R77 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R78 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R79 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R80 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R81 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R82 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R83 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R84 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R85 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R86 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R88 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R89 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R90 WSK12161L000FEA
+Added Member To Class: ClassName=U_ESC_B Member=Component R91 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R92 Res0402
+Added Member To Class: ClassName=U_ESC_B Member=Component R94 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R95 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R96 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R97 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R98 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R99 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R100 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R101 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R102 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R103 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R104 Res0402
+Added Member To Class: ClassName=U_ESC_C Member=Component R106 Res0402

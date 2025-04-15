@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=IC4-15
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_USB Member=Component IC4 FUSB302BMPX
