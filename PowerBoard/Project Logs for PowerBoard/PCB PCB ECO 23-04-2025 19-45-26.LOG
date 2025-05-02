@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Y1 Old Footprint=DSC1001CI10010000 New Footprint=ECS2520MVLC010CNTR
+Change Component Comment : Designator=Y1 Old Comment=DSC1001CI1-001.0000 New Comment=ECS-2520MVLC-010-CN-TR
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "DSC1001CI10010000"; UniqueID = "\PSCYALZR\ERYGVSKX" ("\PSCYALZR\ERYGVSKX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ecsxtal.com/store/pdf/ECS-2520MVLC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ECS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECS-2520MVLC-010-CN-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "520-2520MVLC-010CNTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ECS/ECS-2520MVLC-010-CN-TR?qs=vvQtp7zwQdMouzumdpJOhQ%3D%3D"; VariantName = "[No Variations]"
+Add Net: Net with name "VSYS" already exists

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CONN_D_P Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=CONN_D_N Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Member From Class: ClassName=U_USB Member=D1
+Removed Member From Class: ClassName=U_USB Member=D2
+Add Net: Net with name "VSYS" already exists

@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=GND Pin=C85-1
+Removed Pin From Net: NetName=GND Pin=C88-2
+Removed Pin From Net: NetName=GND Pin=C89-1
+Removed Pin From Net: NetName=GND Pin=C91-2
+Removed Pin From Net: NetName=GND Pin=C92-1
+Removed Pin From Net: NetName=GND Pin=C94-2
+Removed Pin From Net: NetName=GND Pin=C98-1
+Removed Pin From Net: NetName=GND Pin=C101-2
+Removed Pin From Net: NetName=GND Pin=C102-1
+Removed Pin From Net: NetName=GND Pin=C104-2
+Removed Pin From Net: NetName=GND Pin=C105-1
+Removed Pin From Net: NetName=GND Pin=C107-2
+Removed Pin From Net: NetName=GND Pin=C124-1
+Removed Pin From Net: NetName=GND Pin=C127-2
+Removed Pin From Net: NetName=GND Pin=C128-1
+Removed Pin From Net: NetName=GND Pin=C130-2
+Removed Pin From Net: NetName=GND Pin=C131-1
+Removed Pin From Net: NetName=GND Pin=C133-2
+Removed Member From Class: ClassName=U_ESC_A Member=C85
+Removed Member From Class: ClassName=U_ESC_A Member=C86
+Removed Member From Class: ClassName=U_ESC_A Member=C88
+Removed Member From Class: ClassName=U_ESC_A Member=C89
+Removed Member From Class: ClassName=U_ESC_A Member=C90
+Removed Member From Class: ClassName=U_ESC_A Member=C91
+Removed Member From Class: ClassName=U_ESC_A Member=C92
+Removed Member From Class: ClassName=U_ESC_A Member=C93
+Removed Member From Class: ClassName=U_ESC_A Member=C94
+Removed Member From Class: ClassName=U_ESC_B Member=C98
+Removed Member From Class: ClassName=U_ESC_B Member=C99
+Removed Member From Class: ClassName=U_ESC_B Member=C101
+Removed Member From Class: ClassName=U_ESC_B Member=C102
+Removed Member From Class: ClassName=U_ESC_B Member=C103
+Removed Member From Class: ClassName=U_ESC_B Member=C104
+Removed Member From Class: ClassName=U_ESC_B Member=C105
+Removed Member From Class: ClassName=U_ESC_B Member=C106
+Removed Member From Class: ClassName=U_ESC_B Member=C107
+Removed Member From Class: ClassName=U_ESC_D Member=C124
+Removed Member From Class: ClassName=U_ESC_D Member=C125
+Removed Member From Class: ClassName=U_ESC_D Member=C127
+Removed Member From Class: ClassName=U_ESC_D Member=C128
+Removed Member From Class: ClassName=U_ESC_D Member=C129
+Removed Member From Class: ClassName=U_ESC_D Member=C130
+Removed Member From Class: ClassName=U_ESC_D Member=C131
+Removed Member From Class: ClassName=U_ESC_D Member=C132
+Removed Member From Class: ClassName=U_ESC_D Member=C133
+Removed Member From Class: ClassName=U_ESC_A Member=R68
+Removed Member From Class: ClassName=U_ESC_A Member=R70
+Removed Member From Class: ClassName=U_ESC_A Member=R71
+Removed Member From Class: ClassName=U_ESC_A Member=R73
+Removed Member From Class: ClassName=U_ESC_A Member=R74
+Removed Member From Class: ClassName=U_ESC_A Member=R76
+Removed Member From Class: ClassName=U_ESC_B Member=R86
+Removed Member From Class: ClassName=U_ESC_B Member=R88
+Removed Member From Class: ClassName=U_ESC_B Member=R89
+Removed Member From Class: ClassName=U_ESC_B Member=R91
+Removed Member From Class: ClassName=U_ESC_B Member=R92
+Removed Member From Class: ClassName=U_ESC_B Member=R94
+Removed Member From Class: ClassName=U_ESC_D Member=R122
+Removed Member From Class: ClassName=U_ESC_D Member=R124
+Removed Member From Class: ClassName=U_ESC_D Member=R125
+Removed Member From Class: ClassName=U_ESC_D Member=R127
+Removed Member From Class: ClassName=U_ESC_D Member=R128
+Removed Member From Class: ClassName=U_ESC_D Member=R130
+Added Pin To Net: NetName=NetIC13_9 Pin=IC13-9
+Added Pin To Net: NetName=NetIC13_9 Pin=R69-3
+Added Net: Name=NetIC13_9
+Added Pin To Net: NetName=NetIC13_10 Pin=IC13-10
+Added Pin To Net: NetName=NetIC13_10 Pin=R69-2
+Added Net: Name=NetIC13_10
+Added Pin To Net: NetName=NetIC13_11 Pin=IC13-11
+Added Pin To Net: NetName=NetIC13_11 Pin=R72-3
+Added Net: Name=NetIC13_11
+Added Pin To Net: NetName=NetIC13_12 Pin=IC13-12
+Added Pin To Net: NetName=NetIC13_12 Pin=R72-2
+Added Net: Name=NetIC13_12
+Added Pin To Net: NetName=NetIC13_19 Pin=IC13-19
+Added Pin To Net: NetName=NetIC13_19 Pin=R75-2
+Added Net: Name=NetIC13_19
+Added Pin To Net: NetName=NetIC13_20 Pin=IC13-20
+Added Pin To Net: NetName=NetIC13_20 Pin=R75-3
+Added Net: Name=NetIC13_20
+Added Pin To Net: NetName=NetIC14_9 Pin=IC14-9
+Added Pin To Net: NetName=NetIC14_9 Pin=R87-2
+Added Net: Name=NetIC14_9
+Added Pin To Net: NetName=NetIC14_10 Pin=IC14-10
+Added Pin To Net: NetName=NetIC14_10 Pin=R87-3
+Added Net: Name=NetIC14_10
+Added Pin To Net: NetName=NetIC14_11 Pin=IC14-11
+Added Pin To Net: NetName=NetIC14_11 Pin=R90-3
+Added Net: Name=NetIC14_11
+Added Pin To Net: NetName=NetIC14_12 Pin=IC14-12
+Added Pin To Net: NetName=NetIC14_12 Pin=R90-2
+Added Net: Name=NetIC14_12
+Added Pin To Net: NetName=NetIC14_19 Pin=IC14-19
+Added Pin To Net: NetName=NetIC14_19 Pin=R93-2
+Added Net: Name=NetIC14_19
+Added Pin To Net: NetName=NetIC14_20 Pin=IC14-20
+Added Pin To Net: NetName=NetIC14_20 Pin=R93-3
+Added Net: Name=NetIC14_20
+Added Pin To Net: NetName=NetIC16_9 Pin=IC16-9
+Added Pin To Net: NetName=NetIC16_9 Pin=R123-2
+Added Net: Name=NetIC16_9
+Added Pin To Net: NetName=NetIC16_10 Pin=IC16-10
+Added Pin To Net: NetName=NetIC16_10 Pin=R123-3
+Added Net: Name=NetIC16_10
+Added Pin To Net: NetName=NetIC16_11 Pin=IC16-11
+Added Pin To Net: NetName=NetIC16_11 Pin=R126-3
+Added Net: Name=NetIC16_11
+Added Pin To Net: NetName=NetIC16_12 Pin=IC16-12
+Added Pin To Net: NetName=NetIC16_12 Pin=R126-2
+Added Net: Name=NetIC16_12
+Added Pin To Net: NetName=NetIC16_19 Pin=IC16-19
+Added Pin To Net: NetName=NetIC16_19 Pin=R129-2
+Added Net: Name=NetIC16_19
+Added Pin To Net: NetName=NetIC16_20 Pin=IC16-20
+Added Pin To Net: NetName=NetIC16_20 Pin=R129-3
+Added Net: Name=NetIC16_20
+Add Net: Net with name "VSYS" already exists

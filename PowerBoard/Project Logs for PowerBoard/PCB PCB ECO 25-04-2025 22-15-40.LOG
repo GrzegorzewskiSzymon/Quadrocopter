@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC65_2 Pin=IC5-20
+Removed Pin From Net: NetName=NetC64_2 Pin=IC5-21
+Added Pin To Net: NetName=NetC64_2 Pin=IC5-20
+Added Pin To Net: NetName=NetC65_2 Pin=IC5-21
+Change Net Name : Old Net Name=Temp2 New Net Name=Temp3
+Change Net Name : Old Net Name=Temp3 New Net Name=Temp2
+Add Net: Net with name "VSYS" already exists

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ESC_SOC_A Pin=FB1-1
+Added Pin To Net: NetName=ESC_SOB_A Pin=FB3-1
+Added Pin To Net: NetName=ESC_SOA_A Pin=FB5-1
+Add Net: Net with name "VSYS" already exists

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC64_2 Pin=FB6-1
+Removed Pin From Net: NetName=NetC65_2 Pin=FB8-1
+Removed Pin From Net: NetName=NetC64_2 Pin=IC5-20
+Removed Pin From Net: NetName=NetC65_2 Pin=IC5-21
+Removed Pin From Net: NetName=Temp2 Pin=R52-2
+Removed Pin From Net: NetName=Temp3 Pin=R53-2
+Added Pin To Net: NetName=NetC65_2 Pin=FB6-1
+Added Pin To Net: NetName=NetC64_2 Pin=FB8-1
+Added Pin To Net: NetName=NetC65_2 Pin=IC5-20
+Added Pin To Net: NetName=NetC64_2 Pin=IC5-21
+Added Pin To Net: NetName=Temp3 Pin=R52-2
+Added Pin To Net: NetName=Temp2 Pin=R53-2
+Add Net: Net with name "VSYS" already exists

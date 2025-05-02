@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=+3V3 Pin=RT1-2
+Removed Member From Class: ClassName=U_ADC+Temp Member=RT1
+Change Component Designator: OldDesignator=IC8 NewDesignator=IC9
+Change Component Designator: OldDesignator=IC9 NewDesignator=IC10
+Change Component Designator: OldDesignator=IC10 NewDesignator=IC11
+Change Component Designator: OldDesignator=IC11 NewDesignator=IC12
+Change Component Designator: OldDesignator=IC12 NewDesignator=IC13
+Added Component: Designator=IC8(TMP6131DECR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tmp6131decr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/TMP61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMP6131DECR?qs=l7cgNqFNU1jnXQehRCOLwA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=IC8-2
+Change Net Name : Old Net Name=NetIC8_9 New Net Name=NetIC9_9
+Change Net Name : Old Net Name=NetIC8_10 New Net Name=NetIC9_10
+Change Net Name : Old Net Name=NetIC9_6 New Net Name=NetIC10_6
+Change Net Name : Old Net Name=NetIC9_8 New Net Name=NetIC10_8
+Change Net Name : Old Net Name=NetIC9_13 New Net Name=NetIC10_13
+Change Net Name : Old Net Name=NetIC9_15 New Net Name=NetIC10_15
+Change Net Name : Old Net Name=NetIC9_16 New Net Name=NetIC10_16
+Change Net Name : Old Net Name=NetIC9_18 New Net Name=NetIC10_18
+Change Net Name : Old Net Name=NetIC9_31 New Net Name=NetIC10_31
+Change Net Name : Old Net Name=NetIC10_6 New Net Name=NetIC11_6
+Change Net Name : Old Net Name=NetIC10_8 New Net Name=NetIC11_8
+Change Net Name : Old Net Name=NetIC10_13 New Net Name=NetIC11_13
+Change Net Name : Old Net Name=NetIC10_15 New Net Name=NetIC11_15
+Change Net Name : Old Net Name=NetIC10_16 New Net Name=NetIC11_16
+Change Net Name : Old Net Name=NetIC10_18 New Net Name=NetIC11_18
+Change Net Name : Old Net Name=NetIC10_31 New Net Name=NetIC11_31
+Change Net Name : Old Net Name=NetIC11_6 New Net Name=NetIC12_6
+Change Net Name : Old Net Name=NetIC11_8 New Net Name=NetIC12_8
+Change Net Name : Old Net Name=NetIC11_13 New Net Name=NetIC12_13
+Change Net Name : Old Net Name=NetIC11_15 New Net Name=NetIC12_15
+Change Net Name : Old Net Name=NetIC11_16 New Net Name=NetIC12_16
+Change Net Name : Old Net Name=NetIC11_18 New Net Name=NetIC12_18
+Change Net Name : Old Net Name=NetIC11_31 New Net Name=NetIC12_31
+Change Net Name : Old Net Name=NetIC12_6 New Net Name=NetIC13_6
+Change Net Name : Old Net Name=NetIC12_8 New Net Name=NetIC13_8
+Change Net Name : Old Net Name=NetIC12_13 New Net Name=NetIC13_13
+Change Net Name : Old Net Name=NetIC12_15 New Net Name=NetIC13_15
+Change Net Name : Old Net Name=NetIC12_16 New Net Name=NetIC13_16
+Change Net Name : Old Net Name=NetIC12_18 New Net Name=NetIC13_18
+Change Net Name : Old Net Name=NetIC12_31 New Net Name=NetIC13_31
+Change Net Name : Old Net Name=Temp1 New Net Name=Temp2
+Change Net Name : Old Net Name=Temp2 New Net Name=Temp3
+Added Pin To Net: NetName=Temp1 Pin=FB4-2
+Added Pin To Net: NetName=Temp1 Pin=IC8-1
+Added Pin To Net: NetName=Temp1 Pin=R54-2
+Added Net: Name=Temp1
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC8 TMP6131DECR

@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=+3V3 Pin=IC6-2
+Removed Pin From Net: NetName=+3V3 Pin=IC7-2
+Removed Member From Class: ClassName=U_ESC_A Member=IC11
+Removed Member From Class: ClassName=U_ToF_Bottom Member=IC11
+Removed Member From Class: ClassName=U_ESC_C Member=IC13
+Change Component Designator: OldDesignator=IC6 NewDesignator=IC9
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC10
+Change Component Designator: OldDesignator=IC8 NewDesignator=IC11
+Change Component Designator: OldDesignator=IC9 NewDesignator=IC12
+Change Component Designator: OldDesignator=IC10 NewDesignator=IC13
+Change Component Designator: OldDesignator=IC11 NewDesignator=IC14
+Change Component Designator: OldDesignator=IC12 NewDesignator=IC15
+Change Component Designator: OldDesignator=IC13 NewDesignator=IC16
+Added Component: Designator=IC6(TMP6131DECR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tmp6131decr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/TMP61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMP6131DECR?qs=l7cgNqFNU1jnXQehRCOLwA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC7(TMP6131DECR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tmp6131decr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/TMP61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMP6131DECR?qs=l7cgNqFNU1jnXQehRCOLwA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC8(TMP6131DECR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tmp6131decr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/TMP61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TMP6131DECR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMP6131DECR?qs=l7cgNqFNU1jnXQehRCOLwA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=IC6-2
+Added Pin To Net: NetName=+3V3 Pin=IC7-2
+Added Pin To Net: NetName=+3V3 Pin=IC8-2
+Change Net Name : Old Net Name=NetIC9_9 New Net Name=NetIC12_9
+Change Net Name : Old Net Name=NetIC9_10 New Net Name=NetIC12_10
+Change Net Name : Old Net Name=NetIC10_6 New Net Name=NetIC13_6
+Change Net Name : Old Net Name=NetIC10_8 New Net Name=NetIC13_8
+Change Net Name : Old Net Name=NetIC10_13 New Net Name=NetIC13_13
+Change Net Name : Old Net Name=NetIC10_15 New Net Name=NetIC13_15
+Change Net Name : Old Net Name=NetIC10_16 New Net Name=NetIC13_16
+Change Net Name : Old Net Name=NetIC10_18 New Net Name=NetIC13_18
+Change Net Name : Old Net Name=NetIC10_31 New Net Name=NetIC13_31
+Change Net Name : Old Net Name=NetIC11_6 New Net Name=NetIC14_6
+Change Net Name : Old Net Name=NetIC11_8 New Net Name=NetIC14_8
+Change Net Name : Old Net Name=NetIC11_13 New Net Name=NetIC14_13
+Change Net Name : Old Net Name=NetIC11_15 New Net Name=NetIC14_15
+Change Net Name : Old Net Name=NetIC11_16 New Net Name=NetIC14_16
+Change Net Name : Old Net Name=NetIC11_18 New Net Name=NetIC14_18
+Change Net Name : Old Net Name=NetIC11_31 New Net Name=NetIC14_31
+Change Net Name : Old Net Name=NetIC12_6 New Net Name=NetIC15_6
+Change Net Name : Old Net Name=NetIC12_8 New Net Name=NetIC15_8
+Change Net Name : Old Net Name=NetIC12_13 New Net Name=NetIC15_13
+Change Net Name : Old Net Name=NetIC12_15 New Net Name=NetIC15_15
+Change Net Name : Old Net Name=NetIC12_16 New Net Name=NetIC15_16
+Change Net Name : Old Net Name=NetIC12_18 New Net Name=NetIC15_18
+Change Net Name : Old Net Name=NetIC12_31 New Net Name=NetIC15_31
+Change Net Name : Old Net Name=NetIC13_6 New Net Name=NetIC16_6
+Change Net Name : Old Net Name=NetIC13_8 New Net Name=NetIC16_8
+Change Net Name : Old Net Name=NetIC13_13 New Net Name=NetIC16_13
+Change Net Name : Old Net Name=NetIC13_15 New Net Name=NetIC16_15
+Change Net Name : Old Net Name=NetIC13_16 New Net Name=NetIC16_16
+Change Net Name : Old Net Name=NetIC13_18 New Net Name=NetIC16_18
+Change Net Name : Old Net Name=NetIC13_31 New Net Name=NetIC16_31
+Added Pin To Net: NetName=NetIC6_1 Pin=IC6-1
+Added Pin To Net: NetName=NetIC6_1 Pin=IC9-2
+Added Net: Name=NetIC6_1
+Added Pin To Net: NetName=NetIC7_1 Pin=IC7-1
+Added Pin To Net: NetName=NetIC7_1 Pin=IC10-2
+Added Net: Name=NetIC7_1
+Added Pin To Net: NetName=NetIC8_1 Pin=IC8-1
+Added Pin To Net: NetName=NetIC8_1 Pin=IC11-2
+Added Net: Name=NetIC8_1
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC8 TMP6131DECR
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC9 TMP6131DECR
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC10 TMP6131DECR
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component IC12 TMF8806
+Added Member To Class: ClassName=U_ESC_A Member=Component IC13 DRV8323SRTAR
+Added Member To Class: ClassName=U_ESC_C Member=Component IC15 DRV8323SRTAR

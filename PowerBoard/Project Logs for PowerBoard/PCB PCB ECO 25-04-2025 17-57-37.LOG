@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ESC_SOC_D Pin=FB7-1
+Removed Pin From Net: NetName=ESC_SOB_D Pin=FB9-1
+Added Pin To Net: NetName=ESC_SOB_D Pin=FB7-1
+Added Pin To Net: NetName=ESC_SOC_D Pin=FB9-1
+Add Net: Net with name "VSYS" already exists

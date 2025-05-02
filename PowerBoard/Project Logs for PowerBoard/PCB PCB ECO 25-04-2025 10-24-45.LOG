@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=ESC_SOA_A Pin=FB1-1
+Removed Pin From Net: NetName=ESC_SOB_A Pin=FB3-1
+Removed Pin From Net: NetName=ESC_SOC_A Pin=FB5-1
+Removed Pin From Net: NetName=ESC_SOA_B Pin=FB7-1
+Removed Pin From Net: NetName=ESC_SOB_B Pin=FB9-1
+Removed Pin From Net: NetName=ESC_SOC_B Pin=FB10-1
+Removed Pin From Net: NetName=ESC_SOA_C Pin=FB11-1
+Removed Pin From Net: NetName=ESC_SOB_C Pin=FB12-1
+Removed Pin From Net: NetName=ESC_SOC_C Pin=FB13-1
+Removed Pin From Net: NetName=ESC_SOA_D Pin=FB14-1
+Removed Pin From Net: NetName=ESC_SOB_D Pin=FB15-1
+Removed Pin From Net: NetName=ESC_SOC_D Pin=FB16-1
+Removed Member From Class: ClassName=U_ADC+Temp Member=IC13
+Removed Member From Class: ClassName=U_ADC+Temp Member=IC14
+Removed Member From Class: ClassName=U_ADC+Temp Member=IC15
+Removed Member From Class: ClassName=U_ADC+Temp Member=IC16
+Removed Member From Class: ClassName=U_ToF_Bottom Member=IC16
+Added Pin To Net: NetName=ESC_SOA_B Pin=FB14-1
+Added Pin To Net: NetName=ESC_SOB_B Pin=FB15-1
+Added Pin To Net: NetName=ESC_SOC_B Pin=FB16-1
+Added Pin To Net: NetName=NetFB1_1 Pin=FB1-1
+Added Net: Name=NetFB1_1
+Added Pin To Net: NetName=NetFB3_1 Pin=FB3-1
+Added Net: Name=NetFB3_1
+Added Pin To Net: NetName=NetFB5_1 Pin=FB5-1
+Added Net: Name=NetFB5_1
+Added Pin To Net: NetName=NetFB7_1 Pin=FB7-1
+Added Net: Name=NetFB7_1
+Added Pin To Net: NetName=NetFB9_1 Pin=FB9-1
+Added Net: Name=NetFB9_1
+Added Pin To Net: NetName=NetFB10_1 Pin=FB10-1
+Added Net: Name=NetFB10_1
+Added Pin To Net: NetName=NetFB11_1 Pin=FB11-1
+Added Net: Name=NetFB11_1
+Added Pin To Net: NetName=NetFB12_1 Pin=FB12-1
+Added Net: Name=NetFB12_1
+Added Pin To Net: NetName=NetFB13_1 Pin=FB13-1
+Added Net: Name=NetFB13_1
+Add Net: Net with name "VSYS" already exists
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC6 TMP6131DECR
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC7 TMP6131DECR
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC8 TMP6131DECR
+Added Member To Class: ClassName=U_ADC+Temp Member=Component IC11 TMP6131DECR
+Added Member To Class: ClassName=U_ToF_Bottom Member=Component IC12 TMF8806

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SCL Pin=R49-1
+Removed Pin From Net: NetName=+3V3 Pin=R49-2
+Removed Pin From Net: NetName=SDA Pin=R50-1
+Removed Pin From Net: NetName=+3V3 Pin=R50-2
+Removed Member From Class: ClassName=Main Member=M5
+Removed Member From Class: ClassName=Main Member=M6
+Removed Member From Class: ClassName=U_ADC+Temp Member=R49
+Removed Member From Class: ClassName=U_ADC+Temp Member=R50
+Add Net: Net with name "VSYS" already exists

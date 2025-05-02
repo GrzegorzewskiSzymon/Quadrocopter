@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=ESC_NFAULT Pin=R63-1
+Removed Pin From Net: NetName=+3V3 Pin=R63-2
+Removed Pin From Net: NetName=ESC_ENABLE Pin=R66-1
+Removed Pin From Net: NetName=+3V3 Pin=R66-2
+Removed Pin From Net: NetName=ESC_NFAULT Pin=R99-1
+Removed Pin From Net: NetName=+3V3 Pin=R99-2
+Removed Pin From Net: NetName=ESC_ENABLE Pin=R102-1
+Removed Pin From Net: NetName=+3V3 Pin=R102-2
+Removed Pin From Net: NetName=ESC_NFAULT Pin=R117-1
+Removed Pin From Net: NetName=+3V3 Pin=R117-2
+Removed Pin From Net: NetName=ESC_ENABLE Pin=R120-1
+Removed Pin From Net: NetName=+3V3 Pin=R120-2
+Removed Member From Class: ClassName=U_ESC_A Member=R63
+Removed Member From Class: ClassName=U_ESC_A Member=R66
+Removed Member From Class: ClassName=U_ESC_C Member=R99
+Removed Member From Class: ClassName=U_ESC_C Member=R102
+Removed Member From Class: ClassName=U_ESC_D Member=R117
+Removed Member From Class: ClassName=U_ESC_D Member=R120
+Add Net: Net with name "VSYS" already exists

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3V3 Pin=IC8-2
+Removed Member From Class: ClassName=U_ADC+Temp Member=IC8
+Added Pin To Net: NetName=+3V3 Pin=IC11-2
+Add Net: Net with name "VSYS" already exists
