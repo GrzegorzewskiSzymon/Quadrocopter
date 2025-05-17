@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\szymo\Desktop\Quadrocopter\PowerBoard\PCB.PcbDoc
 Date     : 17/05/2025
-Time     : 00:44:31
+Time     : 19:11:22
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -43,7 +43,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net GND Between Pad C22-1(32.669mm,11.868mm) on Bottom Layer And Pad C24-2(34.259mm,11.874mm) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C28-1(31.264mm,12.971mm) on Bottom Layer And Pad C22-1(32.669mm,11.868mm) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C25-1(19.369mm,11.768mm) on Bottom Layer And Pad C27-2(19.369mm,8.768mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C27-2(19.369mm,8.768mm) on Bottom Layer And Track (21.042mm,8.851mm)(21.127mm,8.851mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C27-2(19.369mm,8.768mm) on Bottom Layer And Track (20.867mm,9.026mm)(21.042mm,8.851mm) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C28-1(31.264mm,12.971mm) on Bottom Layer And Pad J1-1(33.084mm,13.449mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad IC4-9(29.864mm,4.803mm) on Bottom Layer [Unplated] And Pad C29-1(30.462mm,6.166mm) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C29-1(30.462mm,6.166mm) on Bottom Layer And Pad R13-1(30.462mm,6.966mm) on Bottom Layer 
