@@ -1,0 +1,3 @@
+Added Component: Designator=PDN?(GND_test)
+Added Pin To Net: NetName=GND Pin=PDN?-1
+Added Member To Class: ClassName=U_BMS Member=Component PDN? gnd_test
