@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\szymo\Desktop\Quadrocopter\PowerBoard\PCB.PcbDoc
-Date     : 21/05/2025
-Time     : 20:01:44
+Date     : 22/05/2025
+Time     : 23:20:08
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -10,7 +10,8 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Via (11mm,29.75mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -41,7 +42,6 @@ Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
    Violation between Hole To Hole Clearance Constraint: (0.2mm < 0.25mm) Between Via (-13.894mm,20.235mm) from Top Layer to Bottom Layer And Via (-14.394mm,20.235mm) from Top Layer to Bottom Layer 
    Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.25mm) Between Via (-14.394mm,19.535mm) from Top Layer to Bottom Layer And Via (-14.892mm,19.535mm) from Top Layer to Bottom Layer 
    Violation between Hole To Hole Clearance Constraint: (0.197mm < 0.25mm) Between Via (-14.394mm,20.235mm) from Top Layer to Bottom Layer And Via (-14.892mm,20.235mm) from Top Layer to Bottom Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.222mm < 0.25mm) Between Via (19.095mm,11.277mm) from Top Layer to Bottom Layer And Via (19.598mm,11.417mm) from Top Layer to Bottom Layer 
    Violation between Hole To Hole Clearance Constraint: (0.175mm < 0.25mm) Between Via (2.021mm,2.251mm) from Top Layer to Bottom Layer And Via (2.496mm,2.251mm) from Top Layer to Bottom Layer 
    Violation between Hole To Hole Clearance Constraint: (0.175mm < 0.25mm) Between Via (2.496mm,2.251mm) from Top Layer to Bottom Layer And Via (2.971mm,2.251mm) from Top Layer to Bottom Layer 
    Violation between Hole To Hole Clearance Constraint: (0.247mm < 0.25mm) Between Via (-21.926mm,24.605mm) from Top Layer to Bottom Layer And Via (-21.9mm,25.152mm) from Top Layer to Bottom Layer 
@@ -51,7 +51,7 @@ Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
    Violation between Hole To Hole Clearance Constraint: (0.2mm < 0.25mm) Between Via (27.571mm,12.996mm) from Top Layer to Bottom Layer And Via (27.571mm,13.496mm) from Top Layer to Bottom Layer 
    Violation between Hole To Hole Clearance Constraint: (0.238mm < 0.25mm) Between Via (5.403mm,19.521mm) from Top Layer to Bottom Layer And Via (5.4mm,18.983mm) from Top Layer to Bottom Layer 
    Violation between Hole To Hole Clearance Constraint: (0.205mm < 0.25mm) Between Via (5.7mm,21.008mm) from Top Layer to Bottom Layer And Via (6.206mm,21.008mm) from Top Layer to Bottom Layer 
-Rule Violations :17
+Rule Violations :16
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
 Rule Violations :0
@@ -844,6 +844,7 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :1
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (0.125mm < 0.2mm) Between Board Edge And Pad PDN?-1(51.25mm,25.5mm) on Top Layer 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "C109" (-21.726mm,16.549mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "C110" (-20.913mm,17.336mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "C5" (41.952mm,23.585mm) on Bottom Overlay 
@@ -857,6 +858,7 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "J1" (56.786mm,23.585mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "M3" (23.969mm,28.766mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "M4" (-1.609mm,28.817mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "PDN?" (47.058mm,28.207mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "Q18" (-18.144mm,28.639mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "R13" (51.225mm,0.604mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.126mm < 0.2mm) Between Board Edge And Text "R41" (38.879mm,22.365mm) on Top Overlay 
@@ -865,12 +867,12 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (60.38mm,1.023mm)(60.38mm,2.358mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (60.38mm,1.023mm)(70.23mm,1.023mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (70.23mm,1.023mm)(70.23mm,2.358mm) on Top Overlay 
-Rule Violations :21
+Rule Violations :23
 
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 816
+Violations Detected : 818
 Waived Violations : 0
 Time Elapsed        : 00:00:01
