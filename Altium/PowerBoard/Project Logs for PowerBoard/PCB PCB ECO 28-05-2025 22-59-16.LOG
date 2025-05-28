@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=IC6 NewDesignator=RT2
+Change Component Designator: OldDesignator=IC7 NewDesignator=RT1
+Change Component Designator: OldDesignator=IC9 NewDesignator=RT4
+Change Component Designator: OldDesignator=IC10 NewDesignator=RT3
+Change Component Designator: OldDesignator=IC11 NewDesignator=RT5
+Change Component Designator: OldDesignator=PDN? NewDesignator=PDN1
+Change Net Name : Old Net Name=NetIC6_1 New Net Name=NetRT2_1
+Change Net Name : Old Net Name=NetIC7_1 New Net Name=NetRT1_1
