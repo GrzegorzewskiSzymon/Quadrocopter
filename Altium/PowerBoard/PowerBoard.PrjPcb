@@ -268,7 +268,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KQXTZQSC
 
 [Document14]
 DocumentPath=ESC_B.SchDoc
@@ -285,7 +285,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LXAXAQLC
 
 [Document15]
 DocumentPath=ESC_C.SchDoc
@@ -322,23 +322,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=..\..\Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
 DocumentPath=PCB.pdnaK
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1215,7 +1198,7 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
@@ -1369,10 +1352,10 @@ Type160=0
 Type161=0
 
 [ERC Connection Matrix]
-L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
-L4=NNENNNWEENNWNENWN
+L1=NNNNNNNNNNNNNNNNW
+L2=NNNNNNNWWWNNNWNNN
+L3=NNNNNEEEENENNEENN
+L4=NNNNNNWEENNWNENNN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
@@ -1380,11 +1363,11 @@ L8=NWEENEENEEENNEENN
 L9=NWEENEEEENEWNEEWW
 L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
-L12=WWWWNWWNWWWNWWWNN
+L12=NNNWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
 L14=NWEENEEEENEWNEEWW
 L15=NNENNNNEEENWNENWW
-L16=WWWWNWWNWWWNWWWNW
+L16=NNNNNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
