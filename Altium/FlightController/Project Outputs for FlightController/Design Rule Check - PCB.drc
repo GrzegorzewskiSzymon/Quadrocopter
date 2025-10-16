@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\szymo\Desktop\Quadrocopter\Altium\FlightController\PCB.PcbDoc
-Date     : 01/10/2025
-Time     : 22:32:26
+Date     : 16/10/2025
+Time     : 22:00:46
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -133,7 +133,6 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.01mm < 0.2mm) Between Arc (73.675mm,14.62mm) on Top Overlay And Board Edge 
    Violation between Board Outline Clearance(Outline Edge): (0.01mm < 0.2mm) Between Arc (73.675mm,14.62mm) on Top Overlay And Board Edge 
    Violation between Board Outline Clearance(Cutout Edge): (0.133mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Text "C5" (13.35mm,3.55mm) on Top Overlay 
-   Violation between Board Outline Clearance(Cutout Edge): (0.16mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Text "C54" (19.67mm,3.134mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.175mm < 0.2mm) Between Board Edge And Pad J2-2(1.275mm,-7.3mm) on Top Layer 
    Violation between Board Outline Clearance(Outline Edge): (0.175mm < 0.2mm) Between Board Edge And Pad J2-3(1.275mm,-4.35mm) on Top Layer 
    Violation between Board Outline Clearance(Outline Edge): (0.025mm < 0.2mm) Between Board Edge And Text "C10" (0.175mm,0.45mm) on Top Overlay 
@@ -153,12 +152,12 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-0.025mm,-7.125mm)(-0.025mm,-4.525mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (17.375mm,15.8mm)(20.375mm,15.8mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (17.375mm,-15.8mm)(20.375mm,-15.8mm) on Top Overlay 
-Rule Violations :24
+Rule Violations :23
 
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 101
+Violations Detected : 100
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
